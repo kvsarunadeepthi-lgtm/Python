@@ -1,0 +1,61 @@
+{
+  "table_name": "customer",
+  "source_file_path": "sample_data/customers.csv",
+  "oracle_table_name": "CUSTOMERS_CDC",
+  "business_keys": ["CUSTOMER_ID"],
+  "timestamp_column": "CDC_TIMESTAMP",
+  "start_date_column": "START_DATE",
+  "end_date_column": "END_DATE",
+  "row_status_column": "RECORD_STATUS",
+  "columns": [
+    {
+      "name": "CUSTOMER_ID",
+      "data_type": "NUMBER(10)",
+      "is_primary_key": true,
+      "is_business_key": true,
+      "nullable": false
+    },
+    {
+      "name": "CUSTOMER_NAME",
+      "data_type": "VARCHAR2(100)",
+      "is_primary_key": false,
+      "is_business_key": false,
+      "nullable": false
+    },
+    {
+      "name": "EMAIL",
+      "data_type": "VARCHAR2(100)",
+      "is_primary_key": false,
+      "is_business_key": false,
+      "nullable": true
+    },
+    {
+      "name": "PHONE",
+      "data_type": "VARCHAR2(20)",
+      "is_primary_key": false,
+      "is_business_key": false,
+      "nullable": true
+    },
+    {
+      "name": "ADDRESS",
+      "data_type": "VARCHAR2(200)",
+      "is_primary_key": false,
+      "is_business_key": false,
+      "nullable": true
+    },
+    {
+      "name": "CITY",
+      "data_type": "VARCHAR2(50)",
+      "is_primary_key": false,
+      "is_business_key": false,
+      "nullable": true
+    },
+    {
+      "name": "STATUS",
+      "data_type": "VARCHAR2(10)",
+      "is_primary_key": false,
+      "is_business_key": false,
+      "nullable": true
+    }
+  ]
+}
