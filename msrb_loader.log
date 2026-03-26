@@ -1,0 +1,2928 @@
+2026-03-26 21:06:42,011 - [INFO] - Table MSRB_REGISTRANTS ready
+2026-03-26 21:06:42,011 - [INFO] - Connected to database: C:\Users\User\OneDrive\Documents\py_task\msrb_warehouse.db
+2026-03-26 21:06:42,011 - [INFO] - 
+================================================================================
+2026-03-26 21:06:42,027 - [INFO] - Starting MSRB SCD Type 2 Load
+2026-03-26 21:06:42,028 - [INFO] - ================================================================================
+2026-03-26 21:06:42,036 - [INFO] - Loaded 925 records from C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-03-26 21:06:42,038 - [INFO] - 
+Processing 925 source records...
+2026-03-26 21:06:42,039 - [WARNING] - Row 0: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,040 - [WARNING] - Row 1: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,040 - [WARNING] - Row 2: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,041 - [WARNING] - Row 3: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,041 - [WARNING] - Row 4: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,042 - [WARNING] - Row 5: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,043 - [WARNING] - Row 6: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,044 - [WARNING] - Row 7: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,045 - [WARNING] - Row 8: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,046 - [WARNING] - Row 9: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,046 - [WARNING] - Row 10: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,047 - [WARNING] - Row 11: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,048 - [WARNING] - Row 12: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,048 - [WARNING] - Row 13: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,049 - [WARNING] - Row 14: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,049 - [WARNING] - Row 15: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,050 - [WARNING] - Row 16: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,050 - [WARNING] - Row 17: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,051 - [WARNING] - Row 18: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,051 - [WARNING] - Row 19: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,052 - [WARNING] - Row 20: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,052 - [WARNING] - Row 21: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,053 - [WARNING] - Row 22: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,054 - [WARNING] - Row 23: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,054 - [WARNING] - Row 24: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,055 - [WARNING] - Row 25: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,055 - [WARNING] - Row 26: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,056 - [WARNING] - Row 27: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,056 - [WARNING] - Row 28: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,057 - [WARNING] - Row 29: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,057 - [WARNING] - Row 30: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,058 - [WARNING] - Row 31: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,058 - [WARNING] - Row 32: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,059 - [WARNING] - Row 33: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,059 - [WARNING] - Row 34: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,060 - [WARNING] - Row 35: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,061 - [WARNING] - Row 36: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,061 - [WARNING] - Row 37: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,063 - [WARNING] - Row 38: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,063 - [WARNING] - Row 39: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,063 - [WARNING] - Row 40: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,063 - [WARNING] - Row 41: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,063 - [WARNING] - Row 42: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,063 - [WARNING] - Row 43: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,063 - [WARNING] - Row 44: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,063 - [WARNING] - Row 45: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,063 - [WARNING] - Row 46: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,068 - [WARNING] - Row 47: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,068 - [WARNING] - Row 48: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,069 - [WARNING] - Row 49: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,069 - [WARNING] - Row 50: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,070 - [WARNING] - Row 51: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,070 - [WARNING] - Row 52: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,071 - [WARNING] - Row 53: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,071 - [WARNING] - Row 54: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,071 - [WARNING] - Row 55: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,073 - [WARNING] - Row 56: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,073 - [WARNING] - Row 57: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,074 - [WARNING] - Row 58: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,074 - [WARNING] - Row 59: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,075 - [WARNING] - Row 60: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,075 - [WARNING] - Row 61: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,075 - [WARNING] - Row 62: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,079 - [WARNING] - Row 63: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,080 - [WARNING] - Row 64: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,081 - [WARNING] - Row 65: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,082 - [WARNING] - Row 66: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,083 - [WARNING] - Row 67: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,084 - [WARNING] - Row 68: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,084 - [WARNING] - Row 69: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,086 - [WARNING] - Row 70: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,086 - [WARNING] - Row 71: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,087 - [WARNING] - Row 72: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,088 - [WARNING] - Row 73: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,088 - [WARNING] - Row 74: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,089 - [WARNING] - Row 75: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,089 - [WARNING] - Row 76: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,090 - [WARNING] - Row 77: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,090 - [WARNING] - Row 78: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,090 - [WARNING] - Row 79: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,091 - [WARNING] - Row 80: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,092 - [WARNING] - Row 81: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,093 - [WARNING] - Row 82: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,094 - [WARNING] - Row 83: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,094 - [WARNING] - Row 84: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,095 - [WARNING] - Row 85: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,096 - [WARNING] - Row 86: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,097 - [WARNING] - Row 87: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,098 - [WARNING] - Row 88: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,099 - [WARNING] - Row 89: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,100 - [WARNING] - Row 90: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,101 - [WARNING] - Row 91: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,102 - [WARNING] - Row 92: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,106 - [WARNING] - Row 93: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,108 - [WARNING] - Row 94: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,108 - [WARNING] - Row 95: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,108 - [WARNING] - Row 96: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,112 - [WARNING] - Row 97: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,112 - [WARNING] - Row 98: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,114 - [WARNING] - Row 99: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,115 - [WARNING] - Row 100: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,116 - [WARNING] - Row 101: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,116 - [WARNING] - Row 102: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,117 - [WARNING] - Row 103: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,118 - [WARNING] - Row 104: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,118 - [WARNING] - Row 105: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,119 - [WARNING] - Row 106: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,120 - [WARNING] - Row 107: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,121 - [WARNING] - Row 108: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,122 - [WARNING] - Row 109: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,123 - [WARNING] - Row 110: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,123 - [WARNING] - Row 111: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,124 - [WARNING] - Row 112: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,124 - [WARNING] - Row 113: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,124 - [WARNING] - Row 114: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,125 - [WARNING] - Row 115: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,126 - [WARNING] - Row 116: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,126 - [WARNING] - Row 117: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,126 - [WARNING] - Row 118: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,128 - [WARNING] - Row 119: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,128 - [WARNING] - Row 120: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,129 - [WARNING] - Row 121: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,129 - [WARNING] - Row 122: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,130 - [WARNING] - Row 123: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,131 - [WARNING] - Row 124: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,131 - [WARNING] - Row 125: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,132 - [WARNING] - Row 126: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,132 - [WARNING] - Row 127: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,133 - [WARNING] - Row 128: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,133 - [WARNING] - Row 129: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,134 - [WARNING] - Row 130: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,134 - [WARNING] - Row 131: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,134 - [WARNING] - Row 132: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,135 - [WARNING] - Row 133: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,136 - [WARNING] - Row 134: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,136 - [WARNING] - Row 135: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,137 - [WARNING] - Row 136: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,138 - [WARNING] - Row 137: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,138 - [WARNING] - Row 138: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,139 - [WARNING] - Row 139: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,139 - [WARNING] - Row 140: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,140 - [WARNING] - Row 141: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,141 - [WARNING] - Row 142: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,141 - [WARNING] - Row 143: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,142 - [WARNING] - Row 144: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,142 - [WARNING] - Row 145: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,143 - [WARNING] - Row 146: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,144 - [WARNING] - Row 147: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,144 - [WARNING] - Row 148: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,145 - [WARNING] - Row 149: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,146 - [WARNING] - Row 150: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,147 - [WARNING] - Row 151: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,147 - [WARNING] - Row 152: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,148 - [WARNING] - Row 153: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,148 - [WARNING] - Row 154: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,149 - [WARNING] - Row 155: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,149 - [WARNING] - Row 156: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,150 - [WARNING] - Row 157: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,150 - [WARNING] - Row 158: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,151 - [WARNING] - Row 159: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,152 - [WARNING] - Row 160: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,152 - [WARNING] - Row 161: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,153 - [WARNING] - Row 162: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,153 - [WARNING] - Row 163: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,154 - [WARNING] - Row 164: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,154 - [WARNING] - Row 165: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,155 - [WARNING] - Row 166: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,156 - [WARNING] - Row 167: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,156 - [WARNING] - Row 168: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,157 - [WARNING] - Row 169: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,158 - [WARNING] - Row 170: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,158 - [WARNING] - Row 171: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,159 - [WARNING] - Row 172: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,160 - [WARNING] - Row 173: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,161 - [WARNING] - Row 174: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,162 - [WARNING] - Row 175: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,162 - [WARNING] - Row 176: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,163 - [WARNING] - Row 177: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,164 - [WARNING] - Row 178: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,164 - [WARNING] - Row 179: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,165 - [WARNING] - Row 180: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,165 - [WARNING] - Row 181: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,165 - [WARNING] - Row 182: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,165 - [WARNING] - Row 183: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,165 - [WARNING] - Row 184: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,165 - [WARNING] - Row 185: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,165 - [WARNING] - Row 186: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,165 - [WARNING] - Row 187: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,165 - [WARNING] - Row 188: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,165 - [WARNING] - Row 189: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,171 - [WARNING] - Row 190: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,171 - [WARNING] - Row 191: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,172 - [WARNING] - Row 192: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,172 - [WARNING] - Row 193: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,173 - [WARNING] - Row 194: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,174 - [WARNING] - Row 195: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,174 - [WARNING] - Row 196: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,175 - [WARNING] - Row 197: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,176 - [WARNING] - Row 198: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,176 - [WARNING] - Row 199: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,177 - [WARNING] - Row 200: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,178 - [WARNING] - Row 201: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,179 - [WARNING] - Row 202: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,179 - [WARNING] - Row 203: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,180 - [WARNING] - Row 204: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,180 - [WARNING] - Row 205: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,181 - [WARNING] - Row 206: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,182 - [WARNING] - Row 207: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,182 - [WARNING] - Row 208: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,183 - [WARNING] - Row 209: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,183 - [WARNING] - Row 210: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,184 - [WARNING] - Row 211: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,185 - [WARNING] - Row 212: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,185 - [WARNING] - Row 213: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,186 - [WARNING] - Row 214: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,187 - [WARNING] - Row 215: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,187 - [WARNING] - Row 216: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,188 - [WARNING] - Row 217: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,188 - [WARNING] - Row 218: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,189 - [WARNING] - Row 219: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,189 - [WARNING] - Row 220: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,189 - [WARNING] - Row 221: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,190 - [WARNING] - Row 222: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,190 - [WARNING] - Row 223: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,191 - [WARNING] - Row 224: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,192 - [WARNING] - Row 225: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,192 - [WARNING] - Row 226: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,193 - [WARNING] - Row 227: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,194 - [WARNING] - Row 228: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,194 - [WARNING] - Row 229: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,195 - [WARNING] - Row 230: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,195 - [WARNING] - Row 231: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,196 - [WARNING] - Row 232: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,197 - [WARNING] - Row 233: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,198 - [WARNING] - Row 234: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,198 - [WARNING] - Row 235: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,199 - [WARNING] - Row 236: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,200 - [WARNING] - Row 237: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,200 - [WARNING] - Row 238: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,201 - [WARNING] - Row 239: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,201 - [WARNING] - Row 240: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,202 - [WARNING] - Row 241: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,202 - [WARNING] - Row 242: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,203 - [WARNING] - Row 243: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,204 - [WARNING] - Row 244: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,204 - [WARNING] - Row 245: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,205 - [WARNING] - Row 246: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,205 - [WARNING] - Row 247: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,206 - [WARNING] - Row 248: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,206 - [WARNING] - Row 249: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,207 - [WARNING] - Row 250: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,208 - [WARNING] - Row 251: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,209 - [WARNING] - Row 252: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,209 - [WARNING] - Row 253: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,210 - [WARNING] - Row 254: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,211 - [WARNING] - Row 255: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,211 - [WARNING] - Row 256: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,211 - [WARNING] - Row 257: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,211 - [WARNING] - Row 258: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,214 - [WARNING] - Row 259: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,214 - [WARNING] - Row 260: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,215 - [WARNING] - Row 261: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,215 - [WARNING] - Row 262: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,215 - [WARNING] - Row 263: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,215 - [WARNING] - Row 264: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,216 - [WARNING] - Row 265: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,216 - [WARNING] - Row 266: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,216 - [WARNING] - Row 267: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,217 - [WARNING] - Row 268: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,217 - [WARNING] - Row 269: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,219 - [WARNING] - Row 270: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,220 - [WARNING] - Row 271: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,220 - [WARNING] - Row 272: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,221 - [WARNING] - Row 273: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,222 - [WARNING] - Row 274: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,222 - [WARNING] - Row 275: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,223 - [WARNING] - Row 276: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,224 - [WARNING] - Row 277: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,224 - [WARNING] - Row 278: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,225 - [WARNING] - Row 279: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,225 - [WARNING] - Row 280: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,226 - [WARNING] - Row 281: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,228 - [WARNING] - Row 282: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,229 - [WARNING] - Row 283: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,230 - [WARNING] - Row 284: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,231 - [WARNING] - Row 285: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,231 - [WARNING] - Row 286: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,232 - [WARNING] - Row 287: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,232 - [WARNING] - Row 288: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,232 - [WARNING] - Row 289: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,233 - [WARNING] - Row 290: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,233 - [WARNING] - Row 291: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,234 - [WARNING] - Row 292: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,235 - [WARNING] - Row 293: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,235 - [WARNING] - Row 294: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,235 - [WARNING] - Row 295: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,235 - [WARNING] - Row 296: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,235 - [WARNING] - Row 297: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,235 - [WARNING] - Row 298: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,235 - [WARNING] - Row 299: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,235 - [WARNING] - Row 300: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,235 - [WARNING] - Row 301: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,235 - [WARNING] - Row 302: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,240 - [WARNING] - Row 303: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,241 - [WARNING] - Row 304: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,241 - [WARNING] - Row 305: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,242 - [WARNING] - Row 306: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,242 - [WARNING] - Row 307: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,243 - [WARNING] - Row 308: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,243 - [WARNING] - Row 309: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,244 - [WARNING] - Row 310: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,245 - [WARNING] - Row 311: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,246 - [WARNING] - Row 312: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,247 - [WARNING] - Row 313: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,247 - [WARNING] - Row 314: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,248 - [WARNING] - Row 315: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,248 - [WARNING] - Row 316: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,249 - [WARNING] - Row 317: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,249 - [WARNING] - Row 318: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,250 - [WARNING] - Row 319: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,251 - [WARNING] - Row 320: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,251 - [WARNING] - Row 321: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,252 - [WARNING] - Row 322: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,252 - [WARNING] - Row 323: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,253 - [WARNING] - Row 324: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,253 - [WARNING] - Row 325: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,254 - [WARNING] - Row 326: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,254 - [WARNING] - Row 327: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,255 - [WARNING] - Row 328: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,255 - [WARNING] - Row 329: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,256 - [WARNING] - Row 330: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,257 - [WARNING] - Row 331: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,257 - [WARNING] - Row 332: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,258 - [WARNING] - Row 333: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,259 - [WARNING] - Row 334: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,259 - [WARNING] - Row 335: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,260 - [WARNING] - Row 336: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,262 - [WARNING] - Row 337: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,262 - [WARNING] - Row 338: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,263 - [WARNING] - Row 339: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,264 - [WARNING] - Row 340: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,264 - [WARNING] - Row 341: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,265 - [WARNING] - Row 342: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,265 - [WARNING] - Row 343: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,265 - [WARNING] - Row 344: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,266 - [WARNING] - Row 345: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,266 - [WARNING] - Row 346: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,267 - [WARNING] - Row 347: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,267 - [WARNING] - Row 348: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,268 - [WARNING] - Row 349: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,268 - [WARNING] - Row 350: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,268 - [WARNING] - Row 351: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,268 - [WARNING] - Row 352: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,271 - [WARNING] - Row 353: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,272 - [WARNING] - Row 354: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,272 - [WARNING] - Row 355: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,273 - [WARNING] - Row 356: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,273 - [WARNING] - Row 357: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,274 - [WARNING] - Row 358: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,275 - [WARNING] - Row 359: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,275 - [WARNING] - Row 360: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,276 - [WARNING] - Row 361: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,277 - [WARNING] - Row 362: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,278 - [WARNING] - Row 363: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,279 - [WARNING] - Row 364: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,280 - [WARNING] - Row 365: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,280 - [WARNING] - Row 366: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,281 - [WARNING] - Row 367: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,282 - [WARNING] - Row 368: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,283 - [WARNING] - Row 369: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,283 - [WARNING] - Row 370: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,283 - [WARNING] - Row 371: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,284 - [WARNING] - Row 372: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,284 - [WARNING] - Row 373: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,285 - [WARNING] - Row 374: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,285 - [WARNING] - Row 375: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,286 - [WARNING] - Row 376: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,286 - [WARNING] - Row 377: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,286 - [WARNING] - Row 378: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,287 - [WARNING] - Row 379: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,288 - [WARNING] - Row 380: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,288 - [WARNING] - Row 381: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,289 - [WARNING] - Row 382: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,289 - [WARNING] - Row 383: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,290 - [WARNING] - Row 384: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,290 - [WARNING] - Row 385: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,290 - [WARNING] - Row 386: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,291 - [WARNING] - Row 387: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,291 - [WARNING] - Row 388: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,292 - [WARNING] - Row 389: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,294 - [WARNING] - Row 390: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,294 - [WARNING] - Row 391: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,295 - [WARNING] - Row 392: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,295 - [WARNING] - Row 393: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,296 - [WARNING] - Row 394: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,296 - [WARNING] - Row 395: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,297 - [WARNING] - Row 396: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,298 - [WARNING] - Row 397: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,298 - [WARNING] - Row 398: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,299 - [WARNING] - Row 399: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,300 - [WARNING] - Row 400: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,300 - [WARNING] - Row 401: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,301 - [WARNING] - Row 402: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,301 - [WARNING] - Row 403: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,302 - [WARNING] - Row 404: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,302 - [WARNING] - Row 405: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,303 - [WARNING] - Row 406: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,304 - [WARNING] - Row 407: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,305 - [WARNING] - Row 408: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,305 - [WARNING] - Row 409: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,306 - [WARNING] - Row 410: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,306 - [WARNING] - Row 411: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,307 - [WARNING] - Row 412: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,307 - [WARNING] - Row 413: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,308 - [WARNING] - Row 414: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,308 - [WARNING] - Row 415: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,309 - [WARNING] - Row 416: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,311 - [WARNING] - Row 417: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,311 - [WARNING] - Row 418: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,312 - [WARNING] - Row 419: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,313 - [WARNING] - Row 420: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,313 - [WARNING] - Row 421: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,314 - [WARNING] - Row 422: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,314 - [WARNING] - Row 423: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,315 - [WARNING] - Row 424: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,317 - [WARNING] - Row 425: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,317 - [WARNING] - Row 426: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,318 - [WARNING] - Row 427: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,318 - [WARNING] - Row 428: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,319 - [WARNING] - Row 429: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,319 - [WARNING] - Row 430: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,320 - [WARNING] - Row 431: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,320 - [WARNING] - Row 432: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,321 - [WARNING] - Row 433: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,321 - [WARNING] - Row 434: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,323 - [WARNING] - Row 435: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,323 - [WARNING] - Row 436: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,324 - [WARNING] - Row 437: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,324 - [WARNING] - Row 438: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,325 - [WARNING] - Row 439: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,325 - [WARNING] - Row 440: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,326 - [WARNING] - Row 441: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,326 - [WARNING] - Row 442: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,327 - [WARNING] - Row 443: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,328 - [WARNING] - Row 444: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,329 - [WARNING] - Row 445: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,329 - [WARNING] - Row 446: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,330 - [WARNING] - Row 447: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,331 - [WARNING] - Row 448: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,331 - [WARNING] - Row 449: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,332 - [WARNING] - Row 450: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,333 - [WARNING] - Row 451: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,333 - [WARNING] - Row 452: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,334 - [WARNING] - Row 453: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,334 - [WARNING] - Row 454: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,335 - [WARNING] - Row 455: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,336 - [WARNING] - Row 456: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,336 - [WARNING] - Row 457: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,337 - [WARNING] - Row 458: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,338 - [WARNING] - Row 459: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,338 - [WARNING] - Row 460: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,339 - [WARNING] - Row 461: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,339 - [WARNING] - Row 462: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,340 - [WARNING] - Row 463: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,340 - [WARNING] - Row 464: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,341 - [WARNING] - Row 465: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,341 - [WARNING] - Row 466: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,342 - [WARNING] - Row 467: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,342 - [WARNING] - Row 468: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,343 - [WARNING] - Row 469: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,344 - [WARNING] - Row 470: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,344 - [WARNING] - Row 471: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,344 - [WARNING] - Row 472: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,345 - [WARNING] - Row 473: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,346 - [WARNING] - Row 474: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,346 - [WARNING] - Row 475: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,347 - [WARNING] - Row 476: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,348 - [WARNING] - Row 477: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,348 - [WARNING] - Row 478: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,349 - [WARNING] - Row 479: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,349 - [WARNING] - Row 480: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,351 - [WARNING] - Row 481: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,351 - [WARNING] - Row 482: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,352 - [WARNING] - Row 483: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,353 - [WARNING] - Row 484: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,353 - [WARNING] - Row 485: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,354 - [WARNING] - Row 486: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,354 - [WARNING] - Row 487: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,354 - [WARNING] - Row 488: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,355 - [WARNING] - Row 489: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,355 - [WARNING] - Row 490: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,356 - [WARNING] - Row 491: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,356 - [WARNING] - Row 492: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,357 - [WARNING] - Row 493: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,358 - [WARNING] - Row 494: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,358 - [WARNING] - Row 495: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,359 - [WARNING] - Row 496: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,359 - [WARNING] - Row 497: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,360 - [WARNING] - Row 498: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,361 - [WARNING] - Row 499: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,362 - [WARNING] - Row 500: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,363 - [WARNING] - Row 501: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,364 - [WARNING] - Row 502: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,365 - [WARNING] - Row 503: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,366 - [WARNING] - Row 504: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,367 - [WARNING] - Row 505: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,367 - [WARNING] - Row 506: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,369 - [WARNING] - Row 507: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,370 - [WARNING] - Row 508: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,370 - [WARNING] - Row 509: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,371 - [WARNING] - Row 510: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,371 - [WARNING] - Row 511: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,372 - [WARNING] - Row 512: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,373 - [WARNING] - Row 513: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,374 - [WARNING] - Row 514: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,375 - [WARNING] - Row 515: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,375 - [WARNING] - Row 516: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,376 - [WARNING] - Row 517: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,376 - [WARNING] - Row 518: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,377 - [WARNING] - Row 519: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,377 - [WARNING] - Row 520: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,378 - [WARNING] - Row 521: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,379 - [WARNING] - Row 522: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,380 - [WARNING] - Row 523: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,380 - [WARNING] - Row 524: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,381 - [WARNING] - Row 525: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,381 - [WARNING] - Row 526: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,382 - [WARNING] - Row 527: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,383 - [WARNING] - Row 528: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,383 - [WARNING] - Row 529: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,384 - [WARNING] - Row 530: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,385 - [WARNING] - Row 531: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,385 - [WARNING] - Row 532: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,386 - [WARNING] - Row 533: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,386 - [WARNING] - Row 534: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,387 - [WARNING] - Row 535: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,387 - [WARNING] - Row 536: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,388 - [WARNING] - Row 537: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,389 - [WARNING] - Row 538: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,389 - [WARNING] - Row 539: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,390 - [WARNING] - Row 540: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,390 - [WARNING] - Row 541: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,391 - [WARNING] - Row 542: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,391 - [WARNING] - Row 543: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,392 - [WARNING] - Row 544: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,392 - [WARNING] - Row 545: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,393 - [WARNING] - Row 546: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,394 - [WARNING] - Row 547: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,395 - [WARNING] - Row 548: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,396 - [WARNING] - Row 549: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,396 - [WARNING] - Row 550: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,397 - [WARNING] - Row 551: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,397 - [WARNING] - Row 552: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,398 - [WARNING] - Row 553: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,399 - [WARNING] - Row 554: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,399 - [WARNING] - Row 555: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,400 - [WARNING] - Row 556: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,400 - [WARNING] - Row 557: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,401 - [WARNING] - Row 558: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,401 - [WARNING] - Row 559: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,402 - [WARNING] - Row 560: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,402 - [WARNING] - Row 561: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,403 - [WARNING] - Row 562: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,403 - [WARNING] - Row 563: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,404 - [WARNING] - Row 564: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,405 - [WARNING] - Row 565: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,405 - [WARNING] - Row 566: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,406 - [WARNING] - Row 567: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,406 - [WARNING] - Row 568: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,406 - [WARNING] - Row 569: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,407 - [WARNING] - Row 570: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,407 - [WARNING] - Row 571: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,408 - [WARNING] - Row 572: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,409 - [WARNING] - Row 573: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,409 - [WARNING] - Row 574: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,411 - [WARNING] - Row 575: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,411 - [WARNING] - Row 576: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,411 - [WARNING] - Row 577: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,412 - [WARNING] - Row 578: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,412 - [WARNING] - Row 579: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,413 - [WARNING] - Row 580: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,413 - [WARNING] - Row 581: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,414 - [WARNING] - Row 582: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,415 - [WARNING] - Row 583: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,415 - [WARNING] - Row 584: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,416 - [WARNING] - Row 585: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,416 - [WARNING] - Row 586: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,417 - [WARNING] - Row 587: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,417 - [WARNING] - Row 588: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,418 - [WARNING] - Row 589: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,419 - [WARNING] - Row 590: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,419 - [WARNING] - Row 591: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,419 - [WARNING] - Row 592: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,420 - [WARNING] - Row 593: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,421 - [WARNING] - Row 594: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,421 - [WARNING] - Row 595: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,421 - [WARNING] - Row 596: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,421 - [WARNING] - Row 597: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,421 - [WARNING] - Row 598: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,421 - [WARNING] - Row 599: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,425 - [WARNING] - Row 600: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,425 - [WARNING] - Row 601: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,426 - [WARNING] - Row 602: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,427 - [WARNING] - Row 603: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,428 - [WARNING] - Row 604: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,428 - [WARNING] - Row 605: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,429 - [WARNING] - Row 606: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,430 - [WARNING] - Row 607: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,431 - [WARNING] - Row 608: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,431 - [WARNING] - Row 609: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,432 - [WARNING] - Row 610: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,432 - [WARNING] - Row 611: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,433 - [WARNING] - Row 612: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,433 - [WARNING] - Row 613: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,434 - [WARNING] - Row 614: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,435 - [WARNING] - Row 615: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,435 - [WARNING] - Row 616: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,436 - [WARNING] - Row 617: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,437 - [WARNING] - Row 618: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,437 - [WARNING] - Row 619: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,438 - [WARNING] - Row 620: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,438 - [WARNING] - Row 621: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,439 - [WARNING] - Row 622: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,439 - [WARNING] - Row 623: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,440 - [WARNING] - Row 624: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,440 - [WARNING] - Row 625: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,441 - [WARNING] - Row 626: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,441 - [WARNING] - Row 627: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,442 - [WARNING] - Row 628: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,442 - [WARNING] - Row 629: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,443 - [WARNING] - Row 630: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,443 - [WARNING] - Row 631: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,444 - [WARNING] - Row 632: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,444 - [WARNING] - Row 633: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,445 - [WARNING] - Row 634: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,446 - [WARNING] - Row 635: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,447 - [WARNING] - Row 636: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,447 - [WARNING] - Row 637: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,448 - [WARNING] - Row 638: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,448 - [WARNING] - Row 639: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,449 - [WARNING] - Row 640: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,449 - [WARNING] - Row 641: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,449 - [WARNING] - Row 642: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,450 - [WARNING] - Row 643: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,451 - [WARNING] - Row 644: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,451 - [WARNING] - Row 645: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,452 - [WARNING] - Row 646: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,452 - [WARNING] - Row 647: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,453 - [WARNING] - Row 648: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,453 - [WARNING] - Row 649: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,454 - [WARNING] - Row 650: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,454 - [WARNING] - Row 651: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,455 - [WARNING] - Row 652: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,455 - [WARNING] - Row 653: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,456 - [WARNING] - Row 654: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,457 - [WARNING] - Row 655: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,459 - [WARNING] - Row 656: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,459 - [WARNING] - Row 657: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,460 - [WARNING] - Row 658: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,461 - [WARNING] - Row 659: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,461 - [WARNING] - Row 660: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,462 - [WARNING] - Row 661: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,462 - [WARNING] - Row 662: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,463 - [WARNING] - Row 663: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,464 - [WARNING] - Row 664: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,464 - [WARNING] - Row 665: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,465 - [WARNING] - Row 666: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,466 - [WARNING] - Row 667: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,466 - [WARNING] - Row 668: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,466 - [WARNING] - Row 669: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,467 - [WARNING] - Row 670: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,467 - [WARNING] - Row 671: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,470 - [WARNING] - Row 672: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,470 - [WARNING] - Row 673: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,471 - [WARNING] - Row 674: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,471 - [WARNING] - Row 675: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,472 - [WARNING] - Row 676: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,472 - [WARNING] - Row 677: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,473 - [WARNING] - Row 678: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,473 - [WARNING] - Row 679: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,474 - [WARNING] - Row 680: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,475 - [WARNING] - Row 681: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,475 - [WARNING] - Row 682: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,477 - [WARNING] - Row 683: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,478 - [WARNING] - Row 684: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,479 - [WARNING] - Row 685: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,481 - [WARNING] - Row 686: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,481 - [WARNING] - Row 687: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,482 - [WARNING] - Row 688: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,483 - [WARNING] - Row 689: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,483 - [WARNING] - Row 690: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,484 - [WARNING] - Row 691: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,485 - [WARNING] - Row 692: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,486 - [WARNING] - Row 693: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,486 - [WARNING] - Row 694: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,487 - [WARNING] - Row 695: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,488 - [WARNING] - Row 696: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,488 - [WARNING] - Row 697: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,489 - [WARNING] - Row 698: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,489 - [WARNING] - Row 699: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,490 - [WARNING] - Row 700: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,490 - [WARNING] - Row 701: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,491 - [WARNING] - Row 702: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,492 - [WARNING] - Row 703: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,493 - [WARNING] - Row 704: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,493 - [WARNING] - Row 705: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,494 - [WARNING] - Row 706: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,494 - [WARNING] - Row 707: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,495 - [WARNING] - Row 708: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,495 - [WARNING] - Row 709: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,496 - [WARNING] - Row 710: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,496 - [WARNING] - Row 711: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,497 - [WARNING] - Row 712: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,498 - [WARNING] - Row 713: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,498 - [WARNING] - Row 714: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,499 - [WARNING] - Row 715: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,499 - [WARNING] - Row 716: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,500 - [WARNING] - Row 717: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,500 - [WARNING] - Row 718: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,501 - [WARNING] - Row 719: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,501 - [WARNING] - Row 720: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,502 - [WARNING] - Row 721: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,502 - [WARNING] - Row 722: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,503 - [WARNING] - Row 723: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,503 - [WARNING] - Row 724: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,504 - [WARNING] - Row 725: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,505 - [WARNING] - Row 726: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,505 - [WARNING] - Row 727: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,506 - [WARNING] - Row 728: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,506 - [WARNING] - Row 729: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,506 - [WARNING] - Row 730: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,507 - [WARNING] - Row 731: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,508 - [WARNING] - Row 732: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,509 - [WARNING] - Row 733: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,511 - [WARNING] - Row 734: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,511 - [WARNING] - Row 735: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,512 - [WARNING] - Row 736: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,512 - [WARNING] - Row 737: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,513 - [WARNING] - Row 738: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,514 - [WARNING] - Row 739: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,514 - [WARNING] - Row 740: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,515 - [WARNING] - Row 741: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,515 - [WARNING] - Row 742: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,516 - [WARNING] - Row 743: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,516 - [WARNING] - Row 744: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,517 - [WARNING] - Row 745: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,517 - [WARNING] - Row 746: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,518 - [WARNING] - Row 747: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,518 - [WARNING] - Row 748: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,519 - [WARNING] - Row 749: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,520 - [WARNING] - Row 750: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,520 - [WARNING] - Row 751: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,520 - [WARNING] - Row 752: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,520 - [WARNING] - Row 753: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,520 - [WARNING] - Row 754: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,520 - [WARNING] - Row 755: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,520 - [WARNING] - Row 756: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,520 - [WARNING] - Row 757: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,520 - [WARNING] - Row 758: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,526 - [WARNING] - Row 759: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,526 - [WARNING] - Row 760: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,527 - [WARNING] - Row 761: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,528 - [WARNING] - Row 762: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,528 - [WARNING] - Row 763: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,529 - [WARNING] - Row 764: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,529 - [WARNING] - Row 765: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,530 - [WARNING] - Row 766: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,531 - [WARNING] - Row 767: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,532 - [WARNING] - Row 768: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,532 - [WARNING] - Row 769: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,533 - [WARNING] - Row 770: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,533 - [WARNING] - Row 771: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,534 - [WARNING] - Row 772: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,534 - [WARNING] - Row 773: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,535 - [WARNING] - Row 774: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,535 - [WARNING] - Row 775: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,536 - [WARNING] - Row 776: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,536 - [WARNING] - Row 777: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,537 - [WARNING] - Row 778: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,537 - [WARNING] - Row 779: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,538 - [WARNING] - Row 780: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,538 - [WARNING] - Row 781: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,539 - [WARNING] - Row 782: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,539 - [WARNING] - Row 783: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,539 - [WARNING] - Row 784: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,540 - [WARNING] - Row 785: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,541 - [WARNING] - Row 786: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,542 - [WARNING] - Row 787: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,542 - [WARNING] - Row 788: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,543 - [WARNING] - Row 789: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,544 - [WARNING] - Row 790: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,544 - [WARNING] - Row 791: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,545 - [WARNING] - Row 792: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,545 - [WARNING] - Row 793: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,546 - [WARNING] - Row 794: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,546 - [WARNING] - Row 795: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,547 - [WARNING] - Row 796: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,547 - [WARNING] - Row 797: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,548 - [WARNING] - Row 798: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,548 - [WARNING] - Row 799: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,549 - [WARNING] - Row 800: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,549 - [WARNING] - Row 801: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,550 - [WARNING] - Row 802: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,550 - [WARNING] - Row 803: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,551 - [WARNING] - Row 804: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,551 - [WARNING] - Row 805: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,552 - [WARNING] - Row 806: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,553 - [WARNING] - Row 807: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,553 - [WARNING] - Row 808: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,554 - [WARNING] - Row 809: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,554 - [WARNING] - Row 810: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,555 - [WARNING] - Row 811: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,555 - [WARNING] - Row 812: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,556 - [WARNING] - Row 813: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,556 - [WARNING] - Row 814: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,557 - [WARNING] - Row 815: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,557 - [WARNING] - Row 816: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,558 - [WARNING] - Row 817: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,558 - [WARNING] - Row 818: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,559 - [WARNING] - Row 819: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,559 - [WARNING] - Row 820: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,560 - [WARNING] - Row 821: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,560 - [WARNING] - Row 822: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,561 - [WARNING] - Row 823: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,562 - [WARNING] - Row 824: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,563 - [WARNING] - Row 825: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,563 - [WARNING] - Row 826: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,564 - [WARNING] - Row 827: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,564 - [WARNING] - Row 828: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,564 - [WARNING] - Row 829: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,565 - [WARNING] - Row 830: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,565 - [WARNING] - Row 831: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,566 - [WARNING] - Row 832: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,566 - [WARNING] - Row 833: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,567 - [WARNING] - Row 834: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,568 - [WARNING] - Row 835: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,569 - [WARNING] - Row 836: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,569 - [WARNING] - Row 837: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,569 - [WARNING] - Row 838: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,569 - [WARNING] - Row 839: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,572 - [WARNING] - Row 840: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,572 - [WARNING] - Row 841: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,573 - [WARNING] - Row 842: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,573 - [WARNING] - Row 843: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,574 - [WARNING] - Row 844: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,574 - [WARNING] - Row 845: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,574 - [WARNING] - Row 846: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,575 - [WARNING] - Row 847: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,576 - [WARNING] - Row 848: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,576 - [WARNING] - Row 849: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,577 - [WARNING] - Row 850: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,578 - [WARNING] - Row 851: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,578 - [WARNING] - Row 852: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,579 - [WARNING] - Row 853: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,579 - [WARNING] - Row 854: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,580 - [WARNING] - Row 855: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,581 - [WARNING] - Row 856: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,582 - [WARNING] - Row 857: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,582 - [WARNING] - Row 858: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,583 - [WARNING] - Row 859: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,583 - [WARNING] - Row 860: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,584 - [WARNING] - Row 861: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,584 - [WARNING] - Row 862: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,585 - [WARNING] - Row 863: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,586 - [WARNING] - Row 864: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,586 - [WARNING] - Row 865: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,587 - [WARNING] - Row 866: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,588 - [WARNING] - Row 867: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,588 - [WARNING] - Row 868: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,589 - [WARNING] - Row 869: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,589 - [WARNING] - Row 870: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,590 - [WARNING] - Row 871: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,591 - [WARNING] - Row 872: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,592 - [WARNING] - Row 873: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,593 - [WARNING] - Row 874: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,594 - [WARNING] - Row 875: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,595 - [WARNING] - Row 876: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,595 - [WARNING] - Row 877: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,596 - [WARNING] - Row 878: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,596 - [WARNING] - Row 879: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,597 - [WARNING] - Row 880: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,597 - [WARNING] - Row 881: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,598 - [WARNING] - Row 882: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,599 - [WARNING] - Row 883: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,599 - [WARNING] - Row 884: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,601 - [WARNING] - Row 885: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,602 - [WARNING] - Row 886: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,602 - [WARNING] - Row 887: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,603 - [WARNING] - Row 888: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,604 - [WARNING] - Row 889: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,604 - [WARNING] - Row 890: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,605 - [WARNING] - Row 891: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,606 - [WARNING] - Row 892: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,606 - [WARNING] - Row 893: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,606 - [WARNING] - Row 894: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,606 - [WARNING] - Row 895: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,606 - [WARNING] - Row 896: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,606 - [WARNING] - Row 897: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,610 - [WARNING] - Row 898: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,611 - [WARNING] - Row 899: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,612 - [WARNING] - Row 900: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,613 - [WARNING] - Row 901: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,616 - [WARNING] - Row 902: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,618 - [WARNING] - Row 903: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,618 - [WARNING] - Row 904: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,618 - [WARNING] - Row 905: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,618 - [WARNING] - Row 906: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,618 - [WARNING] - Row 907: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,618 - [WARNING] - Row 908: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,618 - [WARNING] - Row 909: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,618 - [WARNING] - Row 910: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,618 - [WARNING] - Row 911: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,618 - [WARNING] - Row 912: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,618 - [WARNING] - Row 913: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,618 - [WARNING] - Row 914: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,618 - [WARNING] - Row 915: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,628 - [WARNING] - Row 916: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,629 - [WARNING] - Row 917: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,630 - [WARNING] - Row 918: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,631 - [WARNING] - Row 919: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,632 - [WARNING] - Row 920: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,633 - [WARNING] - Row 921: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,633 - [WARNING] - Row 922: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,634 - [WARNING] - Row 923: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,635 - [WARNING] - Row 924: Missing MSRB_ID, skipping
+2026-03-26 21:06:42,635 - [INFO] - 
+Detecting EXPIRE records...
+2026-03-26 21:06:42,636 - [INFO] - 
+================================================================================
+2026-03-26 21:06:42,637 - [INFO] - MSRB SCD Type 2 Load Summary
+2026-03-26 21:06:42,637 - [INFO] - ================================================================================
+2026-03-26 21:06:42,638 - [INFO] - INSERTS:   0
+2026-03-26 21:06:42,639 - [INFO] - UPDATES:   0
+2026-03-26 21:06:42,639 - [INFO] - EXPIRES:   0
+2026-03-26 21:06:42,640 - [INFO] - NO CHANGE: 0
+2026-03-26 21:06:42,640 - [INFO] - ================================================================================
+
+2026-03-26 21:06:42,654 - [INFO] - Exported 0 current records to C:\Users\User\OneDrive\Documents\py_task\output\MSRB_current.csv
+2026-03-26 21:06:42,662 - [INFO] - Exported 0 history records to C:\Users\User\OneDrive\Documents\py_task\output\MSRB_history.csv
+2026-03-26 21:06:42,663 - [INFO] - Database connection closed
+2026-03-26 21:10:55,032 - [INFO] - Table MSRB_REGISTRANTS ready
+2026-03-26 21:10:55,032 - [INFO] - Connected to database: C:\Users\User\OneDrive\Documents\py_task\msrb_warehouse.db
+2026-03-26 21:10:55,032 - [INFO] - 
+================================================================================
+2026-03-26 21:10:55,044 - [INFO] - Starting MSRB SCD Type 2 Load
+2026-03-26 21:10:55,044 - [INFO] - ================================================================================
+2026-03-26 21:10:55,053 - [INFO] - Loaded 925 records from C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-03-26 21:10:55,055 - [INFO] - 
+Processing 925 source records...
+2026-03-26 21:10:55,056 - [INFO] -   INSERT: A5503
+2026-03-26 21:10:55,057 - [INFO] -   INSERT: A7464
+2026-03-26 21:10:55,058 - [INFO] -   INSERT: A7189
+2026-03-26 21:10:55,059 - [INFO] -   INSERT: A6913
+2026-03-26 21:10:55,061 - [INFO] -   INSERT: A5988
+2026-03-26 21:10:55,061 - [INFO] -   INSERT: A5915
+2026-03-26 21:10:55,062 - [INFO] -   INSERT: A2966
+2026-03-26 21:10:55,062 - [INFO] -   INSERT: A5189
+2026-03-26 21:10:55,063 - [INFO] -   INSERT: A7631
+2026-03-26 21:10:55,064 - [INFO] -   INSERT: A0887
+2026-03-26 21:10:55,065 - [INFO] -   INSERT: A2043
+2026-03-26 21:10:55,067 - [INFO] -   INSERT: A4803
+2026-03-26 21:10:55,068 - [INFO] -   INSERT: A6421
+2026-03-26 21:10:55,068 - [INFO] -   INSERT: A0377
+2026-03-26 21:10:55,069 - [INFO] -   INSERT: A0786
+2026-03-26 21:10:55,069 - [INFO] -   INSERT: A3616
+2026-03-26 21:10:55,070 - [INFO] -   INSERT: A7641
+2026-03-26 21:10:55,071 - [INFO] -   INSERT: A1357
+2026-03-26 21:10:55,071 - [INFO] -   INSERT: A1145
+2026-03-26 21:10:55,072 - [INFO] -   INSERT: A7334
+2026-03-26 21:10:55,072 - [INFO] -   INSERT: A6883
+2026-03-26 21:10:55,073 - [INFO] -   INSERT: A0231
+2026-03-26 21:10:55,074 - [INFO] -   INSERT: A4865
+2026-03-26 21:10:55,074 - [INFO] -   INSERT: A7482
+2026-03-26 21:10:55,075 - [INFO] -   INSERT: A5952
+2026-03-26 21:10:55,075 - [INFO] -   INSERT: A6123
+2026-03-26 21:10:55,076 - [INFO] -   INSERT: A6670
+2026-03-26 21:10:55,077 - [INFO] -   INSERT: A3246
+2026-03-26 21:10:55,078 - [INFO] -   INSERT: A5964
+2026-03-26 21:10:55,078 - [INFO] -   INSERT: A6574
+2026-03-26 21:10:55,079 - [INFO] -   INSERT: A6781
+2026-03-26 21:10:55,080 - [INFO] -   INSERT: A3638
+2026-03-26 21:10:55,081 - [INFO] -   INSERT: A7128
+2026-03-26 21:10:55,083 - [INFO] -   INSERT: A7474
+2026-03-26 21:10:55,083 - [INFO] -   INSERT: A0364
+2026-03-26 21:10:55,083 - [INFO] -   INSERT: A0850
+2026-03-26 21:10:55,083 - [INFO] -   INSERT: A7038
+2026-03-26 21:10:55,083 - [INFO] -   INSERT: A7574
+2026-03-26 21:10:55,083 - [INFO] -   INSERT: A7563
+2026-03-26 21:10:55,083 - [INFO] -   INSERT: A5865
+2026-03-26 21:10:55,083 - [INFO] -   INSERT: A7368
+2026-03-26 21:10:55,083 - [INFO] -   INSERT: A6486
+2026-03-26 21:10:55,089 - [INFO] -   INSERT: A7428
+2026-03-26 21:10:55,090 - [INFO] -   INSERT: A7523
+2026-03-26 21:10:55,090 - [INFO] -   INSERT: A7083
+2026-03-26 21:10:55,091 - [INFO] -   INSERT: A7350
+2026-03-26 21:10:55,091 - [INFO] -   INSERT: A4075
+2026-03-26 21:10:55,092 - [INFO] -   INSERT: A0797
+2026-03-26 21:10:55,092 - [INFO] -   INSERT: A1218
+2026-03-26 21:10:55,093 - [INFO] -   INSERT: A0626
+2026-03-26 21:10:55,093 - [INFO] -   INSERT: A6154
+2026-03-26 21:10:55,093 - [INFO] -   INSERT: A4685
+2026-03-26 21:10:55,096 - [INFO] -   INSERT: A3914
+2026-03-26 21:10:55,097 - [INFO] -   INSERT: A0024
+2026-03-26 21:10:55,097 - [INFO] -   INSERT: A5975
+2026-03-26 21:10:55,099 - [INFO] -   INSERT: A7645
+2026-03-26 21:10:55,100 - [INFO] -   INSERT: A0399
+2026-03-26 21:10:55,100 - [INFO] -   INSERT: A6783
+2026-03-26 21:10:55,101 - [INFO] -   INSERT: A4066
+2026-03-26 21:10:55,101 - [INFO] -   INSERT: A3977
+2026-03-26 21:10:55,102 - [INFO] -   INSERT: A0304
+2026-03-26 21:10:55,102 - [INFO] -   INSERT: A7630
+2026-03-26 21:10:55,103 - [INFO] -   INSERT: A2663
+2026-03-26 21:10:55,104 - [INFO] -   INSERT: A4978
+2026-03-26 21:10:55,104 - [INFO] -   INSERT: A5732
+2026-03-26 21:10:55,105 - [INFO] -   INSERT: A2442
+2026-03-26 21:10:55,106 - [INFO] -   INSERT: A7076
+2026-03-26 21:10:55,106 - [INFO] -   INSERT: A7385
+2026-03-26 21:10:55,107 - [INFO] -   INSERT: A4785
+2026-03-26 21:10:55,108 - [INFO] -   INSERT: A2080
+2026-03-26 21:10:55,109 - [INFO] -   INSERT: A7663
+2026-03-26 21:10:55,110 - [INFO] -   INSERT: A5142
+2026-03-26 21:10:55,111 - [INFO] -   INSERT: A6819
+2026-03-26 21:10:55,112 - [INFO] -   INSERT: A1481
+2026-03-26 21:10:55,112 - [INFO] -   INSERT: A6918
+2026-03-26 21:10:55,114 - [INFO] -   INSERT: A7586
+2026-03-26 21:10:55,117 - [INFO] -   INSERT: A3373
+2026-03-26 21:10:55,117 - [INFO] -   INSERT: A7411
+2026-03-26 21:10:55,118 - [INFO] -   INSERT: A6185
+2026-03-26 21:10:55,119 - [INFO] -   INSERT: A5030
+2026-03-26 21:10:55,119 - [INFO] -   INSERT: A6087
+2026-03-26 21:10:55,120 - [INFO] -   INSERT: A1381
+2026-03-26 21:10:55,121 - [INFO] -   INSERT: A0516
+2026-03-26 21:10:55,122 - [INFO] -   INSERT: A7175
+2026-03-26 21:10:55,123 - [INFO] -   INSERT: A6373
+2026-03-26 21:10:55,124 - [INFO] -   INSERT: A6072
+2026-03-26 21:10:55,124 - [INFO] -   INSERT: A2796
+2026-03-26 21:10:55,125 - [INFO] -   INSERT: A0039
+2026-03-26 21:10:55,126 - [INFO] -   INSERT: A6158
+2026-03-26 21:10:55,126 - [INFO] -   INSERT: A6970
+2026-03-26 21:10:55,127 - [INFO] -   INSERT: A3238
+2026-03-26 21:10:55,128 - [INFO] -   INSERT: A6113
+2026-03-26 21:10:55,131 - [INFO] -   INSERT: A5074
+2026-03-26 21:10:55,132 - [INFO] -   INSERT: A2110
+2026-03-26 21:10:55,133 - [INFO] -   INSERT: A1349
+2026-03-26 21:10:55,134 - [INFO] -   INSERT: A7662
+2026-03-26 21:10:55,135 - [INFO] -   INSERT: A2091
+2026-03-26 21:10:55,135 - [INFO] -   INSERT: A0692
+2026-03-26 21:10:55,136 - [INFO] -   INSERT: A5441
+2026-03-26 21:10:55,137 - [INFO] -   INSERT: A3528
+2026-03-26 21:10:55,137 - [INFO] -   INSERT: A5214
+2026-03-26 21:10:55,138 - [INFO] -   INSERT: A0563
+2026-03-26 21:10:55,139 - [INFO] -   INSERT: A6330
+2026-03-26 21:10:55,140 - [INFO] -   INSERT: A5405
+2026-03-26 21:10:55,141 - [INFO] -   INSERT: A5877
+2026-03-26 21:10:55,142 - [INFO] -   INSERT: A7511
+2026-03-26 21:10:55,143 - [INFO] -   INSERT: A6687
+2026-03-26 21:10:55,143 - [INFO] -   INSERT: A6253
+2026-03-26 21:10:55,144 - [INFO] -   INSERT: A4549
+2026-03-26 21:10:55,145 - [INFO] -   INSERT: A2132
+2026-03-26 21:10:55,147 - [INFO] -   INSERT: A1355
+2026-03-26 21:10:55,148 - [INFO] -   INSERT: A4571
+2026-03-26 21:10:55,149 - [INFO] -   INSERT: A5833
+2026-03-26 21:10:55,149 - [INFO] -   INSERT: A1330
+2026-03-26 21:10:55,149 - [INFO] -   INSERT: A7479
+2026-03-26 21:10:55,152 - [INFO] -   INSERT: A7609
+2026-03-26 21:10:55,153 - [INFO] -   INSERT: A7296
+2026-03-26 21:10:55,154 - [INFO] -   INSERT: A6518
+2026-03-26 21:10:55,155 - [INFO] -   INSERT: A4820
+2026-03-26 21:10:55,155 - [INFO] -   INSERT: A6580
+2026-03-26 21:10:55,156 - [INFO] -   INSERT: A7413
+2026-03-26 21:10:55,156 - [INFO] -   INSERT: A6707
+2026-03-26 21:10:55,157 - [INFO] -   INSERT: A6935
+2026-03-26 21:10:55,158 - [INFO] -   INSERT: A4382
+2026-03-26 21:10:55,158 - [INFO] -   INSERT: A4369
+2026-03-26 21:10:55,159 - [INFO] -   INSERT: A5402
+2026-03-26 21:10:55,160 - [INFO] -   INSERT: A7669
+2026-03-26 21:10:55,161 - [INFO] -   INSERT: A6797
+2026-03-26 21:10:55,162 - [INFO] -   INSERT: A6363
+2026-03-26 21:10:55,164 - [INFO] -   INSERT: A6438
+2026-03-26 21:10:55,166 - [INFO] -   INSERT: A6107
+2026-03-26 21:10:55,166 - [INFO] -   INSERT: A3712
+2026-03-26 21:10:55,166 - [INFO] -   INSERT: A6103
+2026-03-26 21:10:55,166 - [INFO] -   INSERT: A6002
+2026-03-26 21:10:55,170 - [INFO] -   INSERT: A3333
+2026-03-26 21:10:55,171 - [INFO] -   INSERT: A1012
+2026-03-26 21:10:55,171 - [INFO] -   INSERT: A7675
+2026-03-26 21:10:55,172 - [INFO] -   INSERT: A5752
+2026-03-26 21:10:55,173 - [INFO] -   INSERT: A7244
+2026-03-26 21:10:55,174 - [INFO] -   INSERT: A4861
+2026-03-26 21:10:55,174 - [INFO] -   INSERT: A7619
+2026-03-26 21:10:55,174 - [INFO] -   INSERT: A7405
+2026-03-26 21:10:55,174 - [INFO] -   INSERT: A7634
+2026-03-26 21:10:55,174 - [INFO] -   INSERT: A6991
+2026-03-26 21:10:55,174 - [INFO] -   INSERT: A6032
+2026-03-26 21:10:55,174 - [INFO] -   INSERT: A3600
+2026-03-26 21:10:55,174 - [INFO] -   INSERT: A7305
+2026-03-26 21:10:55,181 - [INFO] -   INSERT: A6370
+2026-03-26 21:10:55,182 - [INFO] -   INSERT: A7505
+2026-03-26 21:10:55,184 - [INFO] -   INSERT: A3944
+2026-03-26 21:10:55,185 - [INFO] -   INSERT: A0438
+2026-03-26 21:10:55,187 - [INFO] -   INSERT: A7638
+2026-03-26 21:10:55,187 - [INFO] -   INSERT: A1847
+2026-03-26 21:10:55,188 - [INFO] -   INSERT: A4017
+2026-03-26 21:10:55,188 - [INFO] -   INSERT: A6521
+2026-03-26 21:10:55,189 - [INFO] -   INSERT: A5874
+2026-03-26 21:10:55,190 - [INFO] -   INSERT: A3870
+2026-03-26 21:10:55,191 - [INFO] -   INSERT: A7099
+2026-03-26 21:10:55,191 - [INFO] -   INSERT: A0069
+2026-03-26 21:10:55,191 - [INFO] -   INSERT: A1963
+2026-03-26 21:10:55,191 - [INFO] -   INSERT: B0360
+2026-03-26 21:10:55,191 - [INFO] -   INSERT: A4973
+2026-03-26 21:10:55,191 - [INFO] -   INSERT: A6945
+2026-03-26 21:10:55,191 - [INFO] -   INSERT: A7353
+2026-03-26 21:10:55,196 - [INFO] -   INSERT: A2125
+2026-03-26 21:10:55,198 - [INFO] -   INSERT: A7529
+2026-03-26 21:10:55,200 - [INFO] -   INSERT: A2246
+2026-03-26 21:10:55,201 - [INFO] -   INSERT: A3315
+2026-03-26 21:10:55,202 - [INFO] -   INSERT: A7618
+2026-03-26 21:10:55,202 - [INFO] -   INSERT: A0758
+2026-03-26 21:10:55,203 - [INFO] -   INSERT: A5676
+2026-03-26 21:10:55,204 - [INFO] -   INSERT: A4320
+2026-03-26 21:10:55,206 - [INFO] -   INSERT: A3613
+2026-03-26 21:10:55,206 - [INFO] -   INSERT: A5860
+2026-03-26 21:10:55,207 - [INFO] -   INSERT: A5840
+2026-03-26 21:10:55,207 - [INFO] -   INSERT: A4912
+2026-03-26 21:10:55,208 - [INFO] -   INSERT: A2605
+2026-03-26 21:10:55,209 - [INFO] -   INSERT: A7640
+2026-03-26 21:10:55,209 - [INFO] -   INSERT: A7007
+2026-03-26 21:10:55,210 - [INFO] -   INSERT: A6485
+2026-03-26 21:10:55,210 - [INFO] -   INSERT: A2447
+2026-03-26 21:10:55,211 - [INFO] -   INSERT: A6178
+2026-03-26 21:10:55,212 - [INFO] -   INSERT: A6006
+2026-03-26 21:10:55,213 - [INFO] -   INSERT: A7629
+2026-03-26 21:10:55,214 - [INFO] -   INSERT: A5689
+2026-03-26 21:10:55,216 - [INFO] -   INSERT: A5148
+2026-03-26 21:10:55,216 - [INFO] -   INSERT: A7536
+2026-03-26 21:10:55,220 - [INFO] -   INSERT: A3500
+2026-03-26 21:10:55,220 - [INFO] -   INSERT: A1401
+2026-03-26 21:10:55,221 - [INFO] -   INSERT: A7466
+2026-03-26 21:10:55,222 - [INFO] -   INSERT: A6432
+2026-03-26 21:10:55,222 - [INFO] -   INSERT: A7633
+2026-03-26 21:10:55,224 - [INFO] -   INSERT: A6180
+2026-03-26 21:10:55,224 - [INFO] -   INSERT: A5694
+2026-03-26 21:10:55,225 - [INFO] -   INSERT: A2690
+2026-03-26 21:10:55,225 - [INFO] -   INSERT: A5341
+2026-03-26 21:10:55,226 - [INFO] -   INSERT: A7241
+2026-03-26 21:10:55,227 - [INFO] -   INSERT: A7519
+2026-03-26 21:10:55,228 - [INFO] -   INSERT: A4303
+2026-03-26 21:10:55,229 - [INFO] -   INSERT: B0470
+2026-03-26 21:10:55,231 - [INFO] -   INSERT: A5582
+2026-03-26 21:10:55,233 - [INFO] -   INSERT: A7471
+2026-03-26 21:10:55,234 - [INFO] -   INSERT: A2857
+2026-03-26 21:10:55,236 - [INFO] -   INSERT: A3814
+2026-03-26 21:10:55,236 - [INFO] -   INSERT: A6383
+2026-03-26 21:10:55,237 - [INFO] -   INSERT: A1007
+2026-03-26 21:10:55,238 - [INFO] -   INSERT: A5959
+2026-03-26 21:10:55,238 - [INFO] -   INSERT: A7042
+2026-03-26 21:10:55,239 - [INFO] -   INSERT: A2689
+2026-03-26 21:10:55,241 - [INFO] -   INSERT: A7121
+2026-03-26 21:10:55,241 - [INFO] -   INSERT: A1272
+2026-03-26 21:10:55,241 - [INFO] -   INSERT: A6534
+2026-03-26 21:10:55,241 - [INFO] -   INSERT: A6862
+2026-03-26 21:10:55,241 - [INFO] -   INSERT: A5497
+2026-03-26 21:10:55,241 - [INFO] -   INSERT: A3684
+2026-03-26 21:10:55,241 - [INFO] -   INSERT: A7043
+2026-03-26 21:10:55,246 - [INFO] -   INSERT: A1313
+2026-03-26 21:10:55,247 - [INFO] -   INSERT: A5045
+2026-03-26 21:10:55,249 - [INFO] -   INSERT: A2421
+2026-03-26 21:10:55,250 - [INFO] -   INSERT: A5223
+2026-03-26 21:10:55,250 - [INFO] -   INSERT: A7387
+2026-03-26 21:10:55,251 - [INFO] -   INSERT: A0747
+2026-03-26 21:10:55,252 - [INFO] -   INSERT: A6847
+2026-03-26 21:10:55,253 - [INFO] -   INSERT: A6138
+2026-03-26 21:10:55,254 - [INFO] -   INSERT: A4458
+2026-03-26 21:10:55,254 - [INFO] -   INSERT: A1194
+2026-03-26 21:10:55,255 - [INFO] -   INSERT: A3412
+2026-03-26 21:10:55,259 - [INFO] -   INSERT: A4529
+2026-03-26 21:10:55,262 - [INFO] -   INSERT: A7087
+2026-03-26 21:10:55,263 - [INFO] -   INSERT: A5767
+2026-03-26 21:10:55,266 - [INFO] -   INSERT: A6248
+2026-03-26 21:10:55,267 - [INFO] -   INSERT: A4774
+2026-03-26 21:10:55,268 - [INFO] -   INSERT: A6234
+2026-03-26 21:10:55,269 - [INFO] -   INSERT: A1852
+2026-03-26 21:10:55,269 - [INFO] -   INSERT: A1887
+2026-03-26 21:10:55,270 - [INFO] -   INSERT: A5652
+2026-03-26 21:10:55,271 - [INFO] -   INSERT: A7417
+2026-03-26 21:10:55,272 - [INFO] -   INSERT: A5671
+2026-03-26 21:10:55,272 - [INFO] -   INSERT: A1942
+2026-03-26 21:10:55,273 - [INFO] -   INSERT: A1806
+2026-03-26 21:10:55,273 - [INFO] -   INSERT: A7266
+2026-03-26 21:10:55,274 - [INFO] -   INSERT: A6703
+2026-03-26 21:10:55,274 - [INFO] -   INSERT: A5796
+2026-03-26 21:10:55,275 - [INFO] -   INSERT: A2021
+2026-03-26 21:10:55,275 - [INFO] -   INSERT: A3355
+2026-03-26 21:10:55,276 - [INFO] -   INSERT: A6988
+2026-03-26 21:10:55,276 - [INFO] -   INSERT: A6787
+2026-03-26 21:10:55,278 - [INFO] -   INSERT: A3666
+2026-03-26 21:10:55,279 - [INFO] -   INSERT: A6768
+2026-03-26 21:10:55,281 - [INFO] -   INSERT: A6871
+2026-03-26 21:10:55,283 - [INFO] -   INSERT: A7605
+2026-03-26 21:10:55,283 - [INFO] -   INSERT: A6695
+2026-03-26 21:10:55,284 - [INFO] -   INSERT: A0085
+2026-03-26 21:10:55,285 - [INFO] -   INSERT: A0727
+2026-03-26 21:10:55,285 - [INFO] -   INSERT: A5989
+2026-03-26 21:10:55,285 - [INFO] -   INSERT: A5021
+2026-03-26 21:10:55,285 - [INFO] -   INSERT: A1037
+2026-03-26 21:10:55,285 - [INFO] -   INSERT: A0632
+2026-03-26 21:10:55,289 - [INFO] -   INSERT: A3831
+2026-03-26 21:10:55,289 - [INFO] -   INSERT: A1573
+2026-03-26 21:10:55,290 - [INFO] -   INSERT: A7590
+2026-03-26 21:10:55,290 - [INFO] -   INSERT: A6446
+2026-03-26 21:10:55,291 - [INFO] -   INSERT: A6750
+2026-03-26 21:10:55,292 - [INFO] -   INSERT: B0286
+2026-03-26 21:10:55,292 - [INFO] -   INSERT: A5061
+2026-03-26 21:10:55,293 - [INFO] -   INSERT: A1898
+2026-03-26 21:10:55,295 - [INFO] -   INSERT: A5843
+2026-03-26 21:10:55,296 - [INFO] -   INSERT: A6776
+2026-03-26 21:10:55,297 - [INFO] -   INSERT: A7264
+2026-03-26 21:10:55,299 - [INFO] -   INSERT: A7515
+2026-03-26 21:10:55,300 - [INFO] -   INSERT: A7381
+2026-03-26 21:10:55,300 - [INFO] -   INSERT: A1303
+2026-03-26 21:10:55,300 - [INFO] -   INSERT: A6406
+2026-03-26 21:10:55,300 - [INFO] -   INSERT: A1729
+2026-03-26 21:10:55,300 - [INFO] -   INSERT: A5468
+2026-03-26 21:10:55,300 - [INFO] -   INSERT: A5864
+2026-03-26 21:10:55,300 - [INFO] -   INSERT: A5567
+2026-03-26 21:10:55,300 - [INFO] -   INSERT: A1137
+2026-03-26 21:10:55,300 - [INFO] -   INSERT: A7480
+2026-03-26 21:10:55,300 - [INFO] -   INSERT: A1091
+2026-03-26 21:10:55,307 - [INFO] -   INSERT: A0174
+2026-03-26 21:10:55,307 - [INFO] -   INSERT: A0360
+2026-03-26 21:10:55,308 - [INFO] -   INSERT: A2353
+2026-03-26 21:10:55,309 - [INFO] -   INSERT: A7503
+2026-03-26 21:10:55,310 - [INFO] -   INSERT: A7654
+2026-03-26 21:10:55,310 - [INFO] -   INSERT: A3378
+2026-03-26 21:10:55,311 - [INFO] -   INSERT: B0270
+2026-03-26 21:10:55,311 - [INFO] -   INSERT: A1287
+2026-03-26 21:10:55,312 - [INFO] -   INSERT: A5773
+2026-03-26 21:10:55,314 - [INFO] -   INSERT: A0529
+2026-03-26 21:10:55,315 - [INFO] -   INSERT: A1039
+2026-03-26 21:10:55,316 - [INFO] -   INSERT: A5571
+2026-03-26 21:10:55,317 - [INFO] -   INSERT: A4071
+2026-03-26 21:10:55,317 - [INFO] -   INSERT: A0118
+2026-03-26 21:10:55,319 - [INFO] -   INSERT: A7285
+2026-03-26 21:10:55,320 - [INFO] -   INSERT: A6708
+2026-03-26 21:10:55,320 - [INFO] -   INSERT: A6645
+2026-03-26 21:10:55,321 - [INFO] -   INSERT: A3303
+2026-03-26 21:10:55,322 - [INFO] -   INSERT: A5232
+2026-03-26 21:10:55,323 - [INFO] -   INSERT: A5820
+2026-03-26 21:10:55,323 - [INFO] -   INSERT: A6560
+2026-03-26 21:10:55,324 - [INFO] -   INSERT: A4752
+2026-03-26 21:10:55,325 - [INFO] -   INSERT: A5962
+2026-03-26 21:10:55,325 - [INFO] -   INSERT: A7339
+2026-03-26 21:10:55,325 - [INFO] -   INSERT: A1877
+2026-03-26 21:10:55,325 - [INFO] -   INSERT: A6288
+2026-03-26 21:10:55,325 - [INFO] -   INSERT: A7547
+2026-03-26 21:10:55,325 - [INFO] -   INSERT: A5799
+2026-03-26 21:10:55,330 - [INFO] -   INSERT: A3682
+2026-03-26 21:10:55,332 - [INFO] -   INSERT: A6581
+2026-03-26 21:10:55,333 - [INFO] -   INSERT: B0475
+2026-03-26 21:10:55,334 - [INFO] -   INSERT: A5351
+2026-03-26 21:10:55,335 - [INFO] -   INSERT: A0193
+2026-03-26 21:10:55,336 - [INFO] -   INSERT: A7140
+2026-03-26 21:10:55,336 - [INFO] -   INSERT: A5286
+2026-03-26 21:10:55,337 - [INFO] -   INSERT: A6925
+2026-03-26 21:10:55,338 - [INFO] -   INSERT: A7517
+2026-03-26 21:10:55,338 - [INFO] -   INSERT: A7269
+2026-03-26 21:10:55,340 - [INFO] -   INSERT: A4971
+2026-03-26 21:10:55,341 - [INFO] -   INSERT: A7555
+2026-03-26 21:10:55,342 - [INFO] -   INSERT: A2770
+2026-03-26 21:10:55,342 - [INFO] -   INSERT: A6751
+2026-03-26 21:10:55,343 - [INFO] -   INSERT: A4892
+2026-03-26 21:10:55,344 - [INFO] -   INSERT: A6337
+2026-03-26 21:10:55,345 - [INFO] -   INSERT: A7126
+2026-03-26 21:10:55,346 - [INFO] -   INSERT: A6990
+2026-03-26 21:10:55,347 - [INFO] -   INSERT: A6984
+2026-03-26 21:10:55,348 - [INFO] -   INSERT: A3985
+2026-03-26 21:10:55,349 - [INFO] -   INSERT: A4446
+2026-03-26 21:10:55,350 - [INFO] -   INSERT: A5065
+2026-03-26 21:10:55,352 - [INFO] -   INSERT: A1157
+2026-03-26 21:10:55,353 - [INFO] -   INSERT: A1329
+2026-03-26 21:10:55,354 - [INFO] -   INSERT: A6379
+2026-03-26 21:10:55,354 - [INFO] -   INSERT: A7463
+2026-03-26 21:10:55,355 - [INFO] -   INSERT: A7532
+2026-03-26 21:10:55,356 - [INFO] -   INSERT: A6789
+2026-03-26 21:10:55,357 - [INFO] -   INSERT: A7659
+2026-03-26 21:10:55,358 - [INFO] -   INSERT: A6145
+2026-03-26 21:10:55,358 - [INFO] -   INSERT: A4008
+2026-03-26 21:10:55,359 - [INFO] -   INSERT: A6051
+2026-03-26 21:10:55,360 - [INFO] -   INSERT: A6094
+2026-03-26 21:10:55,361 - [INFO] -   INSERT: A4637
+2026-03-26 21:10:55,361 - [INFO] -   INSERT: A4421
+2026-03-26 21:10:55,362 - [INFO] -   INSERT: A5779
+2026-03-26 21:10:55,363 - [INFO] -   INSERT: A1290
+2026-03-26 21:10:55,364 - [INFO] -   INSERT: A3089
+2026-03-26 21:10:55,364 - [INFO] -   INSERT: A7349
+2026-03-26 21:10:55,364 - [INFO] -   INSERT: A5064
+2026-03-26 21:10:55,364 - [INFO] -   INSERT: A5250
+2026-03-26 21:10:55,368 - [INFO] -   INSERT: A7623
+2026-03-26 21:10:55,369 - [INFO] -   INSERT: A6427
+2026-03-26 21:10:55,369 - [INFO] -   INSERT: A7673
+2026-03-26 21:10:55,370 - [INFO] -   INSERT: A4916
+2026-03-26 21:10:55,370 - [INFO] -   INSERT: A6134
+2026-03-26 21:10:55,371 - [INFO] -   INSERT: A7345
+2026-03-26 21:10:55,371 - [INFO] -   INSERT: A3840
+2026-03-26 21:10:55,372 - [INFO] -   INSERT: A1062
+2026-03-26 21:10:55,372 - [INFO] -   INSERT: A4589
+2026-03-26 21:10:55,374 - [INFO] -   INSERT: A4786
+2026-03-26 21:10:55,375 - [INFO] -   INSERT: A5361
+2026-03-26 21:10:55,375 - [INFO] -   INSERT: A7242
+2026-03-26 21:10:55,376 - [INFO] -   INSERT: A7317
+2026-03-26 21:10:55,377 - [INFO] -   INSERT: A7013
+2026-03-26 21:10:55,377 - [INFO] -   INSERT: A4113
+2026-03-26 21:10:55,379 - [INFO] -   INSERT: A7621
+2026-03-26 21:10:55,380 - [INFO] -   INSERT: A5034
+2026-03-26 21:10:55,380 - [INFO] -   INSERT: A7227
+2026-03-26 21:10:55,380 - [INFO] -   INSERT: A7539
+2026-03-26 21:10:55,380 - [INFO] -   INSERT: B0429
+2026-03-26 21:10:55,384 - [INFO] -   INSERT: A6440
+2026-03-26 21:10:55,385 - [INFO] -   INSERT: A6429
+2026-03-26 21:10:55,385 - [INFO] -   INSERT: A7649
+2026-03-26 21:10:55,386 - [INFO] -   INSERT: A5857
+2026-03-26 21:10:55,386 - [INFO] -   INSERT: A3317
+2026-03-26 21:10:55,387 - [INFO] -   INSERT: A7583
+2026-03-26 21:10:55,387 - [INFO] -   INSERT: A2822
+2026-03-26 21:10:55,388 - [INFO] -   INSERT: K0403
+2026-03-26 21:10:55,388 - [INFO] -   INSERT: A2206
+2026-03-26 21:10:55,388 - [INFO] -   INSERT: A6362
+2026-03-26 21:10:55,388 - [INFO] -   INSERT: A1126
+2026-03-26 21:10:55,388 - [INFO] -   INSERT: A5772
+2026-03-26 21:10:55,388 - [INFO] -   INSERT: A7449
+2026-03-26 21:10:55,388 - [INFO] -   INSERT: A5979
+2026-03-26 21:10:55,388 - [INFO] -   INSERT: A5397
+2026-03-26 21:10:55,394 - [INFO] -   INSERT: A6980
+2026-03-26 21:10:55,395 - [INFO] -   INSERT: A6676
+2026-03-26 21:10:55,396 - [INFO] -   INSERT: A7075
+2026-03-26 21:10:55,398 - [INFO] -   INSERT: A4565
+2026-03-26 21:10:55,398 - [INFO] -   INSERT: A2055
+2026-03-26 21:10:55,400 - [INFO] -   INSERT: A7578
+2026-03-26 21:10:55,401 - [INFO] -   INSERT: A0036
+2026-03-26 21:10:55,402 - [INFO] -   INSERT: A0147
+2026-03-26 21:10:55,402 - [INFO] -   INSERT: A4441
+2026-03-26 21:10:55,403 - [INFO] -   INSERT: A1436
+2026-03-26 21:10:55,404 - [INFO] -   INSERT: A7543
+2026-03-26 21:10:55,404 - [INFO] -   INSERT: A3346
+2026-03-26 21:10:55,405 - [INFO] -   INSERT: A0136
+2026-03-26 21:10:55,406 - [INFO] -   INSERT: A1965
+2026-03-26 21:10:55,406 - [INFO] -   INSERT: A3627
+2026-03-26 21:10:55,407 - [INFO] -   INSERT: A6805
+2026-03-26 21:10:55,408 - [INFO] -   INSERT: A6415
+2026-03-26 21:10:55,408 - [INFO] -   INSERT: A5294
+2026-03-26 21:10:55,409 - [INFO] -   INSERT: A5227
+2026-03-26 21:10:55,410 - [INFO] -   INSERT: A0455
+2026-03-26 21:10:55,411 - [INFO] -   INSERT: A5859
+2026-03-26 21:10:55,412 - [INFO] -   INSERT: A7448
+2026-03-26 21:10:55,412 - [INFO] -   INSERT: A1036
+2026-03-26 21:10:55,414 - [INFO] -   INSERT: A5070
+2026-03-26 21:10:55,414 - [INFO] -   INSERT: B0144
+2026-03-26 21:10:55,416 - [INFO] -   INSERT: A7522
+2026-03-26 21:10:55,417 - [INFO] -   INSERT: A3104
+2026-03-26 21:10:55,417 - [INFO] -   INSERT: A7658
+2026-03-26 21:10:55,418 - [INFO] -   INSERT: A7044
+2026-03-26 21:10:55,419 - [INFO] -   INSERT: A6566
+2026-03-26 21:10:55,420 - [INFO] -   INSERT: A0232
+2026-03-26 21:10:55,420 - [INFO] -   INSERT: A5374
+2026-03-26 21:10:55,421 - [INFO] -   INSERT: A4768
+2026-03-26 21:10:55,422 - [INFO] -   INSERT: A7236
+2026-03-26 21:10:55,423 - [INFO] -   INSERT: A5740
+2026-03-26 21:10:55,424 - [INFO] -   INSERT: A3302
+2026-03-26 21:10:55,424 - [INFO] -   INSERT: A7132
+2026-03-26 21:10:55,425 - [INFO] -   INSERT: A0277
+2026-03-26 21:10:55,426 - [INFO] -   INSERT: A2625
+2026-03-26 21:10:55,427 - [INFO] -   INSERT: A5639
+2026-03-26 21:10:55,427 - [INFO] -   INSERT: A6690
+2026-03-26 21:10:55,427 - [INFO] -   INSERT: A0835
+2026-03-26 21:10:55,427 - [INFO] -   INSERT: A6282
+2026-03-26 21:10:55,431 - [INFO] -   INSERT: A6672
+2026-03-26 21:10:55,431 - [INFO] -   INSERT: A6821
+2026-03-26 21:10:55,433 - [INFO] -   INSERT: A7268
+2026-03-26 21:10:55,434 - [INFO] -   INSERT: A7120
+2026-03-26 21:10:55,434 - [INFO] -   INSERT: A7298
+2026-03-26 21:10:55,435 - [INFO] -   INSERT: A6400
+2026-03-26 21:10:55,435 - [INFO] -   INSERT: K0478
+2026-03-26 21:10:55,436 - [INFO] -   INSERT: A7467
+2026-03-26 21:10:55,436 - [INFO] -   INSERT: A3567
+2026-03-26 21:10:55,437 - [INFO] -   INSERT: A6091
+2026-03-26 21:10:55,437 - [INFO] -   INSERT: A1061
+2026-03-26 21:10:55,438 - [INFO] -   INSERT: A2873
+2026-03-26 21:10:55,439 - [INFO] -   INSERT: A7664
+2026-03-26 21:10:55,439 - [INFO] -   INSERT: A3858
+2026-03-26 21:10:55,440 - [INFO] -   INSERT: A1784
+2026-03-26 21:10:55,441 - [INFO] -   INSERT: A7606
+2026-03-26 21:10:55,441 - [INFO] -   INSERT: A1893
+2026-03-26 21:10:55,442 - [INFO] -   INSERT: A0836
+2026-03-26 21:10:55,442 - [INFO] -   INSERT: A0980
+2026-03-26 21:10:55,443 - [INFO] -   INSERT: A6386
+2026-03-26 21:10:55,443 - [INFO] -   INSERT: A4890
+2026-03-26 21:10:55,444 - [INFO] -   INSERT: A5839
+2026-03-26 21:10:55,446 - [INFO] -   INSERT: A2362
+2026-03-26 21:10:55,447 - [INFO] -   INSERT: A7579
+2026-03-26 21:10:55,448 - [INFO] -   INSERT: A5930
+2026-03-26 21:10:55,449 - [INFO] -   INSERT: A5828
+2026-03-26 21:10:55,450 - [INFO] -   INSERT: A3743
+2026-03-26 21:10:55,451 - [INFO] -   INSERT: A7319
+2026-03-26 21:10:55,451 - [INFO] -   INSERT: A6868
+2026-03-26 21:10:55,452 - [INFO] -   INSERT: A6022
+2026-03-26 21:10:55,453 - [INFO] -   INSERT: A7327
+2026-03-26 21:10:55,453 - [INFO] -   INSERT: A6912
+2026-03-26 21:10:55,454 - [INFO] -   INSERT: A6564
+2026-03-26 21:10:55,455 - [INFO] -   INSERT: A0799
+2026-03-26 21:10:55,457 - [INFO] -   INSERT: A5797
+2026-03-26 21:10:55,458 - [INFO] -   INSERT: A7521
+2026-03-26 21:10:55,459 - [INFO] -   INSERT: A1487
+2026-03-26 21:10:55,460 - [INFO] -   INSERT: A5803
+2026-03-26 21:10:55,461 - [INFO] -   INSERT: A6982
+2026-03-26 21:10:55,461 - [INFO] -   INSERT: A6658
+2026-03-26 21:10:55,464 - [INFO] -   INSERT: A5125
+2026-03-26 21:10:55,464 - [INFO] -   INSERT: A6341
+2026-03-26 21:10:55,466 - [INFO] -   INSERT: A5490
+2026-03-26 21:10:55,467 - [INFO] -   INSERT: A3572
+2026-03-26 21:10:55,467 - [INFO] -   INSERT: A6968
+2026-03-26 21:10:55,468 - [INFO] -   INSERT: A6961
+2026-03-26 21:10:55,469 - [INFO] -   INSERT: A4749
+2026-03-26 21:10:55,470 - [INFO] -   INSERT: A6025
+2026-03-26 21:10:55,471 - [INFO] -   INSERT: A4831
+2026-03-26 21:10:55,471 - [INFO] -   INSERT: A0777
+2026-03-26 21:10:55,471 - [INFO] -   INSERT: A0333
+2026-03-26 21:10:55,471 - [INFO] -   INSERT: A6304
+2026-03-26 21:10:55,471 - [INFO] -   INSERT: A6106
+2026-03-26 21:10:55,478 - [INFO] -   INSERT: A7139
+2026-03-26 21:10:55,479 - [INFO] -   INSERT: A6333
+2026-03-26 21:10:55,479 - [INFO] -   INSERT: A3686
+2026-03-26 21:10:55,481 - [INFO] -   INSERT: A0654
+2026-03-26 21:10:55,482 - [INFO] -   INSERT: A1070
+2026-03-26 21:10:55,483 - [INFO] -   INSERT: A4154
+2026-03-26 21:10:55,484 - [INFO] -   INSERT: A7472
+2026-03-26 21:10:55,485 - [INFO] -   INSERT: A3857
+2026-03-26 21:10:55,485 - [INFO] -   INSERT: A6933
+2026-03-26 21:10:55,486 - [INFO] -   INSERT: A1006
+2026-03-26 21:10:55,487 - [INFO] -   INSERT: A7033
+2026-03-26 21:10:55,487 - [INFO] -   INSERT: A2178
+2026-03-26 21:10:55,488 - [INFO] -   INSERT: A6969
+2026-03-26 21:10:55,488 - [INFO] -   INSERT: A7660
+2026-03-26 21:10:55,490 - [INFO] -   INSERT: A4744
+2026-03-26 21:10:55,491 - [INFO] -   INSERT: A7134
+2026-03-26 21:10:55,491 - [INFO] -   INSERT: A3836
+2026-03-26 21:10:55,492 - [INFO] -   INSERT: A0488
+2026-03-26 21:10:55,493 - [INFO] -   INSERT: A7299
+2026-03-26 21:10:55,493 - [INFO] -   INSERT: A7147
+2026-03-26 21:10:55,494 - [INFO] -   INSERT: A6121
+2026-03-26 21:10:55,495 - [INFO] -   INSERT: A3116
+2026-03-26 21:10:55,496 - [INFO] -   INSERT: A7538
+2026-03-26 21:10:55,497 - [INFO] -   INSERT: A0196
+2026-03-26 21:10:55,498 - [INFO] -   INSERT: A7440
+2026-03-26 21:10:55,499 - [INFO] -   INSERT: A5644
+2026-03-26 21:10:55,500 - [INFO] -   INSERT: A4144
+2026-03-26 21:10:55,501 - [INFO] -   INSERT: A4274
+2026-03-26 21:10:55,502 - [INFO] -   INSERT: A0682
+2026-03-26 21:10:55,502 - [INFO] -   INSERT: A6214
+2026-03-26 21:10:55,503 - [INFO] -   INSERT: A7118
+2026-03-26 21:10:55,504 - [INFO] -   INSERT: A0860
+2026-03-26 21:10:55,504 - [INFO] -   INSERT: A3678
+2026-03-26 21:10:55,505 - [INFO] -   INSERT: A1761
+2026-03-26 21:10:55,506 - [INFO] -   INSERT: A6885
+2026-03-26 21:10:55,507 - [INFO] -   INSERT: A2800
+2026-03-26 21:10:55,508 - [INFO] -   INSERT: A1819
+2026-03-26 21:10:55,508 - [INFO] -   INSERT: A7589
+2026-03-26 21:10:55,509 - [INFO] -   INSERT: A6759
+2026-03-26 21:10:55,510 - [INFO] -   INSERT: A5409
+2026-03-26 21:10:55,510 - [INFO] -   INSERT: A5489
+2026-03-26 21:10:55,511 - [INFO] -   INSERT: A5343
+2026-03-26 21:10:55,512 - [INFO] -   INSERT: A7456
+2026-03-26 21:10:55,515 - [INFO] -   INSERT: A4743
+2026-03-26 21:10:55,515 - [INFO] -   INSERT: A6927
+2026-03-26 21:10:55,515 - [INFO] -   INSERT: A1249
+2026-03-26 21:10:55,515 - [INFO] -   INSERT: A7408
+2026-03-26 21:10:55,519 - [INFO] -   INSERT: A2210
+2026-03-26 21:10:55,520 - [INFO] -   INSERT: A1306
+2026-03-26 21:10:55,521 - [INFO] -   INSERT: A0125
+2026-03-26 21:10:55,522 - [INFO] -   INSERT: A7520
+2026-03-26 21:10:55,522 - [INFO] -   INSERT: A7652
+2026-03-26 21:10:55,523 - [INFO] -   INSERT: A5924
+2026-03-26 21:10:55,524 - [INFO] -   INSERT: A2649
+2026-03-26 21:10:55,525 - [INFO] -   INSERT: A3962
+2026-03-26 21:10:55,526 - [INFO] -   INSERT: A5938
+2026-03-26 21:10:55,526 - [INFO] -   INSERT: A2986
+2026-03-26 21:10:55,527 - [INFO] -   INSERT: A5647
+2026-03-26 21:10:55,528 - [INFO] -   INSERT: A7424
+2026-03-26 21:10:55,528 - [INFO] -   INSERT: A4258
+2026-03-26 21:10:55,530 - [INFO] -   INSERT: A6971
+2026-03-26 21:10:55,532 - [INFO] -   INSERT: A6210
+2026-03-26 21:10:55,533 - [INFO] -   INSERT: A5111
+2026-03-26 21:10:55,533 - [INFO] -   INSERT: A6646
+2026-03-26 21:10:55,534 - [INFO] -   INSERT: A7665
+2026-03-26 21:10:55,535 - [INFO] -   INSERT: A6233
+2026-03-26 21:10:55,536 - [INFO] -   INSERT: A4993
+2026-03-26 21:10:55,537 - [INFO] -   INSERT: A7500
+2026-03-26 21:10:55,537 - [INFO] -   INSERT: A7084
+2026-03-26 21:10:55,538 - [INFO] -   INSERT: A6815
+2026-03-26 21:10:55,539 - [INFO] -   INSERT: A1418
+2026-03-26 21:10:55,540 - [INFO] -   INSERT: A4764
+2026-03-26 21:10:55,541 - [INFO] -   INSERT: A5940
+2026-03-26 21:10:55,542 - [INFO] -   INSERT: A1038
+2026-03-26 21:10:55,543 - [INFO] -   INSERT: A4335
+2026-03-26 21:10:55,544 - [INFO] -   INSERT: A7577
+2026-03-26 21:10:55,544 - [INFO] -   INSERT: A6117
+2026-03-26 21:10:55,545 - [INFO] -   INSERT: A7201
+2026-03-26 21:10:55,546 - [INFO] -   INSERT: A4502
+2026-03-26 21:10:55,547 - [INFO] -   INSERT: A0854
+2026-03-26 21:10:55,549 - [INFO] -   INSERT: A6473
+2026-03-26 21:10:55,550 - [INFO] -   INSERT: A7441
+2026-03-26 21:10:55,551 - [INFO] -   INSERT: A7432
+2026-03-26 21:10:55,551 - [INFO] -   INSERT: A6456
+2026-03-26 21:10:55,551 - [INFO] -   INSERT: A1000
+2026-03-26 21:10:55,552 - [INFO] -   INSERT: A1673
+2026-03-26 21:10:55,553 - [INFO] -   INSERT: A4981
+2026-03-26 21:10:55,554 - [INFO] -   INSERT: A7502
+2026-03-26 21:10:55,555 - [INFO] -   INSERT: A4779
+2026-03-26 21:10:55,555 - [INFO] -   INSERT: A7653
+2026-03-26 21:10:55,556 - [INFO] -   INSERT: A1711
+2026-03-26 21:10:55,556 - [INFO] -   INSERT: A5733
+2026-03-26 21:10:55,557 - [INFO] -   INSERT: A5273
+2026-03-26 21:10:55,557 - [INFO] -   INSERT: A2359
+2026-03-26 21:10:55,558 - [INFO] -   INSERT: A7429
+2026-03-26 21:10:55,560 - [INFO] -   INSERT: A5525
+2026-03-26 21:10:55,561 - [INFO] -   INSERT: B0171
+2026-03-26 21:10:55,562 - [INFO] -   INSERT: A7495
+2026-03-26 21:10:55,562 - [INFO] -   INSERT: A5262
+2026-03-26 21:10:55,563 - [INFO] -   INSERT: A5754
+2026-03-26 21:10:55,564 - [INFO] -   INSERT: A5444
+2026-03-26 21:10:55,565 - [INFO] -   INSERT: A4089
+2026-03-26 21:10:55,566 - [INFO] -   INSERT: A0463
+2026-03-26 21:10:55,567 - [INFO] -   INSERT: A7019
+2026-03-26 21:10:55,568 - [INFO] -   INSERT: A3419
+2026-03-26 21:10:55,568 - [INFO] -   INSERT: A2908
+2026-03-26 21:10:55,569 - [INFO] -   INSERT: A6101
+2026-03-26 21:10:55,571 - [INFO] -   INSERT: A7407
+2026-03-26 21:10:55,572 - [INFO] -   INSERT: A7661
+2026-03-26 21:10:55,573 - [INFO] -   INSERT: A0296
+2026-03-26 21:10:55,574 - [INFO] -   INSERT: A5139
+2026-03-26 21:10:55,575 - [INFO] -   INSERT: A6020
+2026-03-26 21:10:55,575 - [INFO] -   INSERT: A7211
+2026-03-26 21:10:55,576 - [INFO] -   INSERT: A7637
+2026-03-26 21:10:55,577 - [INFO] -   INSERT: A4684
+2026-03-26 21:10:55,578 - [INFO] -   INSERT: A6316
+2026-03-26 21:10:55,578 - [INFO] -   INSERT: A3188
+2026-03-26 21:10:55,579 - [INFO] -   INSERT: A6983
+2026-03-26 21:10:55,581 - [INFO] -   INSERT: A5141
+2026-03-26 21:10:55,582 - [INFO] -   INSERT: A3574
+2026-03-26 21:10:55,583 - [INFO] -   INSERT: A4243
+2026-03-26 21:10:55,583 - [INFO] -   INSERT: A4545
+2026-03-26 21:10:55,585 - [INFO] -   INSERT: A0953
+2026-03-26 21:10:55,585 - [INFO] -   INSERT: A7657
+2026-03-26 21:10:55,586 - [INFO] -   INSERT: A0487
+2026-03-26 21:10:55,587 - [INFO] -   INSERT: A5446
+2026-03-26 21:10:55,588 - [INFO] -   INSERT: A6963
+2026-03-26 21:10:55,588 - [INFO] -   INSERT: A0643
+2026-03-26 21:10:55,589 - [INFO] -   INSERT: A6579
+2026-03-26 21:10:55,590 - [INFO] -   INSERT: A4178
+2026-03-26 21:10:55,590 - [INFO] -   INSERT: A2729
+2026-03-26 21:10:55,591 - [INFO] -   INSERT: A6897
+2026-03-26 21:10:55,592 - [INFO] -   INSERT: A5729
+2026-03-26 21:10:55,593 - [INFO] -   INSERT: A7129
+2026-03-26 21:10:55,594 - [INFO] -   INSERT: A6505
+2026-03-26 21:10:55,595 - [INFO] -   INSERT: A4047
+2026-03-26 21:10:55,596 - [INFO] -   INSERT: A6577
+2026-03-26 21:10:55,597 - [INFO] -   INSERT: A7477
+2026-03-26 21:10:55,597 - [INFO] -   INSERT: A7569
+2026-03-26 21:10:55,597 - [INFO] -   INSERT: A6254
+2026-03-26 21:10:55,597 - [INFO] -   INSERT: A2328
+2026-03-26 21:10:55,601 - [INFO] -   INSERT: A6114
+2026-03-26 21:10:55,602 - [INFO] -   INSERT: B0027
+2026-03-26 21:10:55,602 - [INFO] -   INSERT: A2176
+2026-03-26 21:10:55,603 - [INFO] -   INSERT: A2197
+2026-03-26 21:10:55,604 - [INFO] -   INSERT: A5991
+2026-03-26 21:10:55,604 - [INFO] -   INSERT: A6523
+2026-03-26 21:10:55,605 - [INFO] -   INSERT: A5325
+2026-03-26 21:10:55,605 - [INFO] -   INSERT: A0079
+2026-03-26 21:10:55,605 - [INFO] -   INSERT: A7363
+2026-03-26 21:10:55,605 - [INFO] -   INSERT: A5185
+2026-03-26 21:10:55,605 - [INFO] -   INSERT: A3696
+2026-03-26 21:10:55,605 - [INFO] -   INSERT: A6730
+2026-03-26 21:10:55,605 - [INFO] -   INSERT: A0631
+2026-03-26 21:10:55,605 - [INFO] -   INSERT: A6692
+2026-03-26 21:10:55,605 - [INFO] -   INSERT: A6906
+2026-03-26 21:10:55,611 - [INFO] -   INSERT: A6223
+2026-03-26 21:10:55,612 - [INFO] -   INSERT: A6524
+2026-03-26 21:10:55,612 - [INFO] -   INSERT: A7114
+2026-03-26 21:10:55,614 - [INFO] -   INSERT: A5240
+2026-03-26 21:10:55,614 - [INFO] -   INSERT: A4455
+2026-03-26 21:10:55,616 - [INFO] -   INSERT: A0105
+2026-03-26 21:10:55,617 - [INFO] -   INSERT: A0806
+2026-03-26 21:10:55,619 - [INFO] -   INSERT: A7115
+2026-03-26 21:10:55,620 - [INFO] -   INSERT: A4721
+2026-03-26 21:10:55,623 - [INFO] -   INSERT: A6841
+2026-03-26 21:10:55,625 - [INFO] -   INSERT: A1809
+2026-03-26 21:10:55,625 - [INFO] -   INSERT: A3898
+2026-03-26 21:10:55,625 - [INFO] -   INSERT: A2602
+2026-03-26 21:10:55,625 - [INFO] -   INSERT: A7377
+2026-03-26 21:10:55,625 - [INFO] -   INSERT: A0198
+2026-03-26 21:10:55,632 - [INFO] -   INSERT: A7028
+2026-03-26 21:10:55,632 - [INFO] -   INSERT: A6680
+2026-03-26 21:10:55,633 - [INFO] -   INSERT: A0706
+2026-03-26 21:10:55,634 - [INFO] -   INSERT: A3509
+2026-03-26 21:10:55,635 - [INFO] -   INSERT: A7540
+2026-03-26 21:10:55,636 - [INFO] -   INSERT: A6013
+2026-03-26 21:10:55,637 - [INFO] -   INSERT: A6172
+2026-03-26 21:10:55,638 - [INFO] -   INSERT: A6497
+2026-03-26 21:10:55,639 - [INFO] -   INSERT: A7421
+2026-03-26 21:10:55,640 - [INFO] -   INSERT: A7493
+2026-03-26 21:10:55,641 - [INFO] -   INSERT: A6855
+2026-03-26 21:10:55,642 - [INFO] -   INSERT: A6202
+2026-03-26 21:10:55,643 - [INFO] -   INSERT: A7179
+2026-03-26 21:10:55,644 - [INFO] -   INSERT: A1193
+2026-03-26 21:10:55,645 - [INFO] -   INSERT: A6536
+2026-03-26 21:10:55,647 - [INFO] -   INSERT: A0823
+2026-03-26 21:10:55,649 - [INFO] -   INSERT: A0862
+2026-03-26 21:10:55,650 - [INFO] -   INSERT: A7549
+2026-03-26 21:10:55,650 - [INFO] -   INSERT: A7481
+2026-03-26 21:10:55,652 - [INFO] -   INSERT: A7534
+2026-03-26 21:10:55,653 - [INFO] -   INSERT: A1715
+2026-03-26 21:10:55,654 - [INFO] -   INSERT: A2389
+2026-03-26 21:10:55,654 - [INFO] -   INSERT: A7677
+2026-03-26 21:10:55,655 - [INFO] -   INSERT: A5508
+2026-03-26 21:10:55,656 - [INFO] -   INSERT: A7039
+2026-03-26 21:10:55,657 - [INFO] -   INSERT: A0166
+2026-03-26 21:10:55,658 - [INFO] -   INSERT: A7676
+2026-03-26 21:10:55,658 - [INFO] -   INSERT: A6576
+2026-03-26 21:10:55,660 - [INFO] -   INSERT: A5246
+2026-03-26 21:10:55,661 - [INFO] -   INSERT: A7188
+2026-03-26 21:10:55,661 - [INFO] -   INSERT: A7628
+2026-03-26 21:10:55,661 - [INFO] -   INSERT: A7551
+2026-03-26 21:10:55,661 - [INFO] -   INSERT: A7035
+2026-03-26 21:10:55,661 - [INFO] -   INSERT: A7541
+2026-03-26 21:10:55,661 - [INFO] -   INSERT: A5738
+2026-03-26 21:10:55,661 - [INFO] -   INSERT: A0775
+2026-03-26 21:10:55,661 - [INFO] -   INSERT: A3445
+2026-03-26 21:10:55,661 - [INFO] -   INSERT: A3290
+2026-03-26 21:10:55,661 - [INFO] -   INSERT: A3741
+2026-03-26 21:10:55,661 - [INFO] -   INSERT: A7258
+2026-03-26 21:10:55,673 - [INFO] -   INSERT: A7492
+2026-03-26 21:10:55,674 - [INFO] -   INSERT: A5476
+2026-03-26 21:10:55,675 - [INFO] -   INSERT: A6948
+2026-03-26 21:10:55,676 - [INFO] -   INSERT: A6568
+2026-03-26 21:10:55,677 - [INFO] -   INSERT: A6530
+2026-03-26 21:10:55,677 - [INFO] -   INSERT: A7406
+2026-03-26 21:10:55,678 - [INFO] -   INSERT: A4887
+2026-03-26 21:10:55,679 - [INFO] -   INSERT: A3899
+2026-03-26 21:10:55,683 - [INFO] -   INSERT: A7097
+2026-03-26 21:10:55,684 - [INFO] -   INSERT: A0400
+2026-03-26 21:10:55,685 - [INFO] -   INSERT: A6950
+2026-03-26 21:10:55,686 - [INFO] -   INSERT: A3020
+2026-03-26 21:10:55,686 - [INFO] -   INSERT: A7412
+2026-03-26 21:10:55,687 - [INFO] -   INSERT: A4470
+2026-03-26 21:10:55,688 - [INFO] -   INSERT: A2027
+2026-03-26 21:10:55,688 - [INFO] -   INSERT: A7162
+2026-03-26 21:10:55,689 - [INFO] -   INSERT: A4418
+2026-03-26 21:10:55,690 - [INFO] -   INSERT: A4099
+2026-03-26 21:10:55,690 - [INFO] -   INSERT: A5316
+2026-03-26 21:10:55,691 - [INFO] -   INSERT: A7394
+2026-03-26 21:10:55,692 - [INFO] -   INSERT: A5238
+2026-03-26 21:10:55,693 - [INFO] -   INSERT: A5276
+2026-03-26 21:10:55,694 - [INFO] -   INSERT: A5322
+2026-03-26 21:10:55,695 - [INFO] -   INSERT: A6457
+2026-03-26 21:10:55,695 - [INFO] -   INSERT: A2841
+2026-03-26 21:10:55,696 - [INFO] -   INSERT: A7525
+2026-03-26 21:10:55,696 - [INFO] -   INSERT: A0693
+2026-03-26 21:10:55,700 - [INFO] -   INSERT: A7562
+2026-03-26 21:10:55,701 - [INFO] -   INSERT: A2409
+2026-03-26 21:10:55,701 - [INFO] -   INSERT: A5948
+2026-03-26 21:10:55,702 - [INFO] -   INSERT: A5098
+2026-03-26 21:10:55,702 - [INFO] -   INSERT: A1768
+2026-03-26 21:10:55,703 - [INFO] -   INSERT: A2272
+2026-03-26 21:10:55,704 - [INFO] -   INSERT: A7507
+2026-03-26 21:10:55,705 - [INFO] -   INSERT: A0695
+2026-03-26 21:10:55,706 - [INFO] -   INSERT: B0019
+2026-03-26 21:10:55,706 - [INFO] -   INSERT: A0576
+2026-03-26 21:10:55,707 - [INFO] -   INSERT: A6746
+2026-03-26 21:10:55,708 - [INFO] -   INSERT: A6356
+2026-03-26 21:10:55,709 - [INFO] -   INSERT: A6392
+2026-03-26 21:10:55,709 - [INFO] -   INSERT: A0785
+2026-03-26 21:10:55,710 - [INFO] -   INSERT: A4542
+2026-03-26 21:10:55,711 - [INFO] -   INSERT: A0215
+2026-03-26 21:10:55,711 - [INFO] -   INSERT: A6029
+2026-03-26 21:10:55,711 - [INFO] -   INSERT: A7484
+2026-03-26 21:10:55,711 - [INFO] -   INSERT: A7338
+2026-03-26 21:10:55,711 - [INFO] -   INSERT: A2790
+2026-03-26 21:10:55,718 - [INFO] -   INSERT: B0358
+2026-03-26 21:10:55,719 - [INFO] -   INSERT: A6652
+2026-03-26 21:10:55,720 - [INFO] -   INSERT: A0137
+2026-03-26 21:10:55,720 - [INFO] -   INSERT: A7612
+2026-03-26 21:10:55,721 - [INFO] -   INSERT: A6910
+2026-03-26 21:10:55,722 - [INFO] -   INSERT: A4990
+2026-03-26 21:10:55,722 - [INFO] -   INSERT: A6755
+2026-03-26 21:10:55,723 - [INFO] -   INSERT: A7023
+2026-03-26 21:10:55,723 - [INFO] -   INSERT: A7655
+2026-03-26 21:10:55,723 - [INFO] -   INSERT: A5984
+2026-03-26 21:10:55,723 - [INFO] -   INSERT: A1214
+2026-03-26 21:10:55,723 - [INFO] -   INSERT: A7465
+2026-03-26 21:10:55,723 - [INFO] -   INSERT: A1765
+2026-03-26 21:10:55,723 - [INFO] -   INSERT: A0538
+2026-03-26 21:10:55,729 - [INFO] -   INSERT: A5498
+2026-03-26 21:10:55,731 - [INFO] -   INSERT: A0117
+2026-03-26 21:10:55,732 - [INFO] -   INSERT: A1399
+2026-03-26 21:10:55,733 - [INFO] -   INSERT: A7608
+2026-03-26 21:10:55,734 - [INFO] -   INSERT: A4131
+2026-03-26 21:10:55,735 - [INFO] -   INSERT: A6753
+2026-03-26 21:10:55,736 - [INFO] -   INSERT: A7572
+2026-03-26 21:10:55,736 - [INFO] -   INSERT: A6298
+2026-03-26 21:10:55,737 - [INFO] -   INSERT: A6737
+2026-03-26 21:10:55,738 - [INFO] -   INSERT: A7531
+2026-03-26 21:10:55,738 - [INFO] -   INSERT: A6137
+2026-03-26 21:10:55,739 - [INFO] -   INSERT: A5760
+2026-03-26 21:10:55,741 - [INFO] -   INSERT: A6875
+2026-03-26 21:10:55,742 - [INFO] -   INSERT: A7506
+2026-03-26 21:10:55,742 - [INFO] -   INSERT: A3229
+2026-03-26 21:10:55,743 - [INFO] -   INSERT: A6739
+2026-03-26 21:10:55,744 - [INFO] -   INSERT: A4481
+2026-03-26 21:10:55,744 - [INFO] -   INSERT: A6575
+2026-03-26 21:10:55,745 - [INFO] -   INSERT: A5434
+2026-03-26 21:10:55,749 - [INFO] -   INSERT: A2960
+2026-03-26 21:10:55,751 - [INFO] -   INSERT: A6153
+2026-03-26 21:10:55,751 - [INFO] -   INSERT: A6419
+2026-03-26 21:10:55,752 - [INFO] -   INSERT: A6627
+2026-03-26 21:10:55,753 - [INFO] -   INSERT: A5638
+2026-03-26 21:10:55,754 - [INFO] -   INSERT: B0368
+2026-03-26 21:10:55,754 - [INFO] -   INSERT: A7303
+2026-03-26 21:10:55,755 - [INFO] -   INSERT: A7419
+2026-03-26 21:10:55,756 - [INFO] -   INSERT: A5177
+2026-03-26 21:10:55,757 - [INFO] -   INSERT: A4590
+2026-03-26 21:10:55,757 - [INFO] -   INSERT: A7594
+2026-03-26 21:10:55,757 - [INFO] -   INSERT: A7582
+2026-03-26 21:10:55,757 - [INFO] -   INSERT: A1555
+2026-03-26 21:10:55,757 - [INFO] -   INSERT: A5618
+2026-03-26 21:10:55,761 - [INFO] -   INSERT: A1172
+2026-03-26 21:10:55,762 - [INFO] -   INSERT: A4166
+2026-03-26 21:10:55,764 - [INFO] -   INSERT: A4434
+2026-03-26 21:10:55,765 - [INFO] -   INSERT: A1375
+2026-03-26 21:10:55,766 - [INFO] -   INSERT: A5399
+2026-03-26 21:10:55,768 - [INFO] -   INSERT: A6874
+2026-03-26 21:10:55,768 - [INFO] -   INSERT: A1519
+2026-03-26 21:10:55,769 - [INFO] -   INSERT: A7570
+2026-03-26 21:10:55,770 - [INFO] -   INSERT: A6238
+2026-03-26 21:10:55,770 - [INFO] -   INSERT: A7644
+2026-03-26 21:10:55,771 - [INFO] -   INSERT: B0474
+2026-03-26 21:10:55,771 - [INFO] -   INSERT: A1475
+2026-03-26 21:10:55,772 - [INFO] -   INSERT: A7553
+2026-03-26 21:10:55,773 - [INFO] -   INSERT: B0510
+2026-03-26 21:10:55,774 - [INFO] -   INSERT: A3649
+2026-03-26 21:10:55,774 - [INFO] -   INSERT: A7542
+2026-03-26 21:10:55,775 - [INFO] -   INSERT: A0251
+2026-03-26 21:10:55,776 - [INFO] -   INSERT: A5786
+2026-03-26 21:10:55,776 - [INFO] -   INSERT: A5916
+2026-03-26 21:10:55,777 - [INFO] -   INSERT: A4652
+2026-03-26 21:10:55,778 - [INFO] -   INSERT: A6587
+2026-03-26 21:10:55,779 - [INFO] -   INSERT: B0069
+2026-03-26 21:10:55,781 - [INFO] -   INSERT: A6071
+2026-03-26 21:10:55,782 - [INFO] -   INSERT: A5836
+2026-03-26 21:10:55,783 - [INFO] -   INSERT: A7053
+2026-03-26 21:10:55,784 - [INFO] -   INSERT: A2748
+2026-03-26 21:10:55,785 - [INFO] -   INSERT: A6916
+2026-03-26 21:10:55,786 - [INFO] -   INSERT: A3490
+2026-03-26 21:10:55,787 - [INFO] -   INSERT: A2742
+2026-03-26 21:10:55,788 - [INFO] -   INSERT: A4603
+2026-03-26 21:10:55,789 - [INFO] -   INSERT: A7604
+2026-03-26 21:10:55,789 - [INFO] -   INSERT: A0859
+2026-03-26 21:10:55,790 - [INFO] -   INSERT: A1165
+2026-03-26 21:10:55,791 - [INFO] -   INSERT: A6128
+2026-03-26 21:10:55,792 - [INFO] -   INSERT: A4700
+2026-03-26 21:10:55,792 - [INFO] -   INSERT: A1271
+2026-03-26 21:10:55,793 - [INFO] -   INSERT: A5709
+2026-03-26 21:10:55,794 - [INFO] -   INSERT: A6410
+2026-03-26 21:10:55,794 - [INFO] -   INSERT: A0717
+2026-03-26 21:10:55,794 - [INFO] -   INSERT: B0300
+2026-03-26 21:10:55,798 - [INFO] -   INSERT: A7592
+2026-03-26 21:10:55,799 - [INFO] -   INSERT: A5560
+2026-03-26 21:10:55,800 - [INFO] -   INSERT: A3338
+2026-03-26 21:10:55,801 - [INFO] -   INSERT: A7346
+2026-03-26 21:10:55,801 - [INFO] -   INSERT: A6140
+2026-03-26 21:10:55,802 - [INFO] -   INSERT: A1562
+2026-03-26 21:10:55,803 - [INFO] -   INSERT: A0489
+2026-03-26 21:10:55,804 - [INFO] -   INSERT: A6224
+2026-03-26 21:10:55,805 - [INFO] -   INSERT: A6962
+2026-03-26 21:10:55,805 - [INFO] -   INSERT: A5073
+2026-03-26 21:10:55,805 - [INFO] -   INSERT: A5088
+2026-03-26 21:10:55,805 - [INFO] -   INSERT: A3249
+2026-03-26 21:10:55,805 - [INFO] -   INSERT: A6306
+2026-03-26 21:10:55,805 - [INFO] -   INSERT: A6808
+2026-03-26 21:10:55,805 - [INFO] -   INSERT: A6727
+2026-03-26 21:10:55,805 - [INFO] -   INSERT: A6366
+2026-03-26 21:10:55,810 - [INFO] -   INSERT: A3698
+2026-03-26 21:10:55,810 - [INFO] -   INSERT: A6834
+2026-03-26 21:10:55,811 - [INFO] -   INSERT: A4253
+2026-03-26 21:10:55,812 - [INFO] -   INSERT: A5383
+2026-03-26 21:10:55,814 - [INFO] -   INSERT: A4970
+2026-03-26 21:10:55,816 - [INFO] -   INSERT: A6230
+2026-03-26 21:10:55,817 - [INFO] -   INSERT: A7272
+2026-03-26 21:10:55,818 - [INFO] -   INSERT: A1231
+2026-03-26 21:10:55,818 - [INFO] -   INSERT: A7434
+2026-03-26 21:10:55,819 - [INFO] -   INSERT: A6144
+2026-03-26 21:10:55,820 - [INFO] -   INSERT: A6439
+2026-03-26 21:10:55,820 - [INFO] -   INSERT: A0869
+2026-03-26 21:10:55,821 - [INFO] -   INSERT: A7059
+2026-03-26 21:10:55,822 - [INFO] -   INSERT: A6495
+2026-03-26 21:10:55,823 - [INFO] -   INSERT: A7442
+2026-03-26 21:10:55,823 - [INFO] -   INSERT: A4467
+2026-03-26 21:10:55,824 - [INFO] -   INSERT: A7202
+2026-03-26 21:10:55,824 - [INFO] -   INSERT: A7494
+2026-03-26 21:10:55,825 - [INFO] -   INSERT: A4908
+2026-03-26 21:10:55,825 - [INFO] -   INSERT: A2912
+2026-03-26 21:10:55,826 - [INFO] -   INSERT: A3989
+2026-03-26 21:10:55,828 - [INFO] -   INSERT: A5574
+2026-03-26 21:10:55,829 - [INFO] -   INSERT: A0748
+2026-03-26 21:10:55,831 - [INFO] -   INSERT: A0976
+2026-03-26 21:10:55,832 - [INFO] -   INSERT: A4167
+2026-03-26 21:10:55,833 - [INFO] -   INSERT: A0236
+2026-03-26 21:10:55,833 - [INFO] -   INSERT: A4039
+2026-03-26 21:10:55,834 - [INFO] -   INSERT: A0606
+2026-03-26 21:10:55,835 - [INFO] -   INSERT: A6548
+2026-03-26 21:10:55,836 - [INFO] -   INSERT: A5164
+2026-03-26 21:10:55,836 - [INFO] -   INSERT: A0255
+2026-03-26 21:10:55,837 - [INFO] -   INSERT: A3326
+2026-03-26 21:10:55,838 - [INFO] -   INSERT: A7380
+2026-03-26 21:10:55,840 - [INFO] -   INSERT: A6731
+2026-03-26 21:10:55,841 - [INFO] -   INSERT: A1492
+2026-03-26 21:10:55,841 - [INFO] -   INSERT: A6622
+2026-03-26 21:10:55,842 - [INFO] -   INSERT: A6973
+2026-03-26 21:10:55,843 - [INFO] -   INSERT: A6901
+2026-03-26 21:10:55,843 - [INFO] -   INSERT: A2725
+2026-03-26 21:10:55,844 - [INFO] -   INSERT: A0365
+2026-03-26 21:10:55,845 - [INFO] -   INSERT: A7614
+2026-03-26 21:10:55,846 - [INFO] -   INSERT: A0081
+2026-03-26 21:10:55,848 - [INFO] -   INSERT: A5315
+2026-03-26 21:10:55,848 - [INFO] -   INSERT: A7050
+2026-03-26 21:10:55,849 - [INFO] -   INSERT: A5706
+2026-03-26 21:10:55,850 - [INFO] -   INSERT: A6343
+2026-03-26 21:10:55,851 - [INFO] -   INSERT: A2014
+2026-03-26 21:10:55,852 - [INFO] -   INSERT: A0028
+2026-03-26 21:10:55,852 - [INFO] -   INSERT: A4199
+2026-03-26 21:10:55,853 - [INFO] -   INSERT: A0149
+2026-03-26 21:10:55,854 - [INFO] -   INSERT: A5798
+2026-03-26 21:10:55,855 - [INFO] -   INSERT: A6979
+2026-03-26 21:10:55,855 - [INFO] -   INSERT: A6377
+2026-03-26 21:10:55,855 - [INFO] -   INSERT: A4454
+2026-03-26 21:10:55,855 - [INFO] -   INSERT: A3389
+2026-03-26 21:10:55,855 - [INFO] -   INSERT: A0763
+2026-03-26 21:10:55,861 - [INFO] -   INSERT: A1776
+2026-03-26 21:10:55,862 - [INFO] -   INSERT: A7576
+2026-03-26 21:10:55,865 - [INFO] -   INSERT: A4676
+2026-03-26 21:10:55,866 - [INFO] -   INSERT: A6522
+2026-03-26 21:10:55,868 - [INFO] -   INSERT: A2781
+2026-03-26 21:10:55,869 - [INFO] -   INSERT: A7581
+2026-03-26 21:10:55,870 - [INFO] -   INSERT: A6803
+2026-03-26 21:10:55,871 - [INFO] -   INSERT: A3587
+2026-03-26 21:10:55,872 - [INFO] -   INSERT: A5564
+2026-03-26 21:10:55,872 - [INFO] -   INSERT: A7142
+2026-03-26 21:10:55,873 - [INFO] -   INSERT: A7307
+2026-03-26 21:10:55,874 - [INFO] -   INSERT: A7392
+2026-03-26 21:10:55,875 - [INFO] -   INSERT: A0877
+2026-03-26 21:10:55,876 - [INFO] -   INSERT: A6822
+2026-03-26 21:10:55,876 - [INFO] -   INSERT: A7460
+2026-03-26 21:10:55,877 - [INFO] -   INSERT: A0097
+2026-03-26 21:10:55,878 - [INFO] -   INSERT: A6852
+2026-03-26 21:10:55,878 - [INFO] -   INSERT: A6541
+2026-03-26 21:10:55,879 - [INFO] -   INSERT: A6038
+2026-03-26 21:10:55,882 - [INFO] -   INSERT: A4229
+2026-03-26 21:10:55,882 - [INFO] -   INSERT: A3653
+2026-03-26 21:10:55,882 - [INFO] -   INSERT: A7666
+2026-03-26 21:10:55,883 - [INFO] -   INSERT: A6097
+2026-03-26 21:10:55,884 - [INFO] -   INSERT: A7554
+2026-03-26 21:10:55,884 - [INFO] -   INSERT: A7401
+2026-03-26 21:10:55,885 - [INFO] -   INSERT: A7167
+2026-03-26 21:10:55,885 - [INFO] -   INSERT: A2938
+2026-03-26 21:10:55,887 - [INFO] -   INSERT: A5759
+2026-03-26 21:10:55,887 - [INFO] - 
+Detecting EXPIRE records...
+2026-03-26 21:10:55,893 - [INFO] - 
+================================================================================
+2026-03-26 21:10:55,893 - [INFO] - MSRB SCD Type 2 Load Summary
+2026-03-26 21:10:55,893 - [INFO] - ================================================================================
+2026-03-26 21:10:55,899 - [INFO] - INSERTS:   925
+2026-03-26 21:10:55,899 - [INFO] - UPDATES:   0
+2026-03-26 21:10:55,900 - [INFO] - EXPIRES:   0
+2026-03-26 21:10:55,900 - [INFO] - NO CHANGE: 0
+2026-03-26 21:10:55,900 - [INFO] - ================================================================================
+
+2026-03-26 21:10:56,433 - [INFO] - Exported 925 current records to C:\Users\User\OneDrive\Documents\py_task\output\MSRB_current.csv
+2026-03-26 21:10:56,471 - [INFO] - Exported 925 history records to C:\Users\User\OneDrive\Documents\py_task\output\MSRB_history.csv
+2026-03-26 21:10:56,472 - [INFO] - Database connection closed
+2026-03-26 21:11:22,523 - [INFO] - Table MSRB_REGISTRANTS ready
+2026-03-26 21:11:22,523 - [INFO] - Connected to database: C:\Users\User\OneDrive\Documents\py_task\msrb_warehouse.db
+2026-03-26 21:11:22,523 - [INFO] - 
+================================================================================
+2026-03-26 21:11:22,523 - [INFO] - Starting MSRB SCD Type 2 Load
+2026-03-26 21:11:22,523 - [INFO] - ================================================================================
+2026-03-26 21:11:22,523 - [INFO] - Loaded 925 records from C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-03-26 21:11:22,523 - [INFO] - 
+Processing 925 source records...
+2026-03-26 21:11:22,538 - [INFO] -   INSERT: A5503
+2026-03-26 21:11:22,541 - [INFO] -   INSERT: A7464
+2026-03-26 21:11:22,541 - [INFO] -   INSERT: A7189
+2026-03-26 21:11:22,542 - [INFO] -   INSERT: A6913
+2026-03-26 21:11:22,542 - [INFO] -   INSERT: A5988
+2026-03-26 21:11:22,543 - [INFO] -   INSERT: A5915
+2026-03-26 21:11:22,543 - [INFO] -   INSERT: A2966
+2026-03-26 21:11:22,544 - [INFO] -   INSERT: A5189
+2026-03-26 21:11:22,544 - [INFO] -   INSERT: A7631
+2026-03-26 21:11:22,544 - [INFO] -   INSERT: A0887
+2026-03-26 21:11:22,545 - [INFO] -   INSERT: A2043
+2026-03-26 21:11:22,545 - [INFO] -   INSERT: A4803
+2026-03-26 21:11:22,546 - [INFO] -   INSERT: A6421
+2026-03-26 21:11:22,546 - [INFO] -   INSERT: A0377
+2026-03-26 21:11:22,547 - [INFO] -   INSERT: A0786
+2026-03-26 21:11:22,547 - [INFO] -   INSERT: A3616
+2026-03-26 21:11:22,547 - [INFO] -   INSERT: A7641
+2026-03-26 21:11:22,548 - [INFO] -   INSERT: A1357
+2026-03-26 21:11:22,548 - [INFO] -   INSERT: A1145
+2026-03-26 21:11:22,549 - [INFO] -   INSERT: A7334
+2026-03-26 21:11:22,549 - [INFO] -   INSERT: A6883
+2026-03-26 21:11:22,550 - [INFO] -   INSERT: A0231
+2026-03-26 21:11:22,550 - [INFO] -   INSERT: A4865
+2026-03-26 21:11:22,550 - [INFO] -   INSERT: A7482
+2026-03-26 21:11:22,551 - [INFO] -   INSERT: A5952
+2026-03-26 21:11:22,551 - [INFO] -   INSERT: A6123
+2026-03-26 21:11:22,551 - [INFO] -   INSERT: A6670
+2026-03-26 21:11:22,551 - [INFO] -   INSERT: A3246
+2026-03-26 21:11:22,552 - [INFO] -   INSERT: A5964
+2026-03-26 21:11:22,552 - [INFO] -   INSERT: A6574
+2026-03-26 21:11:22,552 - [INFO] -   INSERT: A6781
+2026-03-26 21:11:22,553 - [INFO] -   INSERT: A3638
+2026-03-26 21:11:22,553 - [INFO] -   INSERT: A7128
+2026-03-26 21:11:22,553 - [INFO] -   INSERT: A7474
+2026-03-26 21:11:22,553 - [INFO] -   INSERT: A0364
+2026-03-26 21:11:22,554 - [INFO] -   INSERT: A0850
+2026-03-26 21:11:22,554 - [INFO] -   INSERT: A7038
+2026-03-26 21:11:22,555 - [INFO] -   INSERT: A7574
+2026-03-26 21:11:22,555 - [INFO] -   INSERT: A7563
+2026-03-26 21:11:22,556 - [INFO] -   INSERT: A5865
+2026-03-26 21:11:22,556 - [INFO] -   INSERT: A7368
+2026-03-26 21:11:22,556 - [INFO] -   INSERT: A6486
+2026-03-26 21:11:22,557 - [INFO] -   INSERT: A7428
+2026-03-26 21:11:22,557 - [INFO] -   INSERT: A7523
+2026-03-26 21:11:22,557 - [INFO] -   INSERT: A7083
+2026-03-26 21:11:22,557 - [INFO] -   INSERT: A7350
+2026-03-26 21:11:22,558 - [INFO] -   INSERT: A4075
+2026-03-26 21:11:22,558 - [INFO] -   INSERT: A0797
+2026-03-26 21:11:22,558 - [INFO] -   INSERT: A1218
+2026-03-26 21:11:22,559 - [INFO] -   INSERT: A0626
+2026-03-26 21:11:22,559 - [INFO] -   INSERT: A6154
+2026-03-26 21:11:22,559 - [INFO] -   INSERT: A4685
+2026-03-26 21:11:22,560 - [INFO] -   INSERT: A3914
+2026-03-26 21:11:22,560 - [INFO] -   INSERT: A0024
+2026-03-26 21:11:22,561 - [INFO] -   INSERT: A5975
+2026-03-26 21:11:22,561 - [INFO] -   INSERT: A7645
+2026-03-26 21:11:22,562 - [INFO] -   INSERT: A0399
+2026-03-26 21:11:22,562 - [INFO] -   INSERT: A6783
+2026-03-26 21:11:22,563 - [INFO] -   INSERT: A4066
+2026-03-26 21:11:22,563 - [INFO] -   INSERT: A3977
+2026-03-26 21:11:22,564 - [INFO] -   INSERT: A0304
+2026-03-26 21:11:22,565 - [INFO] -   INSERT: A7630
+2026-03-26 21:11:22,565 - [INFO] -   INSERT: A2663
+2026-03-26 21:11:22,566 - [INFO] -   INSERT: A4978
+2026-03-26 21:11:22,567 - [INFO] -   INSERT: A5732
+2026-03-26 21:11:22,567 - [INFO] -   INSERT: A2442
+2026-03-26 21:11:22,567 - [INFO] -   INSERT: A7076
+2026-03-26 21:11:22,568 - [INFO] -   INSERT: A7385
+2026-03-26 21:11:22,568 - [INFO] -   INSERT: A4785
+2026-03-26 21:11:22,568 - [INFO] -   INSERT: A2080
+2026-03-26 21:11:22,569 - [INFO] -   INSERT: A7663
+2026-03-26 21:11:22,569 - [INFO] -   INSERT: A5142
+2026-03-26 21:11:22,569 - [INFO] -   INSERT: A6819
+2026-03-26 21:11:22,570 - [INFO] -   INSERT: A1481
+2026-03-26 21:11:22,570 - [INFO] -   INSERT: A6918
+2026-03-26 21:11:22,570 - [INFO] -   INSERT: A7586
+2026-03-26 21:11:22,571 - [INFO] -   INSERT: A3373
+2026-03-26 21:11:22,571 - [INFO] -   INSERT: A7411
+2026-03-26 21:11:22,571 - [INFO] -   INSERT: A6185
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A5030
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A6087
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A1381
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A0516
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A7175
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A6373
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A6072
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A2796
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A0039
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A6158
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A6970
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A3238
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A6113
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A5074
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A2110
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A1349
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A7662
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A2091
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A0692
+2026-03-26 21:11:22,573 - [INFO] -   INSERT: A5441
+2026-03-26 21:11:22,591 - [INFO] -   INSERT: A3528
+2026-03-26 21:11:22,591 - [INFO] -   INSERT: A5214
+2026-03-26 21:11:22,592 - [INFO] -   INSERT: A0563
+2026-03-26 21:11:22,593 - [INFO] -   INSERT: A6330
+2026-03-26 21:11:22,593 - [INFO] -   INSERT: A5405
+2026-03-26 21:11:22,594 - [INFO] -   INSERT: A5877
+2026-03-26 21:11:22,594 - [INFO] -   INSERT: A7511
+2026-03-26 21:11:22,596 - [INFO] -   INSERT: A6687
+2026-03-26 21:11:22,597 - [INFO] -   INSERT: A6253
+2026-03-26 21:11:22,598 - [INFO] -   INSERT: A4549
+2026-03-26 21:11:22,598 - [INFO] -   INSERT: A2132
+2026-03-26 21:11:22,599 - [INFO] -   INSERT: A1355
+2026-03-26 21:11:22,600 - [INFO] -   INSERT: A4571
+2026-03-26 21:11:22,601 - [INFO] -   INSERT: A5833
+2026-03-26 21:11:22,601 - [INFO] -   INSERT: A1330
+2026-03-26 21:11:22,602 - [INFO] -   INSERT: A7479
+2026-03-26 21:11:22,604 - [INFO] -   INSERT: A7609
+2026-03-26 21:11:22,605 - [INFO] -   INSERT: A7296
+2026-03-26 21:11:22,608 - [INFO] -   INSERT: A6518
+2026-03-26 21:11:22,609 - [INFO] -   INSERT: A4820
+2026-03-26 21:11:22,609 - [INFO] -   INSERT: A6580
+2026-03-26 21:11:22,610 - [INFO] -   INSERT: A7413
+2026-03-26 21:11:22,611 - [INFO] -   INSERT: A6707
+2026-03-26 21:11:22,612 - [INFO] -   INSERT: A6935
+2026-03-26 21:11:22,613 - [INFO] -   INSERT: A4382
+2026-03-26 21:11:22,613 - [INFO] -   INSERT: A4369
+2026-03-26 21:11:22,614 - [INFO] -   INSERT: A5402
+2026-03-26 21:11:22,615 - [INFO] -   INSERT: A7669
+2026-03-26 21:11:22,615 - [INFO] -   INSERT: A6797
+2026-03-26 21:11:22,616 - [INFO] -   INSERT: A6363
+2026-03-26 21:11:22,617 - [INFO] -   INSERT: A6438
+2026-03-26 21:11:22,618 - [INFO] -   INSERT: A6107
+2026-03-26 21:11:22,618 - [INFO] -   INSERT: A3712
+2026-03-26 21:11:22,619 - [INFO] -   INSERT: A6103
+2026-03-26 21:11:22,619 - [INFO] -   INSERT: A6002
+2026-03-26 21:11:22,620 - [INFO] -   INSERT: A3333
+2026-03-26 21:11:22,621 - [INFO] -   INSERT: A1012
+2026-03-26 21:11:22,621 - [INFO] -   INSERT: A7675
+2026-03-26 21:11:22,622 - [INFO] -   INSERT: A5752
+2026-03-26 21:11:22,622 - [INFO] -   INSERT: A7244
+2026-03-26 21:11:22,623 - [INFO] -   INSERT: A4861
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A7619
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A7405
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A7634
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A6991
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A6032
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A3600
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A7305
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A6370
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A7505
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A3944
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A0438
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A7638
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A1847
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A4017
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A6521
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A5874
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A3870
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A7099
+2026-03-26 21:11:22,624 - [INFO] -   INSERT: A0069
+2026-03-26 21:11:22,640 - [INFO] -   INSERT: A1963
+2026-03-26 21:11:22,641 - [INFO] -   INSERT: B0360
+2026-03-26 21:11:22,642 - [INFO] -   INSERT: A4973
+2026-03-26 21:11:22,642 - [INFO] -   INSERT: A6945
+2026-03-26 21:11:22,643 - [INFO] -   INSERT: A7353
+2026-03-26 21:11:22,645 - [INFO] -   INSERT: A2125
+2026-03-26 21:11:22,646 - [INFO] -   INSERT: A7529
+2026-03-26 21:11:22,646 - [INFO] -   INSERT: A2246
+2026-03-26 21:11:22,647 - [INFO] -   INSERT: A3315
+2026-03-26 21:11:22,648 - [INFO] -   INSERT: A7618
+2026-03-26 21:11:22,648 - [INFO] -   INSERT: A0758
+2026-03-26 21:11:22,649 - [INFO] -   INSERT: A5676
+2026-03-26 21:11:22,650 - [INFO] -   INSERT: A4320
+2026-03-26 21:11:22,650 - [INFO] -   INSERT: A3613
+2026-03-26 21:11:22,651 - [INFO] -   INSERT: A5860
+2026-03-26 21:11:22,652 - [INFO] -   INSERT: A5840
+2026-03-26 21:11:22,654 - [INFO] -   INSERT: A4912
+2026-03-26 21:11:22,654 - [INFO] -   INSERT: A2605
+2026-03-26 21:11:22,655 - [INFO] -   INSERT: A7640
+2026-03-26 21:11:22,660 - [INFO] -   INSERT: A7007
+2026-03-26 21:11:22,661 - [INFO] -   INSERT: A6485
+2026-03-26 21:11:22,661 - [INFO] -   INSERT: A2447
+2026-03-26 21:11:22,662 - [INFO] -   INSERT: A6178
+2026-03-26 21:11:22,663 - [INFO] -   INSERT: A6006
+2026-03-26 21:11:22,664 - [INFO] -   INSERT: A7629
+2026-03-26 21:11:22,664 - [INFO] -   INSERT: A5689
+2026-03-26 21:11:22,666 - [INFO] -   INSERT: A5148
+2026-03-26 21:11:22,667 - [INFO] -   INSERT: A7536
+2026-03-26 21:11:22,667 - [INFO] -   INSERT: A3500
+2026-03-26 21:11:22,667 - [INFO] -   INSERT: A1401
+2026-03-26 21:11:22,667 - [INFO] -   INSERT: A7466
+2026-03-26 21:11:22,667 - [INFO] -   INSERT: A6432
+2026-03-26 21:11:22,667 - [INFO] -   INSERT: A7633
+2026-03-26 21:11:22,674 - [INFO] -   INSERT: A6180
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A5694
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A2690
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A5341
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A7241
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A7519
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A4303
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: B0470
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A5582
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A7471
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A2857
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A3814
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A6383
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A1007
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A5959
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A7042
+2026-03-26 21:11:22,675 - [INFO] -   INSERT: A2689
+2026-03-26 21:11:22,689 - [INFO] -   INSERT: A7121
+2026-03-26 21:11:22,691 - [INFO] -   INSERT: A1272
+2026-03-26 21:11:22,693 - [INFO] -   INSERT: A6534
+2026-03-26 21:11:22,694 - [INFO] -   INSERT: A6862
+2026-03-26 21:11:22,695 - [INFO] -   INSERT: A5497
+2026-03-26 21:11:22,695 - [INFO] -   INSERT: A3684
+2026-03-26 21:11:22,696 - [INFO] -   INSERT: A7043
+2026-03-26 21:11:22,697 - [INFO] -   INSERT: A1313
+2026-03-26 21:11:22,697 - [INFO] -   INSERT: A5045
+2026-03-26 21:11:22,697 - [INFO] -   INSERT: A2421
+2026-03-26 21:11:22,697 - [INFO] -   INSERT: A5223
+2026-03-26 21:11:22,698 - [INFO] -   INSERT: A7387
+2026-03-26 21:11:22,698 - [INFO] -   INSERT: A0747
+2026-03-26 21:11:22,698 - [INFO] -   INSERT: A6847
+2026-03-26 21:11:22,698 - [INFO] -   INSERT: A6138
+2026-03-26 21:11:22,699 - [INFO] -   INSERT: A4458
+2026-03-26 21:11:22,699 - [INFO] -   INSERT: A1194
+2026-03-26 21:11:22,699 - [INFO] -   INSERT: A3412
+2026-03-26 21:11:22,700 - [INFO] -   INSERT: A4529
+2026-03-26 21:11:22,701 - [INFO] -   INSERT: A7087
+2026-03-26 21:11:22,701 - [INFO] -   INSERT: A5767
+2026-03-26 21:11:22,701 - [INFO] -   INSERT: A6248
+2026-03-26 21:11:22,702 - [INFO] -   INSERT: A4774
+2026-03-26 21:11:22,702 - [INFO] -   INSERT: A6234
+2026-03-26 21:11:22,703 - [INFO] -   INSERT: A1852
+2026-03-26 21:11:22,703 - [INFO] -   INSERT: A1887
+2026-03-26 21:11:22,704 - [INFO] -   INSERT: A5652
+2026-03-26 21:11:22,705 - [INFO] -   INSERT: A7417
+2026-03-26 21:11:22,706 - [INFO] -   INSERT: A5671
+2026-03-26 21:11:22,707 - [INFO] -   INSERT: A1942
+2026-03-26 21:11:22,708 - [INFO] -   INSERT: A1806
+2026-03-26 21:11:22,709 - [INFO] -   INSERT: A7266
+2026-03-26 21:11:22,709 - [INFO] -   INSERT: A6703
+2026-03-26 21:11:22,710 - [INFO] -   INSERT: A5796
+2026-03-26 21:11:22,711 - [INFO] -   INSERT: A2021
+2026-03-26 21:11:22,711 - [INFO] -   INSERT: A3355
+2026-03-26 21:11:22,713 - [INFO] -   INSERT: A6988
+2026-03-26 21:11:22,713 - [INFO] -   INSERT: A6787
+2026-03-26 21:11:22,715 - [INFO] -   INSERT: A3666
+2026-03-26 21:11:22,715 - [INFO] -   INSERT: A6768
+2026-03-26 21:11:22,716 - [INFO] -   INSERT: A6871
+2026-03-26 21:11:22,717 - [INFO] -   INSERT: A7605
+2026-03-26 21:11:22,718 - [INFO] -   INSERT: A6695
+2026-03-26 21:11:22,718 - [INFO] -   INSERT: A0085
+2026-03-26 21:11:22,719 - [INFO] -   INSERT: A0727
+2026-03-26 21:11:22,719 - [INFO] -   INSERT: A5989
+2026-03-26 21:11:22,720 - [INFO] -   INSERT: A5021
+2026-03-26 21:11:22,720 - [INFO] -   INSERT: A1037
+2026-03-26 21:11:22,721 - [INFO] -   INSERT: A0632
+2026-03-26 21:11:22,721 - [INFO] -   INSERT: A3831
+2026-03-26 21:11:22,722 - [INFO] -   INSERT: A1573
+2026-03-26 21:11:22,723 - [INFO] -   INSERT: A7590
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A6446
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A6750
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: B0286
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A5061
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A1898
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A5843
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A6776
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A7264
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A7515
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A7381
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A1303
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A6406
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A1729
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A5468
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A5864
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A5567
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A1137
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A7480
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A1091
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A0174
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A0360
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A2353
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A7503
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A7654
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A3378
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: B0270
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A1287
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A5773
+2026-03-26 21:11:22,725 - [INFO] -   INSERT: A0529
+2026-03-26 21:11:22,740 - [INFO] -   INSERT: A1039
+2026-03-26 21:11:22,741 - [INFO] -   INSERT: A5571
+2026-03-26 21:11:22,741 - [INFO] -   INSERT: A4071
+2026-03-26 21:11:22,742 - [INFO] -   INSERT: A0118
+2026-03-26 21:11:22,742 - [INFO] -   INSERT: A7285
+2026-03-26 21:11:22,743 - [INFO] -   INSERT: A6708
+2026-03-26 21:11:22,744 - [INFO] -   INSERT: A6645
+2026-03-26 21:11:22,744 - [INFO] -   INSERT: A3303
+2026-03-26 21:11:22,744 - [INFO] -   INSERT: A5232
+2026-03-26 21:11:22,745 - [INFO] -   INSERT: A5820
+2026-03-26 21:11:22,746 - [INFO] -   INSERT: A6560
+2026-03-26 21:11:22,746 - [INFO] -   INSERT: A4752
+2026-03-26 21:11:22,747 - [INFO] -   INSERT: A5962
+2026-03-26 21:11:22,748 - [INFO] -   INSERT: A7339
+2026-03-26 21:11:22,748 - [INFO] -   INSERT: A1877
+2026-03-26 21:11:22,749 - [INFO] -   INSERT: A6288
+2026-03-26 21:11:22,750 - [INFO] -   INSERT: A7547
+2026-03-26 21:11:22,751 - [INFO] -   INSERT: A5799
+2026-03-26 21:11:22,752 - [INFO] -   INSERT: A3682
+2026-03-26 21:11:22,753 - [INFO] -   INSERT: A6581
+2026-03-26 21:11:22,754 - [INFO] -   INSERT: B0475
+2026-03-26 21:11:22,758 - [INFO] -   INSERT: A5351
+2026-03-26 21:11:22,759 - [INFO] -   INSERT: A0193
+2026-03-26 21:11:22,760 - [INFO] -   INSERT: A7140
+2026-03-26 21:11:22,761 - [INFO] -   INSERT: A5286
+2026-03-26 21:11:22,762 - [INFO] -   INSERT: A6925
+2026-03-26 21:11:22,763 - [INFO] -   INSERT: A7517
+2026-03-26 21:11:22,764 - [INFO] -   INSERT: A7269
+2026-03-26 21:11:22,765 - [INFO] -   INSERT: A4971
+2026-03-26 21:11:22,766 - [INFO] -   INSERT: A7555
+2026-03-26 21:11:22,767 - [INFO] -   INSERT: A2770
+2026-03-26 21:11:22,768 - [INFO] -   INSERT: A6751
+2026-03-26 21:11:22,768 - [INFO] -   INSERT: A4892
+2026-03-26 21:11:22,769 - [INFO] -   INSERT: A6337
+2026-03-26 21:11:22,770 - [INFO] -   INSERT: A7126
+2026-03-26 21:11:22,771 - [INFO] -   INSERT: A6990
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A6984
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A3985
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A4446
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A5065
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A1157
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A1329
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A6379
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A7463
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A7532
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A6789
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A7659
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A6145
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A4008
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A6051
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A6094
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A4637
+2026-03-26 21:11:22,775 - [INFO] -   INSERT: A4421
+2026-03-26 21:11:22,789 - [INFO] -   INSERT: A5779
+2026-03-26 21:11:22,791 - [INFO] -   INSERT: A1290
+2026-03-26 21:11:22,791 - [INFO] -   INSERT: A3089
+2026-03-26 21:11:22,792 - [INFO] -   INSERT: A7349
+2026-03-26 21:11:22,792 - [INFO] -   INSERT: A5064
+2026-03-26 21:11:22,793 - [INFO] -   INSERT: A5250
+2026-03-26 21:11:22,794 - [INFO] -   INSERT: A7623
+2026-03-26 21:11:22,794 - [INFO] -   INSERT: A6427
+2026-03-26 21:11:22,795 - [INFO] -   INSERT: A7673
+2026-03-26 21:11:22,796 - [INFO] -   INSERT: A4916
+2026-03-26 21:11:22,796 - [INFO] -   INSERT: A6134
+2026-03-26 21:11:22,797 - [INFO] -   INSERT: A7345
+2026-03-26 21:11:22,797 - [INFO] -   INSERT: A3840
+2026-03-26 21:11:22,798 - [INFO] -   INSERT: A1062
+2026-03-26 21:11:22,798 - [INFO] -   INSERT: A4589
+2026-03-26 21:11:22,799 - [INFO] -   INSERT: A4786
+2026-03-26 21:11:22,799 - [INFO] -   INSERT: A5361
+2026-03-26 21:11:22,800 - [INFO] -   INSERT: A7242
+2026-03-26 21:11:22,800 - [INFO] -   INSERT: A7317
+2026-03-26 21:11:22,801 - [INFO] -   INSERT: A7013
+2026-03-26 21:11:22,801 - [INFO] -   INSERT: A4113
+2026-03-26 21:11:22,802 - [INFO] -   INSERT: A7621
+2026-03-26 21:11:22,802 - [INFO] -   INSERT: A5034
+2026-03-26 21:11:22,802 - [INFO] -   INSERT: A7227
+2026-03-26 21:11:22,803 - [INFO] -   INSERT: A7539
+2026-03-26 21:11:22,803 - [INFO] -   INSERT: B0429
+2026-03-26 21:11:22,804 - [INFO] -   INSERT: A6440
+2026-03-26 21:11:22,805 - [INFO] -   INSERT: A6429
+2026-03-26 21:11:22,805 - [INFO] -   INSERT: A7649
+2026-03-26 21:11:22,806 - [INFO] -   INSERT: A5857
+2026-03-26 21:11:22,807 - [INFO] -   INSERT: A3317
+2026-03-26 21:11:22,807 - [INFO] -   INSERT: A7583
+2026-03-26 21:11:22,808 - [INFO] -   INSERT: A2822
+2026-03-26 21:11:22,809 - [INFO] -   INSERT: K0403
+2026-03-26 21:11:22,809 - [INFO] -   INSERT: A2206
+2026-03-26 21:11:22,810 - [INFO] -   INSERT: A6362
+2026-03-26 21:11:22,810 - [INFO] -   INSERT: A1126
+2026-03-26 21:11:22,811 - [INFO] -   INSERT: A5772
+2026-03-26 21:11:22,811 - [INFO] -   INSERT: A7449
+2026-03-26 21:11:22,812 - [INFO] -   INSERT: A5979
+2026-03-26 21:11:22,813 - [INFO] -   INSERT: A5397
+2026-03-26 21:11:22,813 - [INFO] -   INSERT: A6980
+2026-03-26 21:11:22,814 - [INFO] -   INSERT: A6676
+2026-03-26 21:11:22,815 - [INFO] -   INSERT: A7075
+2026-03-26 21:11:22,815 - [INFO] -   INSERT: A4565
+2026-03-26 21:11:22,816 - [INFO] -   INSERT: A2055
+2026-03-26 21:11:22,816 - [INFO] -   INSERT: A7578
+2026-03-26 21:11:22,817 - [INFO] -   INSERT: A0036
+2026-03-26 21:11:22,817 - [INFO] -   INSERT: A0147
+2026-03-26 21:11:22,817 - [INFO] -   INSERT: A4441
+2026-03-26 21:11:22,823 - [INFO] -   INSERT: A1436
+2026-03-26 21:11:22,824 - [INFO] -   INSERT: A7543
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A3346
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A0136
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A1965
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A3627
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A6805
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A6415
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A5294
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A5227
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A0455
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A5859
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A7448
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A1036
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A5070
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: B0144
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A7522
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A3104
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A7658
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A7044
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A6566
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A0232
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A5374
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A4768
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A7236
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A5740
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A3302
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A7132
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A0277
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A2625
+2026-03-26 21:11:22,825 - [INFO] -   INSERT: A5639
+2026-03-26 21:11:22,840 - [INFO] -   INSERT: A6690
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A0835
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A6282
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A6672
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A6821
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A7268
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A7120
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A7298
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A6400
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: K0478
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A7467
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A3567
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A6091
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A1061
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A2873
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A7664
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A3858
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A1784
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A7606
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A1893
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A0836
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A0980
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A6386
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A4890
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A5839
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A2362
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A7579
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A5930
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A5828
+2026-03-26 21:11:22,841 - [INFO] -   INSERT: A3743
+2026-03-26 21:11:22,856 - [INFO] -   INSERT: A7319
+2026-03-26 21:11:22,857 - [INFO] -   INSERT: A6868
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A6022
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A7327
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A6912
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A6564
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A0799
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A5797
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A7521
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A1487
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A5803
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A6982
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A6658
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A5125
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A6341
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A5490
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A3572
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A6968
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A6961
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A4749
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A6025
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A4831
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A0777
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A0333
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A6304
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A6106
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A7139
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A6333
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A3686
+2026-03-26 21:11:22,858 - [INFO] -   INSERT: A0654
+2026-03-26 21:11:22,873 - [INFO] -   INSERT: A1070
+2026-03-26 21:11:22,874 - [INFO] -   INSERT: A4154
+2026-03-26 21:11:22,875 - [INFO] -   INSERT: A7472
+2026-03-26 21:11:22,876 - [INFO] -   INSERT: A3857
+2026-03-26 21:11:22,877 - [INFO] -   INSERT: A6933
+2026-03-26 21:11:22,877 - [INFO] -   INSERT: A1006
+2026-03-26 21:11:22,878 - [INFO] -   INSERT: A7033
+2026-03-26 21:11:22,878 - [INFO] -   INSERT: A2178
+2026-03-26 21:11:22,879 - [INFO] -   INSERT: A6969
+2026-03-26 21:11:22,879 - [INFO] -   INSERT: A7660
+2026-03-26 21:11:22,880 - [INFO] -   INSERT: A4744
+2026-03-26 21:11:22,880 - [INFO] -   INSERT: A7134
+2026-03-26 21:11:22,881 - [INFO] -   INSERT: A3836
+2026-03-26 21:11:22,882 - [INFO] -   INSERT: A0488
+2026-03-26 21:11:22,882 - [INFO] -   INSERT: A7299
+2026-03-26 21:11:22,882 - [INFO] -   INSERT: A7147
+2026-03-26 21:11:22,882 - [INFO] -   INSERT: A6121
+2026-03-26 21:11:22,882 - [INFO] -   INSERT: A3116
+2026-03-26 21:11:22,882 - [INFO] -   INSERT: A7538
+2026-03-26 21:11:22,882 - [INFO] -   INSERT: A0196
+2026-03-26 21:11:22,882 - [INFO] -   INSERT: A7440
+2026-03-26 21:11:22,882 - [INFO] -   INSERT: A5644
+2026-03-26 21:11:22,882 - [INFO] -   INSERT: A4144
+2026-03-26 21:11:22,882 - [INFO] -   INSERT: A4274
+2026-03-26 21:11:22,882 - [INFO] -   INSERT: A0682
+2026-03-26 21:11:22,882 - [INFO] -   INSERT: A6214
+2026-03-26 21:11:22,890 - [INFO] -   INSERT: A7118
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A0860
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A3678
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A1761
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A6885
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A2800
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A1819
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A7589
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A6759
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A5409
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A5489
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A5343
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A7456
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A4743
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A6927
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A1249
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A7408
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A2210
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A1306
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A0125
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A7520
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A7652
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A5924
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A2649
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A3962
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A5938
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A2986
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A5647
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A7424
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A4258
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A6971
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A6210
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A5111
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A6646
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A7665
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A6233
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A4993
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A7500
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A7084
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A6815
+2026-03-26 21:11:22,891 - [INFO] -   INSERT: A1418
+2026-03-26 21:11:22,907 - [INFO] -   INSERT: A4764
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A5940
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A1038
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A4335
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A7577
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A6117
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A7201
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A4502
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A0854
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A6473
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A7441
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A7432
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A6456
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A1000
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A1673
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A4981
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A7502
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A4779
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A7653
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A1711
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A5733
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A5273
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A2359
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A7429
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A5525
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: B0171
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A7495
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A5262
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A5754
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A5444
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A4089
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A0463
+2026-03-26 21:11:22,908 - [INFO] -   INSERT: A7019
+2026-03-26 21:11:22,923 - [INFO] -   INSERT: A3419
+2026-03-26 21:11:22,924 - [INFO] -   INSERT: A2908
+2026-03-26 21:11:22,925 - [INFO] -   INSERT: A6101
+2026-03-26 21:11:22,926 - [INFO] -   INSERT: A7407
+2026-03-26 21:11:22,926 - [INFO] -   INSERT: A7661
+2026-03-26 21:11:22,927 - [INFO] -   INSERT: A0296
+2026-03-26 21:11:22,927 - [INFO] -   INSERT: A5139
+2026-03-26 21:11:22,928 - [INFO] -   INSERT: A6020
+2026-03-26 21:11:22,928 - [INFO] -   INSERT: A7211
+2026-03-26 21:11:22,929 - [INFO] -   INSERT: A7637
+2026-03-26 21:11:22,929 - [INFO] -   INSERT: A4684
+2026-03-26 21:11:22,929 - [INFO] -   INSERT: A6316
+2026-03-26 21:11:22,930 - [INFO] -   INSERT: A3188
+2026-03-26 21:11:22,930 - [INFO] -   INSERT: A6983
+2026-03-26 21:11:22,931 - [INFO] -   INSERT: A5141
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A3574
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A4243
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A4545
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A0953
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A7657
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A0487
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A5446
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A6963
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A0643
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A6579
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A4178
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A2729
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A6897
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A5729
+2026-03-26 21:11:22,932 - [INFO] -   INSERT: A7129
+2026-03-26 21:11:22,940 - [INFO] -   INSERT: A6505
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A4047
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A6577
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A7477
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A7569
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A6254
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A2328
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A6114
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: B0027
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A2176
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A2197
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A5991
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A6523
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A5325
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A0079
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A7363
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A5185
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A3696
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A6730
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A0631
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A6692
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A6906
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A6223
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A6524
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A7114
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A5240
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A4455
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A0105
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A0806
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A7115
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A4721
+2026-03-26 21:11:22,941 - [INFO] -   INSERT: A6841
+2026-03-26 21:11:22,956 - [INFO] -   INSERT: A1809
+2026-03-26 21:11:22,957 - [INFO] -   INSERT: A3898
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A2602
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A7377
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A0198
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A7028
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A6680
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A0706
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A3509
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A7540
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A6013
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A6172
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A6497
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A7421
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A7493
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A6855
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A6202
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A7179
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A1193
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A6536
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A0823
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A0862
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A7549
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A7481
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A7534
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A1715
+2026-03-26 21:11:22,958 - [INFO] -   INSERT: A2389
+2026-03-26 21:11:22,974 - [INFO] -   INSERT: A7677
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A5508
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7039
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A0166
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7676
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A6576
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A5246
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7188
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7628
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7551
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7035
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7541
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A5738
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A0775
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A3445
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A3290
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A3741
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7258
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7492
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A5476
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A6948
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A6568
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A6530
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7406
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A4887
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A3899
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7097
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A0400
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A6950
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A3020
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7412
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A4470
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A2027
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7162
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A4418
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A4099
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A5316
+2026-03-26 21:11:22,975 - [INFO] -   INSERT: A7394
+2026-03-26 21:11:22,990 - [INFO] -   INSERT: A5238
+2026-03-26 21:11:22,991 - [INFO] -   INSERT: A5276
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A5322
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A6457
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A2841
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A7525
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A0693
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A7562
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A2409
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A5948
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A5098
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A1768
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A2272
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A7507
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A0695
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: B0019
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A0576
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A6746
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A6356
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A6392
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A0785
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A4542
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A0215
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A6029
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A7484
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A7338
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A2790
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: B0358
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A6652
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A0137
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A7612
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A6910
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A4990
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A6755
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A7023
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A7655
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A5984
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A1214
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A7465
+2026-03-26 21:11:22,992 - [INFO] -   INSERT: A1765
+2026-03-26 21:11:23,007 - [INFO] -   INSERT: A0538
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A5498
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A0117
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A1399
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A7608
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A4131
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A6753
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A7572
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A6298
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A6737
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A7531
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A6137
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A5760
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A6875
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A7506
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A3229
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A6739
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A4481
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A6575
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A5434
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A2960
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A6153
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A6419
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A6627
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A5638
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: B0368
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A7303
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A7419
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A5177
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A4590
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A7594
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A7582
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A1555
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A5618
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A1172
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A4166
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A4434
+2026-03-26 21:11:23,008 - [INFO] -   INSERT: A1375
+2026-03-26 21:11:23,023 - [INFO] -   INSERT: A5399
+2026-03-26 21:11:23,024 - [INFO] -   INSERT: A6874
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A1519
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A7570
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A6238
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A7644
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: B0474
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A1475
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A7553
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: B0510
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A3649
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A7542
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A0251
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A5786
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A5916
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A4652
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A6587
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: B0069
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A6071
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A5836
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A7053
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A2748
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A6916
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A3490
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A2742
+2026-03-26 21:11:23,025 - [INFO] -   INSERT: A4603
+2026-03-26 21:11:23,040 - [INFO] -   INSERT: A7604
+2026-03-26 21:11:23,040 - [INFO] -   INSERT: A0859
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A1165
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A6128
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A4700
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A1271
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A5709
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A6410
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A0717
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: B0300
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A7592
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A5560
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A3338
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A7346
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A6140
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A1562
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A0489
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A6224
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A6962
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A5073
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A5088
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A3249
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A6306
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A6808
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A6727
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A6366
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A3698
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A6834
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A4253
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A5383
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A4970
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A6230
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A7272
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A1231
+2026-03-26 21:11:23,041 - [INFO] -   INSERT: A7434
+2026-03-26 21:11:23,057 - [INFO] -   INSERT: A6144
+2026-03-26 21:11:23,057 - [INFO] -   INSERT: A6439
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A0869
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A7059
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A6495
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A7442
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A4467
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A7202
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A7494
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A4908
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A2912
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A3989
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A5574
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A0748
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A0976
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A4167
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A0236
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A4039
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A0606
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A6548
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A5164
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A0255
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A3326
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A7380
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A6731
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A1492
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A6622
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A6973
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A6901
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A2725
+2026-03-26 21:11:23,058 - [INFO] -   INSERT: A0365
+2026-03-26 21:11:23,073 - [INFO] -   INSERT: A7614
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A0081
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A5315
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A7050
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A5706
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A6343
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A2014
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A0028
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A4199
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A0149
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A5798
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A6979
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A6377
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A4454
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A3389
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A0763
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A1776
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A7576
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A4676
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A6522
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A2781
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A7581
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A6803
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A3587
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A5564
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A7142
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A7307
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A7392
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A0877
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A6822
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A7460
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A0097
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A6852
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A6541
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A6038
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A4229
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A3653
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A7666
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A6097
+2026-03-26 21:11:23,075 - [INFO] -   INSERT: A7554
+2026-03-26 21:11:23,089 - [INFO] -   INSERT: A7401
+2026-03-26 21:11:23,090 - [INFO] -   INSERT: A7167
+2026-03-26 21:11:23,091 - [INFO] -   INSERT: A2938
+2026-03-26 21:11:23,091 - [INFO] -   INSERT: A5759
+2026-03-26 21:11:23,091 - [INFO] - 
+Detecting EXPIRE records...
+2026-03-26 21:11:23,091 - [INFO] - 
+================================================================================
+2026-03-26 21:11:23,091 - [INFO] - MSRB SCD Type 2 Load Summary
+2026-03-26 21:11:23,091 - [INFO] - ================================================================================
+2026-03-26 21:11:23,091 - [INFO] - INSERTS:   925
+2026-03-26 21:11:23,091 - [INFO] - UPDATES:   0
+2026-03-26 21:11:23,091 - [INFO] - EXPIRES:   0
+2026-03-26 21:11:23,091 - [INFO] - NO CHANGE: 0
+2026-03-26 21:11:23,091 - [INFO] - ================================================================================
+
+2026-03-26 21:11:23,241 - [INFO] - Exported 925 current records to C:\Users\User\OneDrive\Documents\py_task\output\MSRB_current.csv
+2026-03-26 21:11:23,258 - [INFO] - Exported 925 history records to C:\Users\User\OneDrive\Documents\py_task\output\MSRB_history.csv
+2026-03-26 21:11:23,258 - [INFO] - Database connection closed
+2026-03-26 21:18:28,445 - [INFO] - Table MSRB_REGISTRANTS ready
+2026-03-26 21:18:28,445 - [INFO] - Connected to database: C:\Users\User\OneDrive\Documents\py_task\msrb_warehouse.db
+2026-03-26 21:18:28,445 - [INFO] - 
+================================================================================
+2026-03-26 21:18:28,445 - [INFO] - Starting MSRB SCD Type 2 Load
+2026-03-26 21:18:28,446 - [INFO] - ================================================================================
+2026-03-26 21:18:28,466 - [INFO] - Loaded 925 records from 2026-03-26_MSRBRegistrants_V2.csv
+2026-03-26 21:18:28,474 - [INFO] - 
+Processing 925 source records...
+2026-03-26 21:18:28,475 - [INFO] -   UPDATE: A5503
+2026-03-26 21:18:28,478 - [INFO] -   UPDATE: A5915
+2026-03-26 21:18:28,480 - [INFO] -   UPDATE: A2043
+2026-03-26 21:18:28,608 - [INFO] -   INSERT: A9998
+2026-03-26 21:18:28,609 - [INFO] -   INSERT: A9997
+2026-03-26 21:18:28,610 - [INFO] -   INSERT: A9996
+2026-03-26 21:18:28,611 - [INFO] -   INSERT: A9995
+2026-03-26 21:18:28,611 - [INFO] -   INSERT: A9994
+2026-03-26 21:18:28,612 - [INFO] - 
+Detecting EXPIRE records...
+2026-03-26 21:18:28,612 - [ERROR] - Fatal error: '>' not supported between instances of 'str' and 'datetime.datetime'
+2026-03-26 21:20:10,633 - [INFO] - Table MSRB_REGISTRANTS ready
+2026-03-26 21:20:10,634 - [INFO] - Connected to database: C:\Users\User\OneDrive\Documents\py_task\msrb_warehouse.db
+2026-03-26 21:20:10,634 - [INFO] - 
+================================================================================
+2026-03-26 21:20:10,635 - [INFO] - Starting MSRB SCD Type 2 Load
+2026-03-26 21:20:10,635 - [INFO] - ================================================================================
+2026-03-26 21:20:10,647 - [INFO] - Loaded 925 records from 2026-03-26_MSRBRegistrants_V2.csv
+2026-03-26 21:20:10,658 - [INFO] - 
+Processing 925 source records...
+2026-03-26 21:20:10,659 - [INFO] -   UPDATE: A5503
+2026-03-26 21:20:10,663 - [INFO] -   UPDATE: A5915
+2026-03-26 21:20:10,664 - [INFO] -   UPDATE: A2043
+2026-03-26 21:20:10,790 - [INFO] -   INSERT: A9998
+2026-03-26 21:20:10,791 - [INFO] -   INSERT: A9997
+2026-03-26 21:20:10,792 - [INFO] -   INSERT: A9996
+2026-03-26 21:20:10,793 - [INFO] -   INSERT: A9995
+2026-03-26 21:20:10,794 - [INFO] -   INSERT: A9994
+2026-03-26 21:20:10,795 - [INFO] - 
+Detecting EXPIRE records...
+2026-03-26 21:20:10,797 - [INFO] -   EXPIRE: A7554
+2026-03-26 21:20:10,798 - [INFO] -   EXPIRE: A7401
+2026-03-26 21:20:10,798 - [INFO] -   EXPIRE: A7167
+2026-03-26 21:20:10,799 - [INFO] -   EXPIRE: A2938
+2026-03-26 21:20:10,800 - [INFO] -   EXPIRE: A5759
+2026-03-26 21:20:10,803 - [INFO] - 
+================================================================================
+2026-03-26 21:20:10,805 - [INFO] - MSRB SCD Type 2 Load Summary
+2026-03-26 21:20:10,806 - [INFO] - ================================================================================
+2026-03-26 21:20:10,806 - [INFO] - INSERTS:   5
+2026-03-26 21:20:10,807 - [INFO] - UPDATES:   3
+2026-03-26 21:20:10,807 - [INFO] - EXPIRES:   5
+2026-03-26 21:20:10,807 - [INFO] - NO CHANGE: 917
+2026-03-26 21:20:10,808 - [INFO] - ================================================================================
+
+2026-03-26 21:20:11,254 - [INFO] - Exported 925 current records to C:\Users\User\OneDrive\Documents\py_task\output\MSRB_current.csv
+2026-03-26 21:20:11,291 - [INFO] - Exported 933 history records to C:\Users\User\OneDrive\Documents\py_task\output\MSRB_history.csv
+2026-03-26 21:20:11,292 - [INFO] - Database connection closed
+2026-03-26 21:20:34,428 - [INFO] - Table MSRB_REGISTRANTS ready
+2026-03-26 21:20:34,429 - [INFO] - Connected to database: C:\Users\User\OneDrive\Documents\py_task\msrb_warehouse.db
+2026-03-26 21:20:34,429 - [INFO] - 
+================================================================================
+2026-03-26 21:20:34,429 - [INFO] - Starting MSRB SCD Type 2 Load
+2026-03-26 21:20:34,429 - [INFO] - ================================================================================
+2026-03-26 21:20:34,437 - [INFO] - Loaded 925 records from 2026-03-26_MSRBRegistrants_V2.csv
+2026-03-26 21:20:34,444 - [INFO] - 
+Processing 925 source records...
+2026-03-26 21:20:34,690 - [INFO] - 
+Detecting EXPIRE records...
+2026-03-26 21:20:34,692 - [INFO] - 
+================================================================================
+2026-03-26 21:20:34,692 - [INFO] - MSRB SCD Type 2 Load Summary
+2026-03-26 21:20:34,692 - [INFO] - ================================================================================
+2026-03-26 21:20:34,693 - [INFO] - INSERTS:   0
+2026-03-26 21:20:34,693 - [INFO] - UPDATES:   0
+2026-03-26 21:20:34,693 - [INFO] - EXPIRES:   0
+2026-03-26 21:20:34,693 - [INFO] - NO CHANGE: 925
+2026-03-26 21:20:34,693 - [INFO] - ================================================================================
+
+2026-03-26 21:20:34,793 - [INFO] - Exported 925 current records to C:\Users\User\OneDrive\Documents\py_task\output\MSRB_current.csv
+2026-03-26 21:20:34,818 - [INFO] - Exported 933 history records to C:\Users\User\OneDrive\Documents\py_task\output\MSRB_history.csv
+2026-03-26 21:20:34,819 - [INFO] - Database connection closed
