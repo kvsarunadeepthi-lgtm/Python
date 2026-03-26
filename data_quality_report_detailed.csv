@@ -1,0 +1,6 @@
+Timestamp,check,status,details
+2026-03-27T00:35:22.352590,CHECK 0: Null Values,FAILED,ERROR: NULL values found in 1 column(s): Firm Name
+2026-03-27T00:35:22.352590,CHECK 1: Primary Key Nulls,PASSED,No nulls in 925 records
+2026-03-27T00:35:22.352590,CHECK 2: Special Characters,PASSED,No invalid characters
+2026-03-27T00:35:22.352590,CHECK 3: Threshold Check,PASSED,Variance 0.00% within threshold
+2026-03-27T00:35:22.352590,CHECK 4: Data Types,PASSED,All types correct
