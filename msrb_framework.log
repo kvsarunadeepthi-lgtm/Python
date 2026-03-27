@@ -1,0 +1,647 @@
+2026-03-27 00:48:17,419 - __main__ - INFO - Using default input file: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 00:48:17,429 - __main__ - ERROR - Failed to import framework modules: cannot import name 'FrameworkConfig' from 'msrb_framework.config' (c:\Users\User\OneDrive\Documents\py_task\msrb_framework\config.py)
+2026-03-27 00:48:17,429 - __main__ - ERROR - Ensure all framework modules are in the msrb_framework directory
+2026-03-27 00:50:37,199 - __main__ - INFO - Using default input file: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 00:50:38,309 - __main__ - INFO - Project root: C:\Users\User\OneDrive\Documents
+2026-03-27 00:50:38,324 - __main__ - INFO - Input file: C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-03-27 00:50:38,327 - msrb_framework.orchestrator - INFO - Framework initialized for project root: C:\Users\User\OneDrive\Documents
+2026-03-27 00:50:38,328 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 00:50:38,329 - __main__ - INFO - STARTING FRAMEWORK EXECUTION
+2026-03-27 00:50:38,330 - __main__ - INFO - ====================================================================================================
+
+2026-03-27 00:50:38,330 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 00:50:38,331 - msrb_framework.orchestrator - INFO - MSRB CDC FRAMEWORK - WORKFLOW EXECUTION STARTED
+2026-03-27 00:50:38,332 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 00:50:38,333 - msrb_framework.orchestrator - INFO - 
+[STEP 1] Verifying input file...
+2026-03-27 00:50:38,342 - msrb_framework.orchestrator - INFO -   File size: 51,254 bytes
+2026-03-27 00:50:38,343 - msrb_framework.orchestrator - INFO - 
+[STEP 2] Loading data from input file...
+2026-03-27 00:50:38,359 - msrb_framework.orchestrator - INFO -   Total records: 925
+2026-03-27 00:50:38,359 - msrb_framework.orchestrator - INFO -   Columns: 4
+2026-03-27 00:50:38,359 - msrb_framework.orchestrator - INFO -   Sample columns: Firm Name, MSRB ID, State...
+2026-03-27 00:50:38,359 - msrb_framework.reporting - INFO - Data load results recorded: 925 records loaded
+2026-03-27 00:50:38,359 - msrb_framework.orchestrator - INFO - 
+[STEP 3] Executing data quality validation...
+2026-03-27 00:50:38,367 - msrb_framework.orchestrator - INFO -   Checks run: 5
+2026-03-27 00:50:38,369 - msrb_framework.orchestrator - INFO -   Checks passed: 4
+2026-03-27 00:50:38,369 - msrb_framework.orchestrator - INFO -   Checks failed: 1
+2026-03-27 00:50:38,369 - msrb_framework.reporting - INFO - Quality validation results recorded: FAILED
+2026-03-27 00:50:38,369 - msrb_framework.orchestrator - WARNING - Data quality validation failed: 1 check(s) failed
+2026-03-27 00:50:38,369 - msrb_framework.orchestrator - INFO - 
+[STEP 4] Executing CDC operations...
+2026-03-27 00:50:38,377 - msrb_framework.orchestrator - INFO -   Inserts: 925
+2026-03-27 00:50:38,378 - msrb_framework.orchestrator - INFO -   Updates: 45
+2026-03-27 00:50:38,379 - msrb_framework.orchestrator - INFO -   Expires: 12
+2026-03-27 00:50:38,379 - msrb_framework.reporting - INFO - CDC results recorded: 925 inserts, 45 updates, 12 expires
+2026-03-27 00:50:38,379 - msrb_framework.orchestrator - INFO - 
+[STEP 5] Generating reports...
+2026-03-27 00:50:38,400 - msrb_framework.reporting - INFO - Execution status: SUCCESS
+2026-03-27 00:50:38,405 - msrb_framework.orchestrator - INFO - 
+====================================================================================================
+2026-03-27 00:50:38,405 - msrb_framework.orchestrator - INFO - WORKFLOW EXECUTION COMPLETED SUCCESSFULLY
+2026-03-27 00:50:38,406 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 00:50:38,407 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 00:50:38,407 - __main__ - INFO - EXECUTION SUMMARY
+2026-03-27 00:50:38,408 - __main__ - INFO - ====================================================================================================
+2026-03-27 00:50:38,413 - __main__ - INFO - 
+  Data Loaded: 925 records
+2026-03-27 00:50:38,414 - __main__ - INFO - 
+  Quality Validation: 4 passed, 1 failed
+2026-03-27 00:50:38,414 - __main__ - INFO - 
+  CDC Operations: 925 inserts, 45 updates, 12 expires
+2026-03-27 00:50:38,416 - __main__ - INFO - 
+  Warnings: 1
+2026-03-27 00:50:38,416 - __main__ - WARNING -     • Quality checks failed: 1
+2026-03-27 00:50:38,416 - __main__ - INFO - 
+  Reports saved to: C:\Users\User\OneDrive\Documents\output\reports
+2026-03-27 00:50:38,416 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 00:51:27,799 - __main__ - INFO - Using default input file: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 00:51:28,708 - __main__ - INFO - Project root: C:\Users\User\OneDrive\Documents
+2026-03-27 00:51:28,709 - __main__ - INFO - Input file: C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-03-27 00:51:28,712 - msrb_framework.orchestrator - INFO - Framework initialized for project root: C:\Users\User\OneDrive\Documents
+2026-03-27 00:51:28,713 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 00:51:28,713 - __main__ - INFO - STARTING FRAMEWORK EXECUTION
+2026-03-27 00:51:28,714 - __main__ - INFO - ====================================================================================================
+
+2026-03-27 00:51:28,715 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 00:51:28,715 - msrb_framework.orchestrator - INFO - MSRB CDC FRAMEWORK - WORKFLOW EXECUTION STARTED
+2026-03-27 00:51:28,716 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 00:51:28,717 - msrb_framework.orchestrator - INFO - 
+[STEP 1] Verifying input file...
+2026-03-27 00:51:28,717 - msrb_framework.orchestrator - INFO - [OK] Input file verified: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 00:51:28,718 - msrb_framework.orchestrator - INFO -   File size: 51,254 bytes
+2026-03-27 00:51:28,718 - msrb_framework.orchestrator - INFO - 
+[STEP 2] Loading data from input file...
+2026-03-27 00:51:28,727 - msrb_framework.orchestrator - INFO - [OK] Data loaded successfully
+2026-03-27 00:51:28,727 - msrb_framework.orchestrator - INFO -   Total records: 925
+2026-03-27 00:51:28,728 - msrb_framework.orchestrator - INFO -   Columns: 4
+2026-03-27 00:51:28,729 - msrb_framework.orchestrator - INFO -   Sample columns: Firm Name, MSRB ID, State...
+2026-03-27 00:51:28,730 - msrb_framework.reporting - INFO - Data load results recorded: 925 records loaded
+2026-03-27 00:51:28,731 - msrb_framework.orchestrator - INFO - 
+[STEP 3] Executing data quality validation...
+2026-03-27 00:51:28,732 - msrb_framework.orchestrator - INFO - [OK] Data quality validation completed
+2026-03-27 00:51:28,732 - msrb_framework.orchestrator - INFO -   Checks run: 5
+2026-03-27 00:51:28,733 - msrb_framework.orchestrator - INFO -   Checks passed: 4
+2026-03-27 00:51:28,733 - msrb_framework.orchestrator - INFO -   Checks failed: 1
+2026-03-27 00:51:28,733 - msrb_framework.reporting - INFO - Quality validation results recorded: FAILED
+2026-03-27 00:51:28,734 - msrb_framework.orchestrator - WARNING - Data quality validation failed: 1 check(s) failed
+2026-03-27 00:51:28,734 - msrb_framework.orchestrator - INFO - 
+[STEP 4] Executing CDC operations...
+2026-03-27 00:51:28,735 - msrb_framework.orchestrator - INFO - [OK] CDC operations completed
+2026-03-27 00:51:28,735 - msrb_framework.orchestrator - INFO -   Inserts: 925
+2026-03-27 00:51:28,735 - msrb_framework.orchestrator - INFO -   Updates: 45
+2026-03-27 00:51:28,735 - msrb_framework.orchestrator - INFO -   Expires: 12
+2026-03-27 00:51:28,735 - msrb_framework.reporting - INFO - CDC results recorded: 925 inserts, 45 updates, 12 expires
+2026-03-27 00:51:28,738 - msrb_framework.orchestrator - INFO - 
+[STEP 5] Generating reports...
+2026-03-27 00:51:28,752 - msrb_framework.orchestrator - ERROR - [ERROR] Report generation failed: 'charmap' codec can't encode character '\u2713' in position 1096: character maps to <undefined>
+2026-03-27 00:51:28,753 - msrb_framework.reporting - INFO - Execution status: SUCCESS
+2026-03-27 00:51:28,754 - msrb_framework.orchestrator - INFO - 
+====================================================================================================
+2026-03-27 00:51:28,754 - msrb_framework.orchestrator - INFO - WORKFLOW EXECUTION COMPLETED SUCCESSFULLY
+2026-03-27 00:51:28,755 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 00:51:28,755 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 00:51:28,756 - __main__ - INFO - EXECUTION SUMMARY
+2026-03-27 00:51:28,756 - __main__ - INFO - ====================================================================================================
+2026-03-27 00:51:28,756 - __main__ - INFO - [SUCCESS] Framework execution SUCCEEDED
+2026-03-27 00:51:28,757 - __main__ - INFO - 
+  Data Loaded: 925 records
+2026-03-27 00:51:28,757 - __main__ - INFO - 
+  Quality Validation: 4 passed, 1 failed
+2026-03-27 00:51:28,758 - __main__ - INFO - 
+  CDC Operations: 925 inserts, 45 updates, 12 expires
+2026-03-27 00:51:28,758 - __main__ - INFO - 
+  Warnings: 1
+2026-03-27 00:51:28,759 - __main__ - WARNING -     - Quality checks failed: 1
+2026-03-27 00:51:28,759 - __main__ - INFO - 
+  Reports saved to: C:\Users\User\OneDrive\Documents\output\reports
+2026-03-27 00:51:28,760 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 00:53:39,432 - __main__ - INFO - Using default input file: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 00:53:40,533 - __main__ - INFO - Project root: c:\Users\User\OneDrive\Documents
+2026-03-27 00:53:40,546 - __main__ - INFO - Input file: C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-03-27 00:53:40,549 - msrb_framework.orchestrator - INFO - Framework initialized for project root: c:\Users\User\OneDrive\Documents
+2026-03-27 00:53:40,550 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 00:53:40,552 - __main__ - INFO - STARTING FRAMEWORK EXECUTION
+2026-03-27 00:53:40,552 - __main__ - INFO - ====================================================================================================
+
+2026-03-27 00:53:40,552 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 00:53:40,552 - msrb_framework.orchestrator - INFO - MSRB CDC FRAMEWORK - WORKFLOW EXECUTION STARTED
+2026-03-27 00:53:40,552 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 00:53:40,562 - msrb_framework.orchestrator - INFO - 
+[STEP 1] Verifying input file...
+2026-03-27 00:53:40,564 - msrb_framework.orchestrator - INFO - [OK] Input file verified: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 00:53:40,565 - msrb_framework.orchestrator - INFO -   File size: 51,254 bytes
+2026-03-27 00:53:40,566 - msrb_framework.orchestrator - INFO - 
+[STEP 2] Loading data from input file...
+2026-03-27 00:53:40,583 - msrb_framework.orchestrator - INFO - [OK] Data loaded successfully
+2026-03-27 00:53:40,584 - msrb_framework.orchestrator - INFO -   Total records: 925
+2026-03-27 00:53:40,585 - msrb_framework.orchestrator - INFO -   Columns: 4
+2026-03-27 00:53:40,586 - msrb_framework.orchestrator - INFO -   Sample columns: Firm Name, MSRB ID, State...
+2026-03-27 00:53:40,587 - msrb_framework.reporting - INFO - Data load results recorded: 925 records loaded
+2026-03-27 00:53:40,588 - msrb_framework.orchestrator - INFO - 
+[STEP 3] Executing data quality validation...
+2026-03-27 00:53:40,590 - msrb_framework.orchestrator - INFO - [OK] Data quality validation completed
+2026-03-27 00:53:40,591 - msrb_framework.orchestrator - INFO -   Checks run: 5
+2026-03-27 00:53:40,591 - msrb_framework.orchestrator - INFO -   Checks passed: 4
+2026-03-27 00:53:40,594 - msrb_framework.orchestrator - INFO -   Checks failed: 1
+2026-03-27 00:53:40,596 - msrb_framework.reporting - INFO - Quality validation results recorded: FAILED
+2026-03-27 00:53:40,597 - msrb_framework.orchestrator - WARNING - Data quality validation failed: 1 check(s) failed
+2026-03-27 00:53:40,598 - msrb_framework.orchestrator - INFO - 
+[STEP 4] Executing CDC operations...
+2026-03-27 00:53:40,599 - msrb_framework.orchestrator - INFO - [OK] CDC operations completed
+2026-03-27 00:53:40,600 - msrb_framework.orchestrator - INFO -   Inserts: 925
+2026-03-27 00:53:40,601 - msrb_framework.orchestrator - INFO -   Updates: 45
+2026-03-27 00:53:40,602 - msrb_framework.orchestrator - INFO -   Expires: 12
+2026-03-27 00:53:40,603 - msrb_framework.reporting - INFO - CDC results recorded: 925 inserts, 45 updates, 12 expires
+2026-03-27 00:53:40,603 - msrb_framework.orchestrator - INFO - 
+[STEP 5] Generating reports...
+2026-03-27 00:53:40,635 - msrb_framework.orchestrator - ERROR - [ERROR] Report generation failed: 'charmap' codec can't encode character '\u2713' in position 1096: character maps to <undefined>
+2026-03-27 00:53:40,636 - msrb_framework.reporting - INFO - Execution status: SUCCESS
+2026-03-27 00:53:40,636 - msrb_framework.orchestrator - INFO - 
+====================================================================================================
+2026-03-27 00:53:40,637 - msrb_framework.orchestrator - INFO - WORKFLOW EXECUTION COMPLETED SUCCESSFULLY
+2026-03-27 00:53:40,638 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 00:53:40,639 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 00:53:40,639 - __main__ - INFO - EXECUTION SUMMARY
+2026-03-27 00:53:40,640 - __main__ - INFO - ====================================================================================================
+2026-03-27 00:53:40,644 - __main__ - INFO - [SUCCESS] Framework execution SUCCEEDED
+2026-03-27 00:53:40,645 - __main__ - INFO - 
+  Data Loaded: 925 records
+2026-03-27 00:53:40,646 - __main__ - INFO - 
+  Quality Validation: 4 passed, 1 failed
+2026-03-27 00:53:40,647 - __main__ - INFO - 
+  CDC Operations: 925 inserts, 45 updates, 12 expires
+2026-03-27 00:53:40,648 - __main__ - INFO - 
+  Warnings: 1
+2026-03-27 00:53:40,649 - __main__ - WARNING -     - Quality checks failed: 1
+2026-03-27 00:53:40,649 - __main__ - INFO - 
+  Reports saved to: c:\Users\User\OneDrive\Documents\output\reports
+2026-03-27 00:53:40,650 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 12:10:25,717 - __main__ - INFO - Using default input file: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 12:10:29,535 - __main__ - INFO - Project root: C:\Users\User\OneDrive\Documents
+2026-03-27 12:10:29,535 - __main__ - INFO - Input file: C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-03-27 12:10:29,536 - msrb_framework.orchestrator - INFO - Framework initialized for project root: C:\Users\User\OneDrive\Documents
+2026-03-27 12:10:29,536 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 12:10:29,536 - __main__ - INFO - STARTING FRAMEWORK EXECUTION
+2026-03-27 12:10:29,536 - __main__ - INFO - ====================================================================================================
+
+2026-03-27 12:10:29,536 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 12:10:29,536 - msrb_framework.orchestrator - INFO - MSRB CDC FRAMEWORK - WORKFLOW EXECUTION STARTED
+2026-03-27 12:10:29,536 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 12:10:29,536 - msrb_framework.orchestrator - INFO - 
+[STEP 1] Verifying input file...
+2026-03-27 12:10:29,536 - msrb_framework.orchestrator - INFO - [OK] Input file verified: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 12:10:29,536 - msrb_framework.orchestrator - INFO -   File size: 51,254 bytes
+2026-03-27 12:10:29,536 - msrb_framework.orchestrator - INFO - 
+[STEP 2] Loading data from input file...
+2026-03-27 12:10:29,568 - msrb_framework.orchestrator - INFO - [OK] Data loaded successfully
+2026-03-27 12:10:29,568 - msrb_framework.orchestrator - INFO -   Total records: 925
+2026-03-27 12:10:29,568 - msrb_framework.orchestrator - INFO -   Columns: 4
+2026-03-27 12:10:29,569 - msrb_framework.orchestrator - INFO -   Sample columns: Firm Name, MSRB ID, State...
+2026-03-27 12:10:29,569 - msrb_framework.reporting - INFO - Data load results recorded: 925 records loaded
+2026-03-27 12:10:29,569 - msrb_framework.orchestrator - INFO - 
+[STEP 3] Executing data quality validation...
+2026-03-27 12:10:29,569 - msrb_framework.orchestrator - INFO - [OK] Data quality validation completed
+2026-03-27 12:10:29,569 - msrb_framework.orchestrator - INFO -   Checks run: 5
+2026-03-27 12:10:29,569 - msrb_framework.orchestrator - INFO -   Checks passed: 4
+2026-03-27 12:10:29,569 - msrb_framework.orchestrator - INFO -   Checks failed: 1
+2026-03-27 12:10:29,570 - msrb_framework.reporting - INFO - Quality validation results recorded: FAILED
+2026-03-27 12:10:29,570 - msrb_framework.orchestrator - WARNING - Data quality validation failed: 1 check(s) failed
+2026-03-27 12:10:29,570 - msrb_framework.orchestrator - INFO - 
+[STEP 4] Executing CDC operations...
+2026-03-27 12:10:29,570 - msrb_framework.orchestrator - INFO - [OK] CDC operations completed
+2026-03-27 12:10:29,570 - msrb_framework.orchestrator - INFO -   Inserts: 925
+2026-03-27 12:10:29,570 - msrb_framework.orchestrator - INFO -   Updates: 45
+2026-03-27 12:10:29,571 - msrb_framework.orchestrator - INFO -   Expires: 12
+2026-03-27 12:10:29,571 - msrb_framework.reporting - INFO - CDC results recorded: 925 inserts, 45 updates, 12 expires
+2026-03-27 12:10:29,571 - msrb_framework.orchestrator - INFO - 
+[STEP 5] Generating reports...
+2026-03-27 12:10:29,573 - msrb_framework.orchestrator - ERROR - [ERROR] Report generation failed: 'charmap' codec can't encode character '\u2713' in position 1096: character maps to <undefined>
+2026-03-27 12:10:29,573 - msrb_framework.reporting - INFO - Execution status: SUCCESS
+2026-03-27 12:10:29,573 - msrb_framework.orchestrator - INFO - 
+====================================================================================================
+2026-03-27 12:10:29,573 - msrb_framework.orchestrator - INFO - WORKFLOW EXECUTION COMPLETED SUCCESSFULLY
+2026-03-27 12:10:29,573 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 12:10:29,574 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 12:10:29,574 - __main__ - INFO - EXECUTION SUMMARY
+2026-03-27 12:10:29,574 - __main__ - INFO - ====================================================================================================
+2026-03-27 12:10:29,574 - __main__ - INFO - [SUCCESS] Framework execution SUCCEEDED
+2026-03-27 12:10:29,574 - __main__ - INFO - 
+  Data Loaded: 925 records
+2026-03-27 12:10:29,574 - __main__ - INFO - 
+  Quality Validation: 4 passed, 1 failed
+2026-03-27 12:10:29,575 - __main__ - INFO - 
+  CDC Operations: 925 inserts, 45 updates, 12 expires
+2026-03-27 12:10:29,575 - __main__ - INFO - 
+  Warnings: 1
+2026-03-27 12:10:29,575 - __main__ - WARNING -     - Quality checks failed: 1
+2026-03-27 12:10:29,575 - __main__ - INFO - 
+  Reports saved to: C:\Users\User\OneDrive\Documents\output\reports
+2026-03-27 12:10:29,575 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 12:10:50,892 - __main__ - INFO - Using default input file: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 12:10:51,544 - __main__ - INFO - Project root: C:\Users\User\OneDrive\Documents
+2026-03-27 12:10:51,544 - __main__ - INFO - Input file: C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-03-27 12:10:51,545 - msrb_framework.orchestrator - INFO - Framework initialized for project root: C:\Users\User\OneDrive\Documents
+2026-03-27 12:10:51,545 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 12:10:51,545 - __main__ - INFO - STARTING FRAMEWORK EXECUTION
+2026-03-27 12:10:51,545 - __main__ - INFO - ====================================================================================================
+
+2026-03-27 12:10:51,545 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 12:10:51,546 - msrb_framework.orchestrator - INFO - MSRB CDC FRAMEWORK - WORKFLOW EXECUTION STARTED
+2026-03-27 12:10:51,546 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 12:10:51,546 - msrb_framework.orchestrator - INFO - 
+[STEP 1] Verifying input file...
+2026-03-27 12:10:51,546 - msrb_framework.orchestrator - INFO - [OK] Input file verified: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 12:10:51,546 - msrb_framework.orchestrator - INFO -   File size: 51,254 bytes
+2026-03-27 12:10:51,546 - msrb_framework.orchestrator - INFO - 
+[STEP 2] Loading data from input file...
+2026-03-27 12:10:51,552 - msrb_framework.orchestrator - INFO - [OK] Data loaded successfully
+2026-03-27 12:10:51,553 - msrb_framework.orchestrator - INFO -   Total records: 925
+2026-03-27 12:10:51,553 - msrb_framework.orchestrator - INFO -   Columns: 4
+2026-03-27 12:10:51,553 - msrb_framework.orchestrator - INFO -   Sample columns: Firm Name, MSRB ID, State...
+2026-03-27 12:10:51,553 - msrb_framework.reporting - INFO - Data load results recorded: 925 records loaded
+2026-03-27 12:10:51,553 - msrb_framework.orchestrator - INFO - 
+[STEP 3] Executing data quality validation...
+2026-03-27 12:10:51,553 - msrb_framework.orchestrator - INFO - [OK] Data quality validation completed
+2026-03-27 12:10:51,553 - msrb_framework.orchestrator - INFO -   Checks run: 5
+2026-03-27 12:10:51,553 - msrb_framework.orchestrator - INFO -   Checks passed: 4
+2026-03-27 12:10:51,553 - msrb_framework.orchestrator - INFO -   Checks failed: 1
+2026-03-27 12:10:51,553 - msrb_framework.reporting - INFO - Quality validation results recorded: FAILED
+2026-03-27 12:10:51,554 - msrb_framework.orchestrator - WARNING - Data quality validation failed: 1 check(s) failed
+2026-03-27 12:10:51,554 - msrb_framework.orchestrator - INFO - 
+[STEP 4] Executing CDC operations...
+2026-03-27 12:10:51,554 - msrb_framework.orchestrator - INFO - [OK] CDC operations completed
+2026-03-27 12:10:51,554 - msrb_framework.orchestrator - INFO -   Inserts: 925
+2026-03-27 12:10:51,554 - msrb_framework.orchestrator - INFO -   Updates: 45
+2026-03-27 12:10:51,554 - msrb_framework.orchestrator - INFO -   Expires: 12
+2026-03-27 12:10:51,554 - msrb_framework.reporting - INFO - CDC results recorded: 925 inserts, 45 updates, 12 expires
+2026-03-27 12:10:51,554 - msrb_framework.orchestrator - INFO - 
+[STEP 5] Generating reports...
+2026-03-27 12:10:51,555 - msrb_framework.orchestrator - ERROR - [ERROR] Report generation failed: 'charmap' codec can't encode character '\u2713' in position 1096: character maps to <undefined>
+2026-03-27 12:10:51,555 - msrb_framework.reporting - INFO - Execution status: SUCCESS
+2026-03-27 12:10:51,555 - msrb_framework.orchestrator - INFO - 
+====================================================================================================
+2026-03-27 12:10:51,555 - msrb_framework.orchestrator - INFO - WORKFLOW EXECUTION COMPLETED SUCCESSFULLY
+2026-03-27 12:10:51,555 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 12:10:51,555 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 12:10:51,555 - __main__ - INFO - EXECUTION SUMMARY
+2026-03-27 12:10:51,556 - __main__ - INFO - ====================================================================================================
+2026-03-27 12:10:51,556 - __main__ - INFO - [SUCCESS] Framework execution SUCCEEDED
+2026-03-27 12:10:51,556 - __main__ - INFO - 
+  Data Loaded: 925 records
+2026-03-27 12:10:51,556 - __main__ - INFO - 
+  Quality Validation: 4 passed, 1 failed
+2026-03-27 12:10:51,556 - __main__ - INFO - 
+  CDC Operations: 925 inserts, 45 updates, 12 expires
+2026-03-27 12:10:51,556 - __main__ - INFO - 
+  Warnings: 1
+2026-03-27 12:10:51,556 - __main__ - WARNING -     - Quality checks failed: 1
+2026-03-27 12:10:51,556 - __main__ - INFO - 
+  Reports saved to: C:\Users\User\OneDrive\Documents\output\reports
+2026-03-27 12:10:51,556 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 12:13:19,880 - __main__ - INFO - Using default input file: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 12:13:20,554 - __main__ - INFO - Project root: C:\Users\User\OneDrive\Documents
+2026-03-27 12:13:20,554 - __main__ - INFO - Input file: C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-03-27 12:13:20,555 - msrb_framework.orchestrator - INFO - Framework initialized for project root: C:\Users\User\OneDrive\Documents
+2026-03-27 12:13:20,555 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 12:13:20,555 - __main__ - INFO - STARTING FRAMEWORK EXECUTION
+2026-03-27 12:13:20,555 - __main__ - INFO - ====================================================================================================
+
+2026-03-27 12:13:20,555 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 12:13:20,556 - msrb_framework.orchestrator - INFO - MSRB CDC FRAMEWORK - WORKFLOW EXECUTION STARTED
+2026-03-27 12:13:20,556 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 12:13:20,556 - msrb_framework.orchestrator - INFO - 
+[STEP 1] Verifying input file...
+2026-03-27 12:13:20,556 - msrb_framework.orchestrator - INFO - [OK] Input file verified: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 12:13:20,556 - msrb_framework.orchestrator - INFO -   File size: 51,254 bytes
+2026-03-27 12:13:20,556 - msrb_framework.orchestrator - INFO - 
+[STEP 2] Loading data from input file...
+2026-03-27 12:13:20,563 - msrb_framework.orchestrator - INFO - [OK] Data loaded successfully
+2026-03-27 12:13:20,563 - msrb_framework.orchestrator - INFO -   Total records: 925
+2026-03-27 12:13:20,563 - msrb_framework.orchestrator - INFO -   Columns: 4
+2026-03-27 12:13:20,563 - msrb_framework.orchestrator - INFO -   Sample columns: Firm Name, MSRB ID, State...
+2026-03-27 12:13:20,563 - msrb_framework.reporting - INFO - Data load results recorded: 925 records loaded
+2026-03-27 12:13:20,563 - msrb_framework.orchestrator - INFO - 
+[STEP 3] Executing data quality validation...
+2026-03-27 12:13:20,563 - msrb_framework.orchestrator - INFO - [OK] Data quality validation completed
+2026-03-27 12:13:20,564 - msrb_framework.orchestrator - INFO -   Checks run: 5
+2026-03-27 12:13:20,564 - msrb_framework.orchestrator - INFO -   Checks passed: 4
+2026-03-27 12:13:20,564 - msrb_framework.orchestrator - INFO -   Checks failed: 1
+2026-03-27 12:13:20,564 - msrb_framework.reporting - INFO - Quality validation results recorded: FAILED
+2026-03-27 12:13:20,564 - msrb_framework.orchestrator - WARNING - Data quality validation failed: 1 check(s) failed
+2026-03-27 12:13:20,564 - msrb_framework.orchestrator - INFO - 
+[STEP 4] Executing CDC operations...
+2026-03-27 12:13:20,564 - msrb_framework.orchestrator - INFO - [OK] CDC operations completed
+2026-03-27 12:13:20,564 - msrb_framework.orchestrator - INFO -   Inserts: 925
+2026-03-27 12:13:20,564 - msrb_framework.orchestrator - INFO -   Updates: 45
+2026-03-27 12:13:20,565 - msrb_framework.orchestrator - INFO -   Expires: 12
+2026-03-27 12:13:20,565 - msrb_framework.reporting - INFO - CDC results recorded: 925 inserts, 45 updates, 12 expires
+2026-03-27 12:13:20,565 - msrb_framework.orchestrator - INFO - 
+[STEP 5] Generating reports...
+2026-03-27 12:13:20,566 - msrb_framework.reporting - INFO - Execution summary saved to C:\Users\User\OneDrive\Documents\output\reports\execution_summary_20260327_121320.txt
+2026-03-27 12:13:20,568 - msrb_framework.reporting - INFO - HTML report generated: C:\Users\User\OneDrive\Documents\output\reports\execution_report_20260327_121320.html
+2026-03-27 12:13:20,568 - msrb_framework.orchestrator - INFO - [OK] Reports generated successfully
+2026-03-27 12:13:20,568 - msrb_framework.reporting - INFO - Execution status: SUCCESS
+2026-03-27 12:13:20,568 - msrb_framework.orchestrator - INFO - 
+====================================================================================================
+2026-03-27 12:13:20,568 - msrb_framework.orchestrator - INFO - WORKFLOW EXECUTION COMPLETED SUCCESSFULLY
+2026-03-27 12:13:20,569 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 12:13:20,569 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 12:13:20,569 - __main__ - INFO - EXECUTION SUMMARY
+2026-03-27 12:13:20,569 - __main__ - INFO - ====================================================================================================
+2026-03-27 12:13:20,569 - __main__ - INFO - [SUCCESS] Framework execution SUCCEEDED
+2026-03-27 12:13:20,569 - __main__ - INFO - 
+  Data Loaded: 925 records
+2026-03-27 12:13:20,569 - __main__ - INFO - 
+  Quality Validation: 4 passed, 1 failed
+2026-03-27 12:13:20,569 - __main__ - INFO - 
+  CDC Operations: 925 inserts, 45 updates, 12 expires
+2026-03-27 12:13:20,569 - __main__ - INFO - 
+  Warnings: 1
+2026-03-27 12:13:20,570 - __main__ - WARNING -     - Quality checks failed: 1
+2026-03-27 12:13:20,570 - __main__ - INFO - 
+  Reports saved to: C:\Users\User\OneDrive\Documents\output\reports
+2026-03-27 12:13:20,570 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 12:19:31,216 - __main__ - INFO - Using default input file: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 12:19:31,887 - __main__ - INFO - Project root: C:\Users\User\OneDrive\Documents
+2026-03-27 12:19:31,887 - __main__ - INFO - Input file: C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-03-27 12:19:31,889 - msrb_framework.orchestrator - INFO - Framework initialized for project root: C:\Users\User\OneDrive\Documents
+2026-03-27 12:19:31,889 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 12:19:31,889 - __main__ - INFO - STARTING FRAMEWORK EXECUTION
+2026-03-27 12:19:31,890 - __main__ - INFO - ====================================================================================================
+
+2026-03-27 12:19:31,890 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 12:19:31,890 - msrb_framework.orchestrator - INFO - MSRB CDC FRAMEWORK - WORKFLOW EXECUTION STARTED
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO - 
+[STEP 1] Verifying input file...
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO - [OK] Input file verified: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO -   File size: 51,254 bytes
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO - 
+[STEP 2] Loading data from input file...
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO - [OK] Data loaded successfully
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO -   Total records: 925
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO -   Columns: 4
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO -   Sample columns: Firm Name, MSRB ID, State...
+2026-03-27 12:19:31,891 - msrb_framework.reporting - INFO - Data load results recorded: 925 records loaded
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO - 
+[STEP 3] Executing data quality validation...
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO - [OK] Data quality validation completed
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO -   Checks run: 5
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO -   Checks passed: 4
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO -   Checks failed: 1
+2026-03-27 12:19:31,891 - msrb_framework.reporting - INFO - Quality validation results recorded: FAILED
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - WARNING - Data quality validation failed: 1 check(s) failed
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO - 
+[STEP 4] Executing CDC operations...
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO - [OK] CDC operations completed
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO -   Inserts: 925
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO -   Updates: 45
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO -   Expires: 12
+2026-03-27 12:19:31,891 - msrb_framework.reporting - INFO - CDC results recorded: 925 inserts, 45 updates, 12 expires
+2026-03-27 12:19:31,891 - msrb_framework.orchestrator - INFO - 
+[STEP 5] Generating reports...
+2026-03-27 12:19:31,891 - msrb_framework.reporting - INFO - Execution status: SUCCESS
+2026-03-27 12:19:31,906 - msrb_framework.reporting - INFO - Execution summary saved to C:\Users\User\OneDrive\Documents\output\reports\execution_summary_20260327_121931.txt
+2026-03-27 12:19:31,911 - msrb_framework.reporting - INFO - HTML report generated: C:\Users\User\OneDrive\Documents\output\reports\execution_report_20260327_121931.html
+2026-03-27 12:19:31,911 - msrb_framework.orchestrator - INFO - [OK] Reports generated successfully
+2026-03-27 12:19:31,912 - msrb_framework.orchestrator - INFO - 
+====================================================================================================
+2026-03-27 12:19:31,912 - msrb_framework.orchestrator - INFO - WORKFLOW EXECUTION COMPLETED SUCCESSFULLY
+2026-03-27 12:19:31,912 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 12:19:31,912 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 12:19:31,913 - __main__ - INFO - EXECUTION SUMMARY
+2026-03-27 12:19:31,913 - __main__ - INFO - ====================================================================================================
+2026-03-27 12:19:31,913 - __main__ - INFO - [SUCCESS] Framework execution SUCCEEDED
+2026-03-27 12:19:31,913 - __main__ - INFO - 
+  Data Loaded: 925 records
+2026-03-27 12:19:31,914 - __main__ - INFO - 
+  Quality Validation: 4 passed, 1 failed
+2026-03-27 12:19:31,914 - __main__ - INFO - 
+  CDC Operations: 925 inserts, 45 updates, 12 expires
+2026-03-27 12:19:31,914 - __main__ - INFO - 
+  Warnings: 1
+2026-03-27 12:19:31,914 - __main__ - WARNING -     - Quality checks failed: 1
+2026-03-27 12:19:31,915 - __main__ - INFO - 
+  Reports saved to: C:\Users\User\OneDrive\Documents\output\reports
+2026-03-27 12:19:31,915 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 14:39:49,448 - __main__ - INFO - Using default input file: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 14:39:50,185 - __main__ - INFO - Project root: c:\Users\User\OneDrive\Documents
+2026-03-27 14:39:50,185 - __main__ - INFO - Input file: C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-03-27 14:39:50,185 - msrb_framework.orchestrator - INFO - Framework initialized for project root: c:\Users\User\OneDrive\Documents
+2026-03-27 14:39:50,185 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 14:39:50,185 - __main__ - INFO - STARTING FRAMEWORK EXECUTION
+2026-03-27 14:39:50,185 - __main__ - INFO - ====================================================================================================
+
+2026-03-27 14:39:50,185 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 14:39:50,185 - msrb_framework.orchestrator - INFO - MSRB CDC FRAMEWORK - WORKFLOW EXECUTION STARTED
+2026-03-27 14:39:50,185 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 14:39:50,200 - msrb_framework.orchestrator - INFO - 
+[STEP 1] Verifying input file...
+2026-03-27 14:39:50,200 - msrb_framework.orchestrator - INFO - [OK] Input file verified: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 14:39:50,201 - msrb_framework.orchestrator - INFO -   File size: 51,254 bytes
+2026-03-27 14:39:50,201 - msrb_framework.orchestrator - INFO - 
+[STEP 2] Loading data from input file...
+2026-03-27 14:39:50,206 - msrb_framework.orchestrator - INFO - [OK] Data loaded successfully
+2026-03-27 14:39:50,206 - msrb_framework.orchestrator - INFO -   Total records: 925
+2026-03-27 14:39:50,206 - msrb_framework.orchestrator - INFO -   Columns: 4
+2026-03-27 14:39:50,206 - msrb_framework.orchestrator - INFO -   Sample columns: Firm Name, MSRB ID, State...
+2026-03-27 14:39:50,206 - msrb_framework.reporting - INFO - Data load results recorded: 925 records loaded
+2026-03-27 14:39:50,206 - msrb_framework.orchestrator - INFO - 
+[STEP 3] Executing data quality validation...
+2026-03-27 14:39:50,211 - msrb_framework.orchestrator - INFO - [OK] Data quality validation completed
+2026-03-27 14:39:50,211 - msrb_framework.orchestrator - INFO -   Checks run: 5
+2026-03-27 14:39:50,211 - msrb_framework.orchestrator - INFO -   Checks passed: 4
+2026-03-27 14:39:50,214 - msrb_framework.orchestrator - INFO -   Checks failed: 1
+2026-03-27 14:39:50,215 - msrb_framework.reporting - INFO - Quality validation results recorded: FAILED
+2026-03-27 14:39:50,215 - msrb_framework.orchestrator - WARNING - Data quality validation failed: 1 check(s) failed
+2026-03-27 14:39:50,216 - msrb_framework.orchestrator - INFO - 
+[STEP 4] Executing CDC operations...
+2026-03-27 14:39:50,217 - msrb_framework.orchestrator - INFO - [OK] CDC operations completed
+2026-03-27 14:39:50,217 - msrb_framework.orchestrator - INFO -   Inserts: 925
+2026-03-27 14:39:50,218 - msrb_framework.orchestrator - INFO -   Updates: 45
+2026-03-27 14:39:50,219 - msrb_framework.orchestrator - INFO -   Expires: 12
+2026-03-27 14:39:50,219 - msrb_framework.reporting - INFO - CDC results recorded: 925 inserts, 45 updates, 12 expires
+2026-03-27 14:39:50,220 - msrb_framework.orchestrator - INFO - 
+[STEP 5] Generating reports...
+2026-03-27 14:39:50,220 - msrb_framework.reporting - INFO - Execution status: SUCCESS
+2026-03-27 14:39:50,233 - msrb_framework.reporting - INFO - Execution summary saved to c:\Users\User\OneDrive\Documents\output\reports\execution_summary_20260327_143950.txt
+2026-03-27 14:39:50,235 - msrb_framework.reporting - INFO - HTML report generated: c:\Users\User\OneDrive\Documents\output\reports\execution_report_20260327_143950.html
+2026-03-27 14:39:50,236 - msrb_framework.orchestrator - INFO - [OK] Reports generated successfully
+2026-03-27 14:39:50,237 - msrb_framework.orchestrator - INFO - 
+====================================================================================================
+2026-03-27 14:39:50,238 - msrb_framework.orchestrator - INFO - WORKFLOW EXECUTION COMPLETED SUCCESSFULLY
+2026-03-27 14:39:50,239 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 14:39:50,240 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 14:39:50,240 - __main__ - INFO - EXECUTION SUMMARY
+2026-03-27 14:39:50,240 - __main__ - INFO - ====================================================================================================
+2026-03-27 14:39:50,240 - __main__ - INFO - [SUCCESS] Framework execution SUCCEEDED
+2026-03-27 14:39:50,240 - __main__ - INFO - 
+  Data Loaded: 925 records
+2026-03-27 14:39:50,240 - __main__ - INFO - 
+  Quality Validation: 4 passed, 1 failed
+2026-03-27 14:39:50,240 - __main__ - INFO - 
+  CDC Operations: 925 inserts, 45 updates, 12 expires
+2026-03-27 14:39:50,247 - __main__ - INFO - 
+  Warnings: 1
+2026-03-27 14:39:50,248 - __main__ - WARNING -     - Quality checks failed: 1
+2026-03-27 14:39:50,249 - __main__ - INFO - 
+  Reports saved to: c:\Users\User\OneDrive\Documents\output\reports
+2026-03-27 14:39:50,249 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 14:43:01,697 - __main__ - INFO - Using default input file: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 14:43:02,363 - __main__ - INFO - Project root: c:\Users\User\OneDrive\Documents
+2026-03-27 14:43:02,363 - __main__ - INFO - Input file: C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-03-27 14:43:02,363 - msrb_framework.orchestrator - INFO - Framework initialized for project root: c:\Users\User\OneDrive\Documents
+2026-03-27 14:43:02,363 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 14:43:02,363 - __main__ - INFO - STARTING FRAMEWORK EXECUTION
+2026-03-27 14:43:02,363 - __main__ - INFO - ====================================================================================================
+
+2026-03-27 14:43:02,363 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 14:43:02,363 - msrb_framework.orchestrator - INFO - MSRB CDC FRAMEWORK - WORKFLOW EXECUTION STARTED
+2026-03-27 14:43:02,363 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 14:43:02,363 - msrb_framework.orchestrator - INFO - 
+[STEP 1] Verifying input file...
+2026-03-27 14:43:02,363 - msrb_framework.orchestrator - INFO - [OK] Input file verified: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 14:43:02,363 - msrb_framework.orchestrator - INFO -   File size: 51,269 bytes
+2026-03-27 14:43:02,363 - msrb_framework.orchestrator - INFO - 
+[STEP 2] Loading data from input file...
+2026-03-27 14:43:02,397 - msrb_framework.orchestrator - INFO - [OK] Data loaded successfully
+2026-03-27 14:43:02,398 - msrb_framework.orchestrator - INFO -   Total records: 925
+2026-03-27 14:43:02,398 - msrb_framework.orchestrator - INFO -   Columns: 4
+2026-03-27 14:43:02,398 - msrb_framework.orchestrator - INFO -   Sample columns: Firm Name, MSRB ID, State...
+2026-03-27 14:43:02,398 - msrb_framework.reporting - INFO - Data load results recorded: 925 records loaded
+2026-03-27 14:43:02,398 - msrb_framework.orchestrator - INFO - 
+[STEP 3] Executing data quality validation...
+2026-03-27 14:43:02,398 - msrb_framework.orchestrator - INFO - [OK] Data quality validation completed
+2026-03-27 14:43:02,398 - msrb_framework.orchestrator - INFO -   Checks run: 5
+2026-03-27 14:43:02,398 - msrb_framework.orchestrator - INFO -   Checks passed: 4
+2026-03-27 14:43:02,398 - msrb_framework.orchestrator - INFO -   Checks failed: 1
+2026-03-27 14:43:02,398 - msrb_framework.reporting - INFO - Quality validation results recorded: FAILED
+2026-03-27 14:43:02,398 - msrb_framework.orchestrator - WARNING - Data quality validation failed: 1 check(s) failed
+2026-03-27 14:43:02,398 - msrb_framework.orchestrator - INFO - 
+[STEP 4] Executing CDC operations...
+2026-03-27 14:43:02,405 - msrb_framework.orchestrator - INFO - [OK] CDC operations completed
+2026-03-27 14:43:02,405 - msrb_framework.orchestrator - INFO -   Inserts: 925
+2026-03-27 14:43:02,405 - msrb_framework.orchestrator - INFO -   Updates: 45
+2026-03-27 14:43:02,405 - msrb_framework.orchestrator - INFO -   Expires: 12
+2026-03-27 14:43:02,406 - msrb_framework.reporting - INFO - CDC results recorded: 925 inserts, 45 updates, 12 expires
+2026-03-27 14:43:02,406 - msrb_framework.orchestrator - INFO - 
+[STEP 5] Generating reports...
+2026-03-27 14:43:02,406 - msrb_framework.reporting - INFO - Execution status: SUCCESS
+2026-03-27 14:43:02,419 - msrb_framework.reporting - INFO - Execution summary saved to c:\Users\User\OneDrive\Documents\output\reports\execution_summary_20260327_144302.txt
+2026-03-27 14:43:02,420 - msrb_framework.reporting - INFO - HTML report generated: c:\Users\User\OneDrive\Documents\output\reports\execution_report_20260327_144302.html
+2026-03-27 14:43:02,420 - msrb_framework.orchestrator - INFO - [OK] Reports generated successfully
+2026-03-27 14:43:02,420 - msrb_framework.orchestrator - INFO - 
+====================================================================================================
+2026-03-27 14:43:02,426 - msrb_framework.orchestrator - INFO - WORKFLOW EXECUTION COMPLETED SUCCESSFULLY
+2026-03-27 14:43:02,426 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 14:43:02,427 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 14:43:02,427 - __main__ - INFO - EXECUTION SUMMARY
+2026-03-27 14:43:02,427 - __main__ - INFO - ====================================================================================================
+2026-03-27 14:43:02,428 - __main__ - INFO - [SUCCESS] Framework execution SUCCEEDED
+2026-03-27 14:43:02,429 - __main__ - INFO - 
+  Data Loaded: 925 records
+2026-03-27 14:43:02,430 - __main__ - INFO - 
+  Quality Validation: 4 passed, 1 failed
+2026-03-27 14:43:02,431 - __main__ - INFO - 
+  CDC Operations: 925 inserts, 45 updates, 12 expires
+2026-03-27 14:43:02,432 - __main__ - INFO - 
+  Warnings: 1
+2026-03-27 14:43:02,432 - __main__ - WARNING -     - Quality checks failed: 1
+2026-03-27 14:43:02,434 - __main__ - INFO - 
+  Reports saved to: c:\Users\User\OneDrive\Documents\output\reports
+2026-03-27 14:43:02,434 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 14:44:35,213 - __main__ - INFO - Using default input file: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 14:44:35,838 - __main__ - INFO - Project root: c:\Users\User\OneDrive\Documents
+2026-03-27 14:44:35,838 - __main__ - INFO - Input file: C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-03-27 14:44:35,838 - msrb_framework.orchestrator - INFO - Framework initialized for project root: c:\Users\User\OneDrive\Documents
+2026-03-27 14:44:35,838 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 14:44:35,838 - __main__ - INFO - STARTING FRAMEWORK EXECUTION
+2026-03-27 14:44:35,838 - __main__ - INFO - ====================================================================================================
+
+2026-03-27 14:44:35,855 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 14:44:35,855 - msrb_framework.orchestrator - INFO - MSRB CDC FRAMEWORK - WORKFLOW EXECUTION STARTED
+2026-03-27 14:44:35,855 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 14:44:35,855 - msrb_framework.orchestrator - INFO - 
+[STEP 1] Verifying input file...
+2026-03-27 14:44:35,858 - msrb_framework.orchestrator - INFO - [OK] Input file verified: 2026-03-26_MSRBRegistrants.csv
+2026-03-27 14:44:35,858 - msrb_framework.orchestrator - INFO -   File size: 51,269 bytes
+2026-03-27 14:44:35,860 - msrb_framework.orchestrator - INFO - 
+[STEP 2] Loading data from input file...
+2026-03-27 14:44:35,864 - msrb_framework.orchestrator - INFO - [OK] Data loaded successfully
+2026-03-27 14:44:35,864 - msrb_framework.orchestrator - INFO -   Total records: 925
+2026-03-27 14:44:35,864 - msrb_framework.orchestrator - INFO -   Columns: 4
+2026-03-27 14:44:35,864 - msrb_framework.orchestrator - INFO -   Sample columns: Firm Name, MSRB ID, State...
+2026-03-27 14:44:35,869 - msrb_framework.reporting - INFO - Data load results recorded: 925 records loaded
+2026-03-27 14:44:35,869 - msrb_framework.orchestrator - INFO - 
+[STEP 3] Executing data quality validation...
+2026-03-27 14:44:35,870 - msrb_framework.orchestrator - INFO - [OK] Data quality validation completed
+2026-03-27 14:44:35,871 - msrb_framework.orchestrator - INFO -   Checks run: 5
+2026-03-27 14:44:35,872 - msrb_framework.orchestrator - INFO -   Checks passed: 4
+2026-03-27 14:44:35,872 - msrb_framework.orchestrator - INFO -   Checks failed: 1
+2026-03-27 14:44:35,873 - msrb_framework.reporting - INFO - Quality validation results recorded: FAILED
+2026-03-27 14:44:35,873 - msrb_framework.orchestrator - WARNING - Data quality validation failed: 1 check(s) failed
+2026-03-27 14:44:35,874 - msrb_framework.orchestrator - INFO - 
+[STEP 4] Executing CDC operations...
+2026-03-27 14:44:35,875 - msrb_framework.orchestrator - INFO - [OK] CDC operations completed
+2026-03-27 14:44:35,875 - msrb_framework.orchestrator - INFO -   Inserts: 925
+2026-03-27 14:44:35,876 - msrb_framework.orchestrator - INFO -   Updates: 45
+2026-03-27 14:44:35,876 - msrb_framework.orchestrator - INFO -   Expires: 12
+2026-03-27 14:44:35,877 - msrb_framework.reporting - INFO - CDC results recorded: 925 inserts, 45 updates, 12 expires
+2026-03-27 14:44:35,877 - msrb_framework.orchestrator - INFO - 
+[STEP 5] Generating reports...
+2026-03-27 14:44:35,879 - msrb_framework.reporting - INFO - Execution status: SUCCESS
+2026-03-27 14:44:35,885 - msrb_framework.reporting - INFO - Execution summary saved to c:\Users\User\OneDrive\Documents\output\reports\execution_summary_20260327_144435.txt
+2026-03-27 14:44:35,891 - msrb_framework.reporting - INFO - HTML report generated: c:\Users\User\OneDrive\Documents\output\reports\execution_report_20260327_144435.html
+2026-03-27 14:44:35,895 - msrb_framework.orchestrator - INFO - [OK] Reports generated successfully
+2026-03-27 14:44:35,895 - msrb_framework.orchestrator - INFO - 
+====================================================================================================
+2026-03-27 14:44:35,896 - msrb_framework.orchestrator - INFO - WORKFLOW EXECUTION COMPLETED SUCCESSFULLY
+2026-03-27 14:44:35,897 - msrb_framework.orchestrator - INFO - ====================================================================================================
+2026-03-27 14:44:35,899 - __main__ - INFO - 
+====================================================================================================
+2026-03-27 14:44:35,903 - __main__ - INFO - EXECUTION SUMMARY
+2026-03-27 14:44:35,903 - __main__ - INFO - ====================================================================================================
+2026-03-27 14:44:35,904 - __main__ - INFO - [SUCCESS] Framework execution SUCCEEDED
+2026-03-27 14:44:35,905 - __main__ - INFO - 
+  Data Loaded: 925 records
+2026-03-27 14:44:35,906 - __main__ - INFO - 
+  Quality Validation: 4 passed, 1 failed
+2026-03-27 14:44:35,906 - __main__ - INFO - 
+  CDC Operations: 925 inserts, 45 updates, 12 expires
+2026-03-27 14:44:35,907 - __main__ - INFO - 
+  Warnings: 1
+2026-03-27 14:44:35,907 - __main__ - WARNING -     - Quality checks failed: 1
+2026-03-27 14:44:35,908 - __main__ - INFO - 
+  Reports saved to: c:\Users\User\OneDrive\Documents\output\reports
+2026-03-27 14:44:35,908 - __main__ - INFO - 
+====================================================================================================
