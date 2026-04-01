@@ -464,3 +464,146 @@ Overall Status: FAILED
 2026-04-01 06:09:34,398 - __main__ - INFO - Validation summary report exported to ./output/data_quality_report.csv
 2026-04-01 06:09:34,406 - __main__ - INFO - Detailed check results exported to ./output/data_quality_report_detailed.csv
 2026-04-01 06:09:34,412 - __main__ - INFO - Row-level errors exported to ./output/data_quality_errors.csv
+2026-04-01 06:14:07,919 - __main__ - INFO - 
+================================================================================
+2026-04-01 06:14:07,919 - __main__ - INFO - GENERIC DATA QUALITY VALIDATION - C:\Users\User\OneDrive\Documents\py_task\2026-03-31_MSRBDealer.csv
+2026-04-01 06:14:07,919 - __main__ - INFO - ================================================================================
+2026-04-01 06:14:07,924 - __main__ - INFO - 
+[SCHEMA CHECK] Verifying required columns
+2026-04-01 06:14:07,925 - __main__ - INFO - --------------------------------------------------------------------------------
+2026-04-01 06:14:07,926 - __main__ - ERROR - ERROR: Missing required columns: MSRB ID, State, Registrant Type
+2026-04-01 06:14:07,926 - __main__ - INFO - 
+[ROW-LEVEL VALIDATION] Checking each row
+2026-04-01 06:14:07,927 - __main__ - INFO - --------------------------------------------------------------------------------
+2026-04-01 06:14:07,928 - __main__ - ERROR - Error during validation: 'MSRB ID'
+2026-04-01 06:14:07,936 - __main__ - INFO - Validation summary report exported to ./output/data_quality_report.csv
+2026-04-01 06:19:19,940 - __main__ - INFO - 
+================================================================================
+2026-04-01 06:19:19,940 - __main__ - INFO - GENERIC DATA QUALITY VALIDATION - C:\Users\User\OneDrive\Documents\py_task\2026-03-31_MSRBDealer.csv
+2026-04-01 06:19:19,941 - __main__ - INFO - ================================================================================
+2026-04-01 06:19:19,942 - __main__ - INFO - 
+[SCHEMA CHECK] Verifying required columns
+2026-04-01 06:19:19,942 - __main__ - INFO - --------------------------------------------------------------------------------
+2026-04-01 06:19:19,943 - __main__ - INFO - PASS: All 3 required columns found
+2026-04-01 06:19:19,943 - __main__ - INFO - 
+[ROW-LEVEL VALIDATION] Checking each row
+2026-04-01 06:19:19,944 - __main__ - INFO - --------------------------------------------------------------------------------
+2026-04-01 06:19:20,068 - __main__ - INFO - PASS: All 997 rows passed validation
+2026-04-01 06:19:20,069 - __main__ - INFO - 
+[TABLE-LEVEL VALIDATION] Checking uniqueness constraints
+2026-04-01 06:19:20,069 - __main__ - INFO - --------------------------------------------------------------------------------
+2026-04-01 06:19:20,070 - __main__ - INFO - Checking uniqueness for column 'MSRB Number'
+2026-04-01 06:19:20,081 - __main__ - ERROR - ERROR: Duplicate values found in MSRB Number: A4470, A5773, A6980 ... and 120 more
+2026-04-01 06:19:20,081 - __main__ - INFO - Checking uniqueness for column 'EBS ID'
+2026-04-01 06:19:20,083 - __main__ - INFO - PASS: No duplicates in 'EBS ID'
+2026-04-01 06:19:20,083 - __main__ - INFO - 
+================================================================================
+2026-04-01 06:19:20,083 - __main__ - INFO - DATA QUALITY VALIDATION SUMMARY
+2026-04-01 06:19:20,083 - __main__ - INFO - ================================================================================
+2026-04-01 06:19:20,084 - __main__ - INFO - Checks Passed: 3
+2026-04-01 06:19:20,084 - __main__ - INFO - Checks Failed: 1
+2026-04-01 06:19:20,084 - __main__ - INFO - Errors Found:  1
+2026-04-01 06:19:20,085 - __main__ - INFO - Detailed Errors: 0
+2026-04-01 06:19:20,085 - __main__ - INFO - Warnings Found: 0
+2026-04-01 06:19:20,086 - __main__ - ERROR - 
+[ERRORS]
+2026-04-01 06:19:20,086 - __main__ - ERROR -   1. ERROR: Duplicate values found in MSRB Number: A4470, A5773, A6980 ... and 120 more
+2026-04-01 06:19:20,087 - __main__ - INFO - 
+Overall Status: FAILED
+2026-04-01 06:19:20,087 - __main__ - INFO - ================================================================================
+
+2026-04-01 06:19:20,098 - __main__ - INFO - Validation summary report exported to ./output/data_quality_report.csv
+2026-04-01 06:19:20,103 - __main__ - INFO - Detailed check results exported to ./output/data_quality_report_detailed.csv
+2026-04-01 06:22:32,875 - __main__ - INFO - 
+================================================================================
+2026-04-01 06:22:32,875 - __main__ - INFO - GENERIC DATA QUALITY VALIDATION - C:\Users\User\OneDrive\Documents\py_task\2026-03-26_MSRBRegistrants.csv
+2026-04-01 06:22:32,877 - __main__ - INFO - ================================================================================
+2026-04-01 06:22:32,878 - __main__ - INFO - 
+[SCHEMA CHECK] Verifying required columns
+2026-04-01 06:22:32,879 - __main__ - INFO - --------------------------------------------------------------------------------
+2026-04-01 06:22:32,880 - __main__ - INFO - PASS: All 4 required columns found
+2026-04-01 06:22:32,883 - __main__ - INFO - 
+[ROW-LEVEL VALIDATION] Checking each row
+2026-04-01 06:22:32,884 - __main__ - INFO - --------------------------------------------------------------------------------
+2026-04-01 06:22:33,010 - __main__ - ERROR - Row validation failed: 44 error(s) in 43 row(s)
+2026-04-01 06:22:33,011 - __main__ - ERROR - 
+Sample errors (first 5):
+2026-04-01 06:22:33,011 - __main__ - ERROR -   1. Row 25, Column 'Firm Name': Firm Name: Only alphabets, numbers, spaces, and .,&- allowed
+2026-04-01 06:22:33,011 - __main__ - ERROR -   2. Row 70, Column 'State': State: Must be valid US state code
+2026-04-01 06:22:33,012 - __main__ - ERROR -   3. Row 79, Column 'State': State: Must be valid US state code
+2026-04-01 06:22:33,012 - __main__ - ERROR -   4. Row 82, Column 'State': State: Must be valid US state code
+2026-04-01 06:22:33,012 - __main__ - ERROR -   5. Row 90, Column 'Firm Name': Firm Name: Only alphabets, numbers, spaces, and .,&- allowed
+2026-04-01 06:22:33,013 - __main__ - ERROR -   ... and 39 more error(s)
+2026-04-01 06:22:33,013 - __main__ - INFO - 
+[TABLE-LEVEL VALIDATION] Checking uniqueness constraints
+2026-04-01 06:22:33,013 - __main__ - INFO - --------------------------------------------------------------------------------
+2026-04-01 06:22:33,014 - __main__ - INFO - Checking uniqueness for column 'MSRB ID'
+2026-04-01 06:22:33,015 - __main__ - INFO - PASS: No duplicates in 'MSRB ID'
+2026-04-01 06:22:33,015 - __main__ - INFO - 
+================================================================================
+2026-04-01 06:22:33,016 - __main__ - INFO - DATA QUALITY VALIDATION SUMMARY
+2026-04-01 06:22:33,017 - __main__ - INFO - ================================================================================
+2026-04-01 06:22:33,017 - __main__ - INFO - Checks Passed: 2
+2026-04-01 06:22:33,018 - __main__ - INFO - Checks Failed: 1
+2026-04-01 06:22:33,018 - __main__ - INFO - Errors Found:  44
+2026-04-01 06:22:33,019 - __main__ - INFO - Detailed Errors: 44
+2026-04-01 06:22:33,019 - __main__ - INFO - Warnings Found: 0
+2026-04-01 06:22:33,019 - __main__ - ERROR - 
+[ERRORS]
+2026-04-01 06:22:33,020 - __main__ - ERROR -   1. Row 25: Firm Name: Only alphabets, numbers, spaces, and .,&- allowed
+2026-04-01 06:22:33,020 - __main__ - ERROR -   2. Row 70: State: Must be valid US state code
+2026-04-01 06:22:33,021 - __main__ - ERROR -   3. Row 79: State: Must be valid US state code
+2026-04-01 06:22:33,021 - __main__ - ERROR -   4. Row 82: State: Must be valid US state code
+2026-04-01 06:22:33,022 - __main__ - ERROR -   5. Row 90: Firm Name: Only alphabets, numbers, spaces, and .,&- allowed
+2026-04-01 06:22:33,022 - __main__ - ERROR -   6. Row 101: Firm Name: Only alphabets, numbers, spaces, and .,&- allowed
+2026-04-01 06:22:33,023 - __main__ - ERROR -   7. Row 131: Firm Name: Only alphabets, numbers, spaces, and .,&- allowed
+2026-04-01 06:22:33,023 - __main__ - ERROR -   8. Row 134: State: Must be valid US state code
+2026-04-01 06:22:33,023 - __main__ - ERROR -   9. Row 195: Firm Name: Only alphabets, numbers, spaces, and .,&- allowed
+2026-04-01 06:22:33,026 - __main__ - ERROR -   10. Row 217: Firm Name: Only alphabets, numbers, spaces, and .,&- allowed
+2026-04-01 06:22:33,027 - __main__ - ERROR -   ... and 34 more error(s)
+2026-04-01 06:22:33,028 - __main__ - INFO - 
+Overall Status: FAILED
+2026-04-01 06:22:33,028 - __main__ - INFO - ================================================================================
+
+2026-04-01 06:22:33,035 - __main__ - INFO - Validation summary report exported to ./output/data_quality_report.csv
+2026-04-01 06:22:33,043 - __main__ - INFO - Detailed check results exported to ./output/data_quality_report_detailed.csv
+2026-04-01 06:22:33,053 - __main__ - INFO - Row-level errors exported to ./output/data_quality_errors.csv
+2026-04-01 06:26:07,458 - __main__ - INFO - 
+================================================================================
+2026-04-01 06:26:07,459 - __main__ - INFO - GENERIC DATA QUALITY VALIDATION - C:\Users\User\OneDrive\Documents\py_task\2026-03-31_MSRBDealer.csv
+2026-04-01 06:26:07,459 - __main__ - INFO - ================================================================================
+2026-04-01 06:26:07,460 - __main__ - INFO - 
+[SCHEMA CHECK] Verifying required columns
+2026-04-01 06:26:07,460 - __main__ - INFO - --------------------------------------------------------------------------------
+2026-04-01 06:26:07,463 - __main__ - INFO - PASS: All 3 required columns found
+2026-04-01 06:26:07,463 - __main__ - INFO - 
+[ROW-LEVEL VALIDATION] Checking each row
+2026-04-01 06:26:07,468 - __main__ - INFO - --------------------------------------------------------------------------------
+2026-04-01 06:26:07,702 - __main__ - INFO - PASS: All 997 rows passed validation
+2026-04-01 06:26:07,702 - __main__ - INFO - 
+[TABLE-LEVEL VALIDATION] Checking uniqueness constraints
+2026-04-01 06:26:07,702 - __main__ - INFO - --------------------------------------------------------------------------------
+2026-04-01 06:26:07,702 - __main__ - INFO - Checking uniqueness for column 'MSRB Number'
+2026-04-01 06:26:07,718 - __main__ - ERROR - ERROR: Duplicate values found in MSRB Number: A4470, A5773, A6980 ... and 120 more
+2026-04-01 06:26:07,718 - __main__ - INFO - Checking uniqueness for column 'EBS ID'
+2026-04-01 06:26:07,729 - __main__ - INFO - PASS: No duplicates in 'EBS ID'
+2026-04-01 06:26:07,730 - __main__ - INFO - 
+================================================================================
+2026-04-01 06:26:07,731 - __main__ - INFO - DATA QUALITY VALIDATION SUMMARY
+2026-04-01 06:26:07,732 - __main__ - INFO - ================================================================================
+2026-04-01 06:26:07,732 - __main__ - INFO - Checks Passed: 3
+2026-04-01 06:26:07,733 - __main__ - INFO - Checks Failed: 1
+2026-04-01 06:26:07,733 - __main__ - INFO - Errors Found:  1
+2026-04-01 06:26:07,734 - __main__ - INFO - Detailed Errors: 0
+2026-04-01 06:26:07,734 - __main__ - INFO - Warnings Found: 0
+2026-04-01 06:26:07,735 - __main__ - ERROR - 
+[ERRORS]
+2026-04-01 06:26:07,735 - __main__ - ERROR -   1. ERROR: Duplicate values found in MSRB Number: A4470, A5773, A6980 ... and 120 more
+2026-04-01 06:26:07,735 - __main__ - INFO - 
+Overall Status: FAILED
+2026-04-01 06:26:07,736 - __main__ - INFO - ================================================================================
+
+2026-04-01 06:26:07,747 - __main__ - INFO - Validation summary report exported to ./output/data_quality_report.csv
+2026-04-01 06:26:07,755 - __main__ - INFO - Detailed check results exported to ./output/data_quality_report_detailed.csv
+2026-04-01 06:56:50,609 - __main__ - ERROR - Error during validation: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2026-04-01 06:56:50,618 - __main__ - INFO - Validation summary report exported to ./output/data_quality_report.csv
