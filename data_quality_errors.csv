@@ -1,0 +1,45 @@
+Timestamp,row,column,value,error
+2026-04-01T06:09:34.407512,25,Firm Name,"Tavenner Company, (The)","Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,70,State,NM,State: Must be valid US state code
+2026-04-01T06:09:34.407512,79,State,AR,State: Must be valid US state code
+2026-04-01T06:09:34.407512,82,State,DC,State: Must be valid US state code
+2026-04-01T06:09:34.407512,90,Firm Name,Credit Agricole Securities (USA) Inc.,"Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,101,Firm Name,HSBC Securities (USA) Inc.,"Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,131,Firm Name,"US Securities Int'l, Corp","Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,134,State,AR,State: Must be valid US state code
+2026-04-01T06:09:34.407512,195,Firm Name,"TIAA -CREF Indivdl Inst'l Svcs, LLC","Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,217,Firm Name,A.G.P. / Alliance Global Partners Corp.,"Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,238,Firm Name,"First Bankers' Banc Securities, Inc.","Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,271,State,AR,State: Must be valid US state code
+2026-04-01T06:09:34.407512,317,Firm Name,Raymond James (USA) Ltd.,"Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,339,State,VT,State: Must be valid US state code
+2026-04-01T06:09:34.407512,376,MSRB ID,K0403,"MSRB ID: Must be format A or B followed by 4 digits (e.g., A0001)"
+2026-04-01T06:09:34.407512,387,State,AR,State: Must be valid US state code
+2026-04-01T06:09:34.407512,427,State,ID,State: Must be valid US state code
+2026-04-01T06:09:34.407512,433,MSRB ID,K0478,"MSRB ID: Must be format A or B followed by 4 digits (e.g., A0001)"
+2026-04-01T06:09:34.407512,438,Firm Name,United Planners'Fin.Svc.of Ame,"Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,477,State,AR,State: Must be valid US state code
+2026-04-01T06:09:34.407512,503,Firm Name,"Brown, Lisle/Cummings, Inc.","Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,563,State,NH,State: Must be valid US state code
+2026-04-01T06:09:34.407512,573,Firm Name,Sturges Company (The),"Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,576,Firm Name,United Bankers' Bank,"Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,622,State,OK,State: Must be valid US state code
+2026-04-01T06:09:34.407512,692,State,MT,State: Must be valid US state code
+2026-04-01T06:09:34.407512,723,State,VT,State: Must be valid US state code
+2026-04-01T06:09:34.407512,725,State,HI,State: Must be valid US state code
+2026-04-01T06:09:34.407512,726,Firm Name,"Bank of America, NA  / MSD","Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,738,Registrant Type,Bank Dealer/Municipal Advisor,"Registrant Type: Must be one of ['Broker Dealer', 'Broker Dealer/Municipal Advisor', 'Bank Dealer']"
+2026-04-01T06:09:34.407512,739,State,AR,State: Must be valid US state code
+2026-04-01T06:09:34.407512,749,Firm Name,Mirae Asset Securities (USA) Inc.,"Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,771,Firm Name,"Westminster Fin'l. Secs., Inc.","Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,776,Firm Name,Bankers' Bank Investment Dept.,"Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,819,State,OK,State: Must be valid US state code
+2026-04-01T06:09:34.407512,824,Firm Name,"Zions Bancorporation, N.A /MSD","Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,824,Registrant Type,Bank Dealer/Municipal Advisor,"Registrant Type: Must be one of ['Broker Dealer', 'Broker Dealer/Municipal Advisor', 'Bank Dealer']"
+2026-04-01T06:09:34.407512,832,Firm Name,ACA/Prudent Investors Planning Corporation,"Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,833,Firm Name,TD Securities (USA) LLC,"Firm Name: Only alphabets, numbers, spaces, and .,&- allowed"
+2026-04-01T06:09:34.407512,835,State,AR,State: Must be valid US state code
+2026-04-01T06:09:34.407512,861,State,MS,State: Must be valid US state code
+2026-04-01T06:09:34.407512,880,State,MT,State: Must be valid US state code
+2026-04-01T06:09:34.407512,882,State,OK,State: Must be valid US state code
+2026-04-01T06:09:34.407512,914,State,BW,State: Must be valid US state code
