@@ -1,0 +1,21 @@
+PS C:\Users\User\OneDrive\Documents\py_task> & c:/Users/User/OneDrive/Documents/py_task/.venv/Scripts/python.exe c:/Users/User/OneDrive/Documents/py_task/msrb_data_quality_generic.py
+
+================================================================================MSRB DATA QUALITY VALIDATOR
+================================================================================
+Supported formats:
+  - MSRB Registrants: Firm Name, MSRB ID, State, Registrant Type
+  - MSRB Dealer: MSRB Number, Firm Name, EBS ID
+--------------------------------------------------------------------------------Enter the CSV file path to validate: C:\Users\User\OneDrive\Documents\py_task\bd030126.txt
+2026-04-01 11:39:47,741 - __main__ - ERROR - Error during validation: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+
+================================================================================VALIDATION RESULT
+================================================================================File: C:\Users\User\OneDrive\Documents\py_task\bd030126.txt
+Format: UNKNOWN
+Status: FAIL
+Records: 0
+Errors: 1
+================================================================================2026-04-01 11:39:47,787 - __main__ - INFO - Validation summary report exported to ./output/data_quality_report.csv
+
+Validation reports saved to ./output/ directory
+Summary: ./output/data_quality_report.csv
+PS C:\Users\User\OneDrive\Documents\py_task> 
