@@ -1,0 +1,56 @@
+{
+  "description": "Generic Data Quality Validation - Position-Based Configuration",
+  "version": "2.0",
+  "column_checks": [
+    {
+      "column_position": 0,
+      "description": "Column 0 - First column checks",
+      "checks": {
+        "null_check": {
+          "enabled": true,
+          "allow_null": false
+        },
+        "uniqueness_check": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "column_position": 1,
+      "description": "Column 1 - Second column checks",
+      "checks": {
+        "null_check": {
+          "enabled": true,
+          "allow_null": false
+        },
+        "max_length_check": {
+          "enabled": true,
+          "max_length": 150
+        }
+      }
+    },
+    {
+      "column_position": 2,
+      "description": "Column 2 - Third column checks",
+      "checks": {
+        "numeric_only_check": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "column_position": 3,
+      "description": "Column 3 - Fourth column checks",
+      "checks": {
+        "null_check": {
+          "enabled": true,
+          "allow_null": true
+        }
+      }
+    }
+  ],
+  "reporting": {
+    "max_error_samples": 10,
+    "output_directory": "./output"
+  }
+}

@@ -1,0 +1,6 @@
+Column,Check Type,Status,Error Count,Total Records,Pass Rate %,Error Message,Sample Row Indices,Sample Values
+MSRB Number,null_check,PASS,0,997,100.0,✓ No null/empty values found,N/A,N/A
+MSRB Number,uniqueness_check,FAIL,309,997,69.01,Found 309 non-unique values (123 duplicates),"[0, 2, 3, 7, 13, 14, 17, 18, 32, 37]","['Value: A4470 (appears 2x)', 'Value: A5773 (appears 8x)', 'Value: A6980 (appears 2x)', 'Value: A2966 (appears 3x)', 'Value: A7236 (appears 2x)']"
+Firm Name,null_check,PASS,0,997,100.0,✓ No null/empty values found,N/A,N/A
+Firm Name,max_length_check,PASS,0,997,100.0,✓ All values within max length (150),N/A,N/A
+EBS ID,numeric_only_check,FAIL,997,997,0.0,Found 997 non-numeric values,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]","['CABR', 'RMPI', 'TWDS', 'ETCB', 'JACF']"
