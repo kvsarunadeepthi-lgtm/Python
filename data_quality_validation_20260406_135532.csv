@@ -1,0 +1,7 @@
+Column,Check Type,Status,Error Count,Total Records,Pass Rate %,Error Message,Sample Row Indices,Sample Values
+employee_id,null_check,FAIL,1,10,90.0,Found 1 null/empty values,[8],['Row 8']
+employee_id,uniqueness_check,PASS,0,10,100.0,✓ All values are unique,N/A,N/A
+employee_name,null_check,PASS,0,10,100.0,✓ No null/empty values found,N/A,N/A
+employee_name,max_length_check,PASS,0,10,100.0,✓ All values within max length (150),N/A,N/A
+phone_number,numeric_only_check,PASS,0,10,100.0,✓ All values are numeric,N/A,N/A
+department,null_check,PASS,0,10,100.0,✓ No null/empty values found,N/A,N/A
